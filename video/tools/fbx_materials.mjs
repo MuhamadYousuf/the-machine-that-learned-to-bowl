@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+globalThis.self = globalThis; globalThis.window = globalThis;
+globalThis.document = {createElementNS: () => ({style: {}, addEventListener() {}, removeEventListener() {}, setAttribute() {}})};
+const THREE = await import('three');
+const {FBXLoader} = await import('three/examples/jsm/loaders/FBXLoader.js');
+const seen = [];
+THREE.TextureLoader.prototype.load = function (url) { seen.push(url); return new THREE.Texture(); };
+const buf = fs.readFileSync(process.argv[2]);
+const obj = new FBXLoader().parse(buf.buffer.slice(buf.byteOffset, buf.byteOffset + buf.byteLength), '');
+obj.traverse((o) => { if (o.isMesh) { const m = [].concat(o.material); console.log(o.name, m.map((x) => `${x.type}:${x.name} map=${x.map ? 'y' : 'n'}`).join(' | ')); } });
+console.log('texture urls:', [...new Set(seen)]);
+const root = []; obj.traverse((o) => { if (o.isBone && o.parent && !o.parent.isBone) root.push(o.name + ' <- ' + o.parent.name); });
+console.log('root bones:', [...new Set(root)].slice(0, 5));
+const names = new Set(); obj.traverse((o) => { if (o.isBone) names.add(o.name); }); console.log([...names].join(' '));

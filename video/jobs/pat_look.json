@@ -1,0 +1,1 @@
+[{"id":"pat","composition":"Duel-16x9","props":{"file":"overs_pattern_demo.json","batterFile":"batter_pattern_hud.json","overIndex":0,"balls":[],"camera":"sideHalf","speed":1,"accumulate":true,"goodLengthBand":false,"showPattern":true},"out":"out/edit_review/duel/pat.png","still":[640,900]}]

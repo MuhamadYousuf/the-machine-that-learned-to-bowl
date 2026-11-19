@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bc169",
+    "out": "out/stills/look/broadcast_16x9.png",
+    "frames": 1096,
+    "seconds": 4.455
+  },
+  {
+    "id": "bc916",
+    "out": "out/stills/look/broadcast_9x16.png",
+    "frames": 1096,
+    "seconds": 2.441
+  },
+  {
+    "id": "side",
+    "out": "out/stills/look/side_16x9.png",
+    "frames": 382,
+    "seconds": 1.38
+  },
+  {
+    "id": "stump",
+    "out": "out/stills/look/stump_16x9.png",
+    "frames": 382,
+    "seconds": 1.69
+  },
+  {
+    "id": "top",
+    "out": "out/stills/look/top_9x16.png",
+    "frames": 1096,
+    "seconds": 1.562
+  },
+  {
+    "id": "bat",
+    "out": "out/stills/look/batter_16x9.png",
+    "frames": 382,
+    "seconds": 1.425
+  }
+]

@@ -1,0 +1,4 @@
+[
+ {"id":"reel_9x16","composition":"Reel-9x16","props":{"audio":true},"out":"out/film/reel_9x16.mp4"},
+ {"id":"reel_4x5","composition":"Reel-4x5","props":{"audio":true},"out":"out/film/reel_4x5.mp4"}
+]

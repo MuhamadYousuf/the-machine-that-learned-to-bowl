@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Training runs and generated outputs (large; regenerate with scripts/train.py and friends).
+# The two champion brains live in models/.
+runs/
+outputs/
+data/cricsheet/
+
+# Video project: dependencies, renders and generated audio
+video/node_modules/
+video/out/
+video/public/clips/
+video/public/edit/**/*.wav
+video/audio/.venv/
+video/audio/.venv_cb/
+video/audio/cb_install.log
+video/public/reel/*.wav
+video/blender/shots/*/batter.glb
+video/blender/assets/*.hdr
+
+# Third-party Unity Asset Store character and animations: licensed for use, NOT redistributable
+video/public/models/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

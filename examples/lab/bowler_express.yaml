@@ -1,0 +1,6 @@
+name: Express quick
+min_kmh: 125
+max_kmh: 148
+accuracy: international
+swing: some
+bouncer: true

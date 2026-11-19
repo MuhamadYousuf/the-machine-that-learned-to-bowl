@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tail_over11_9x16",
+    "out": "out/renders/duel/tail_over11_9x16.mp4",
+    "frames": 1188,
+    "seconds": 82.456
+  },
+  {
+    "id": "pattern_9x16",
+    "out": "out/renders/duel/pattern_9x16.mp4",
+    "frames": 1107,
+    "seconds": 43.704
+  }
+]

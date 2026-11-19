@@ -1,0 +1,43 @@
+{
+  "voice": "af_heart",
+  "note": "One entry per voiceover line. speed < 1 = slower, more weight. pause = silence after the line (s). scene groups lines that share a visual. Emphasis words are highlighted in captions.",
+  "lines": [
+    {"id": "L01", "scene": "hook", "speed": 0.88, "pause": 0.35, "text": "This bowler has never watched a single game of cricket.", "emph": ["never"]},
+    {"id": "L02", "scene": "hook", "speed": 0.9, "pause": 2.0, "text": "Nobody ever taught it how to bowl.", "emph": ["Nobody"]},
+
+    {"id": "L03", "scene": "chaos", "speed": 0.95, "pause": 0.25, "text": "At the start, it's hopeless.", "emph": ["hopeless"]},
+    {"id": "L04", "scene": "chaos", "speed": 1.02, "pause": 0.7, "text": "Random speeds. Random lengths. It gets smashed all over the ground.", "emph": ["smashed"]},
+
+    {"id": "L05", "scene": "brain", "speed": 0.98, "pause": 0.2, "text": "Inside, there's a tiny brain.", "emph": ["brain"]},
+    {"id": "L06", "scene": "brain", "speed": 1.0, "pause": 0.7, "text": "Eighteen inputs about the batter and the over. Four outputs: speed, length, line, and swing.", "emph": ["Eighteen", "Four"]},
+
+    {"id": "L07", "scene": "evolve", "speed": 0.92, "pause": 0.35, "text": "So I let evolution do the teaching.", "emph": ["evolution"]},
+    {"id": "L08", "scene": "evolve", "speed": 1.0, "pause": 0.3, "text": "A hundred and ninety two brains bowl against three different batters.", "emph": ["ninety two"]},
+    {"id": "L09", "scene": "evolve", "speed": 0.95, "pause": 0.5, "text": "The best ones survive, and breed the next generation.", "emph": ["survive"]},
+    {"id": "L10", "scene": "curve", "speed": 0.95, "pause": 1.0, "text": "Fifteen hundred generations. More than eighty million deliveries.", "emph": ["Fifteen hundred", "eighty million"]},
+
+    {"id": "L11", "scene": "twist", "speed": 0.86, "pause": 0.6, "text": "And then, it started winning. A little too easily.", "emph": ["too easily"]},
+    {"id": "L12", "scene": "cheat", "speed": 0.97, "pause": 0.25, "text": "Look closer. Bouncer. Yorker. Bouncer. Yorker.", "emph": ["Bouncer", "Yorker"]},
+    {"id": "L13", "scene": "cheat", "speed": 1.0, "pause": 0.3, "text": "Flat out, then dead slow. Every dial pinned to the limit.", "emph": ["pinned"]},
+    {"id": "L14", "scene": "cheat", "speed": 0.9, "pause": 1.0, "text": "It hadn't learned to bowl. It had learned to cheat.", "emph": ["cheat"]},
+
+    {"id": "L15", "scene": "fix", "speed": 1.0, "pause": 0.3, "text": "So I fixed the game. The batters now read patterns, and only two bouncers are allowed an over.", "emph": ["fixed", "two bouncers"]},
+    {"id": "L16", "scene": "fix", "speed": 0.88, "pause": 0.8, "text": "Then I started again. From nothing.", "emph": ["nothing"]},
+
+    {"id": "L17", "scene": "rise", "speed": 0.95, "pause": 0.4, "text": "Generation one. Balls scattered everywhere.", "emph": ["one"]},
+    {"id": "L18", "scene": "rise", "speed": 0.92, "pause": 0.9, "text": "Generation fifteen hundred. Every ball, on target.", "emph": ["fifteen hundred", "on target"]},
+
+    {"id": "L19", "scene": "master", "speed": 0.95, "pause": 0.5, "text": "This time, it learned real cricket.", "emph": ["real cricket"]},
+    {"id": "L20", "scene": "tech", "speed": 1.0, "pause": 0.4, "text": "Against the technician, a good length. Over and over. Until he edges one.", "emph": ["good length", "edges"]},
+    {"id": "L21", "scene": "tail", "speed": 1.0, "pause": 0.4, "text": "Against the tailender, full and straight. Trapped in front.", "emph": ["Trapped"]},
+    {"id": "L22", "scene": "slog", "speed": 0.95, "pause": 1.7, "text": "And the slogger? Yorkers. Right at the stumps.", "emph": ["Yorkers"]},
+
+    {"id": "L23", "scene": "think", "speed": 0.97, "pause": 0.8, "text": "You can even watch it think. Every neuron firing, ball by ball.", "emph": ["think"]},
+
+    {"id": "L24", "scene": "result", "speed": 0.95, "pause": 0.4, "text": "The final brain beats every specialist, against every batter.", "emph": ["every specialist"]},
+    {"id": "L25", "scene": "result", "speed": 0.9, "pause": 1.0, "text": "And the cheater? Not even close.", "emph": ["Not even close"]},
+
+    {"id": "L26", "scene": "outro", "speed": 0.88, "pause": 0.5, "text": "No coaching. No examples. Just a reward, and evolution.", "emph": ["evolution"]},
+    {"id": "L27", "scene": "outro", "speed": 0.85, "pause": 2.5, "text": "This is an AI that taught itself to bowl.", "emph": ["taught itself"]}
+  ]
+}

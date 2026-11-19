@@ -1,0 +1,3 @@
+[{"id":"pb","composition":"PitchBuild-9x16","props":{"file":"overs_ga2_champion_slogger.json","overs":30,"ballsPerSecond":8,"colorBy":"outcome"},"out":"out/stills/pb.png","still":[1600]},
+ {"id":"chaos","composition":"Over-16x9","props":{"file":"overs_ga2_typical_gen0.json","overIndex":0,"overCount":3,"balls":[],"camera":"broadcast","speed":1,"accumulate":true,"goodLengthBand":false},"out":"out/stills/chaos.png","still":[1900]},
+ {"id":"sc","composition":"Over-16x9","props":{"file":"overs_ga2_champion_technician.json","overIndex":2,"balls":[3],"camera":"stumpCam","speed":0.25,"accumulate":false,"goodLengthBand":false},"out":"out/test/sidecar_test.mp4"}]

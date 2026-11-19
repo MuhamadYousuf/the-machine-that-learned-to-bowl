@@ -1,0 +1,152 @@
+[
+  {
+    "id": "A2_braincam_tailender_x05_9x16",
+    "out": "out/renders/brain/A2_braincam_tailender_x05_9x16.mp4",
+    "frames": 1313,
+    "seconds": 66.006
+  },
+  {
+    "id": "A2_braincam_v1_technician_16x9",
+    "out": "out/renders/brain/A2_braincam_v1_technician_16x9.mp4",
+    "frames": 1125,
+    "seconds": 74.901
+  },
+  {
+    "id": "A2_braincam_v1_technician_9x16",
+    "out": "out/renders/brain/A2_braincam_v1_technician_9x16.mp4",
+    "frames": 1125,
+    "seconds": 62.483
+  },
+  {
+    "id": "A3_behaviour_swarm_16x9",
+    "out": "out/renders/brain/A3_behaviour_swarm_16x9.mp4",
+    "frames": 1560,
+    "seconds": 126.117
+  },
+  {
+    "id": "A3_behaviour_swarm_9x16",
+    "out": "out/renders/brain/A3_behaviour_swarm_9x16.mp4",
+    "frames": 1560,
+    "seconds": 116.342
+  },
+  {
+    "id": "A4_weight_heatmaps_16x9",
+    "out": "out/renders/brain/A4_weight_heatmaps_16x9.mp4",
+    "frames": 1440,
+    "seconds": 43.85
+  },
+  {
+    "id": "A4_weight_heatmaps_9x16",
+    "out": "out/renders/brain/A4_weight_heatmaps_9x16.mp4",
+    "frames": 1440,
+    "seconds": 43.413
+  },
+  {
+    "id": "A5_decision_length_16x9",
+    "out": "out/renders/brain/A5_decision_length_16x9.mp4",
+    "frames": 1080,
+    "seconds": 29.903
+  },
+  {
+    "id": "A5_decision_length_9x16",
+    "out": "out/renders/brain/A5_decision_length_9x16.mp4",
+    "frames": 1080,
+    "seconds": 29.372
+  },
+  {
+    "id": "A5_decision_speed_16x9",
+    "out": "out/renders/brain/A5_decision_speed_16x9.mp4",
+    "frames": 1080,
+    "seconds": 30.272
+  },
+  {
+    "id": "A5_decision_speed_9x16",
+    "out": "out/renders/brain/A5_decision_speed_9x16.mp4",
+    "frames": 1080,
+    "seconds": 31.482
+  },
+  {
+    "id": "A6_family_tree_16x9",
+    "out": "out/renders/brain/A6_family_tree_16x9.mp4",
+    "frames": 1080,
+    "seconds": 34.179
+  },
+  {
+    "id": "A6_family_tree_9x16",
+    "out": "out/renders/brain/A6_family_tree_9x16.mp4",
+    "frames": 1080,
+    "seconds": 32.746
+  },
+  {
+    "id": "A7a_curve_ga2_16x9",
+    "out": "out/renders/brain/A7a_curve_ga2_16x9.mp4",
+    "frames": 1080,
+    "seconds": 35.328
+  },
+  {
+    "id": "A7a_curve_ga2_9x16",
+    "out": "out/renders/brain/A7a_curve_ga2_9x16.mp4",
+    "frames": 1080,
+    "seconds": 29.744
+  },
+  {
+    "id": "A7b_curve_ga1500_16x9",
+    "out": "out/renders/brain/A7b_curve_ga1500_16x9.mp4",
+    "frames": 1080,
+    "seconds": 36.604
+  },
+  {
+    "id": "A7b_curve_ga1500_9x16",
+    "out": "out/renders/brain/A7b_curve_ga1500_9x16.mp4",
+    "frames": 1080,
+    "seconds": 30.445
+  },
+  {
+    "id": "A9_retest_bars_16x9",
+    "out": "out/renders/brain/A9_retest_bars_16x9.mp4",
+    "frames": 600,
+    "seconds": 16.41
+  },
+  {
+    "id": "A9_retest_bars_9x16",
+    "out": "out/renders/brain/A9_retest_bars_9x16.mp4",
+    "frames": 600,
+    "seconds": 23.6
+  },
+  {
+    "id": "A8_v1_vs_v2_slogger_16x9",
+    "out": "out/renders/brain/A8_v1_vs_v2_slogger_16x9.mp4",
+    "frames": 1125,
+    "seconds": 31.349
+  },
+  {
+    "id": "A8_v1_vs_v2_slogger_9x16",
+    "out": "out/renders/brain/A8_v1_vs_v2_slogger_9x16.mp4",
+    "frames": 1125,
+    "seconds": 30.853
+  },
+  {
+    "id": "A8_v1_vs_v2_technician_16x9",
+    "out": "out/renders/brain/A8_v1_vs_v2_technician_16x9.mp4",
+    "frames": 1125,
+    "seconds": 31.507
+  },
+  {
+    "id": "A8_v1_vs_v2_technician_9x16",
+    "out": "out/renders/brain/A8_v1_vs_v2_technician_9x16.mp4",
+    "frames": 1125,
+    "seconds": 30.513
+  },
+  {
+    "id": "A8_v1_vs_v2_tailender_16x9",
+    "out": "out/renders/brain/A8_v1_vs_v2_tailender_16x9.mp4",
+    "frames": 1125,
+    "seconds": 31.862
+  },
+  {
+    "id": "A8_v1_vs_v2_tailender_9x16",
+    "out": "out/renders/brain/A8_v1_vs_v2_tailender_9x16.mp4",
+    "frames": 1125,
+    "seconds": 31.838
+  }
+]

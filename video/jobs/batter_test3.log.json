@@ -1,0 +1,20 @@
+[
+  {
+    "id": "s_broadcast",
+    "out": "out/edit_review/players/s_broadcast.png",
+    "frames": 360,
+    "seconds": 17.215
+  },
+  {
+    "id": "s_bat_side",
+    "out": "out/edit_review/players/s_bat_side.png",
+    "frames": 360,
+    "seconds": 14.51
+  },
+  {
+    "id": "s_front",
+    "out": "out/edit_review/players/s_front.png",
+    "frames": 360,
+    "seconds": 15.097
+  }
+]

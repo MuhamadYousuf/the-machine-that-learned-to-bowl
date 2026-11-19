@@ -1,0 +1,26 @@
+[
+  {
+    "id": "BrainCam_9x16",
+    "out": "out/stills/brain/BrainCam_9x16.png",
+    "frames": 1113,
+    "seconds": 1.98
+  },
+  {
+    "id": "Heatmaps_16x9",
+    "out": "out/stills/brain/Heatmaps_16x9.png",
+    "frames": 1440,
+    "seconds": 2.225
+  },
+  {
+    "id": "Heatmaps_9x16",
+    "out": "out/stills/brain/Heatmaps_9x16.png",
+    "frames": 1440,
+    "seconds": 1.923
+  },
+  {
+    "id": "Decision_16x9",
+    "out": "out/stills/brain/Decision_16x9.png",
+    "frames": 1080,
+    "seconds": 1.738
+  }
+]

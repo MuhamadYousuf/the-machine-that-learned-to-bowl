@@ -1,0 +1,50 @@
+{
+ "title": "The Machine That Learned to Bowl",
+ "notes": "One vertical film (9:16 reels, 4:5 LinkedIn). Each line is voiced separately with its own emotion. exag = Chatterbox exaggeration (0.25 flat .. 1.0 intense), cfg = pacing (lower = slower, more deliberate), pause = silence after the line in seconds.",
+ "lines": [
+  {"id": "h1", "scene": "hook", "exag": 0.55, "cfg": 0.3, "pause": 0.5, "text": "This ball was bowled by something that has never watched cricket."},
+  {"id": "h2", "scene": "hook", "exag": 0.5, "cfg": 0.35, "pause": 0.35, "text": "No coach. No highlights. Nobody ever told it what a yorker is."},
+  {"id": "h3", "scene": "hook", "exag": 0.85, "cfg": 0.3, "pause": 2.6, "text": "It found one anyway."},
+
+  {"id": "s1", "scene": "sees", "exag": 0.45, "cfg": 0.45, "pause": 0.3, "text": "So how do you teach a machine to bowl?"},
+  {"id": "s2", "scene": "sees", "exag": 0.4, "cfg": 0.45, "pause": 0.2, "text": "First, it has to see. Not with eyes. With numbers."},
+  {"id": "s3", "scene": "sees", "exag": 0.45, "cfg": 0.5, "pause": 0.2, "text": "Who's batting. How confident they look. What it bowled last ball, and the ball before that."},
+  {"id": "s4", "scene": "sees", "exag": 0.5, "cfg": 0.45, "pause": 0.15, "text": "Eighteen numbers go in."},
+  {"id": "s5", "scene": "sees", "exag": 0.6, "cfg": 0.45, "pause": 0.6, "text": "Four come out. Speed. Length. Line. Swing."},
+
+  {"id": "b1", "scene": "brain", "exag": 0.45, "cfg": 0.45, "pause": 0.2, "text": "In between sits a tiny brain. One thousand, one hundred and fifty six numbers, called weights."},
+  {"id": "b2", "scene": "brain", "exag": 0.5, "cfg": 0.45, "pause": 0.5, "text": "Change the weights, and you get a different bowler."},
+  {"id": "b3", "scene": "brain", "exag": 0.35, "cfg": 0.35, "pause": 0.25, "text": "So which weights make a great one?"},
+  {"id": "b4", "scene": "brain", "exag": 0.45, "cfg": 0.3, "pause": 0.9, "text": "Honestly? I had no idea."},
+
+  {"id": "g1", "scene": "gen1", "exag": 0.55, "cfg": 0.45, "pause": 0.3, "text": "So I made a hundred and ninety two completely random brains, and threw them the ball."},
+  {"id": "g2", "scene": "gen1", "exag": 0.75, "cfg": 0.4, "pause": 0.3, "text": "It was carnage. Half volleys. Long hops. Twelve runs an over."},
+  {"id": "g3", "scene": "gen1", "exag": 0.5, "cfg": 0.4, "pause": 0.3, "text": "But a few of them, by pure luck, were slightly less terrible."},
+  {"id": "g4", "scene": "gen1", "exag": 0.5, "cfg": 0.45, "pause": 0.2, "text": "Those became parents. Their children got copies of their brains, with tiny random changes."},
+  {"id": "g5", "scene": "gen1", "exag": 0.55, "cfg": 0.45, "pause": 0.8, "text": "Most were worse. Some were better. Keep the best. Repeat."},
+
+  {"id": "c1", "scene": "cheat", "exag": 0.6, "cfg": 0.4, "pause": 0.3, "text": "Fifteen hundred generations later, my bowler was unplayable."},
+  {"id": "c2", "scene": "cheat", "exag": 0.7, "cfg": 0.4, "pause": 0.2, "text": "Bouncer. Yorker. Bouncer. Yorker. Hundred and fifteen. Hundred and fifty."},
+  {"id": "c3", "scene": "cheat", "exag": 0.55, "cfg": 0.35, "pause": 0.6, "text": "Three bouncers. In one over. That's not even legal."},
+  {"id": "c4", "scene": "cheat", "exag": 0.9, "cfg": 0.3, "pause": 0.5, "text": "It hadn't learned to bowl. It had learned to cheat."},
+  {"id": "c5", "scene": "cheat", "exag": 0.45, "cfg": 0.45, "pause": 0.7, "text": "My batters only judged surprise by how extreme a ball was. So it bowled extremes. Forever."},
+
+  {"id": "f1", "scene": "fix", "exag": 0.6, "cfg": 0.45, "pause": 0.2, "text": "So I changed the rules. Batters now read patterns. Two bouncers per over, like real cricket."},
+  {"id": "f2", "scene": "fix", "exag": 0.5, "cfg": 0.35, "pause": 0.8, "text": "And I started again. From nothing."},
+
+  {"id": "r1", "scene": "rise", "exag": 0.5, "cfg": 0.45, "pause": 0.15, "text": "Generation one. Twelve runs an over."},
+  {"id": "r2", "scene": "rise", "exag": 0.55, "cfg": 0.45, "pause": 0.15, "text": "Generation fifty. Five and a half."},
+  {"id": "r3", "scene": "rise", "exag": 0.6, "cfg": 0.45, "pause": 0.15, "text": "Two fifty. It finds the stumps."},
+  {"id": "r4", "scene": "rise", "exag": 0.75, "cfg": 0.4, "pause": 0.8, "text": "Fifteen hundred. Almost nothing gets away."},
+
+  {"id": "p1", "scene": "plans", "exag": 0.65, "cfg": 0.4, "pause": 0.5, "text": "And this time, it didn't find a trick. It found a plan."},
+  {"id": "p2", "scene": "plans", "exag": 0.6, "cfg": 0.45, "pause": 0.25, "text": "Against the slogger? Yorkers. Full and straight, right at the stumps."},
+  {"id": "p3", "scene": "plans", "exag": 0.55, "cfg": 0.45, "pause": 0.25, "text": "Against the technician? Good length, outside off. Again, and again, and again. Until he edges one."},
+  {"id": "p4", "scene": "plans", "exag": 0.6, "cfg": 0.4, "pause": 0.3, "text": "Against the tail ender? Zero bouncers. My expert plan used two. It knew better."},
+  {"id": "p5", "scene": "plans", "exag": 0.85, "cfg": 0.35, "pause": 1.0, "text": "I wrote a plan for each batter myself. It beat all three."},
+
+  {"id": "o1", "scene": "outro", "exag": 0.45, "cfg": 0.35, "pause": 0.4, "text": "A hundred and ninety two random brains. Fifteen hundred generations. Eighty three million deliveries."},
+  {"id": "o2", "scene": "outro", "exag": 0.45, "cfg": 0.3, "pause": 0.6, "text": "Nobody taught it to bowl."},
+  {"id": "o3", "scene": "outro", "exag": 0.8, "cfg": 0.3, "pause": 2.0, "text": "It learned."}
+ ]
+}

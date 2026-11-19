@@ -1,0 +1,40 @@
+[
+ {
+  "id": "fix_9x16",
+  "composition": "Film-9x16",
+  "props": {
+   "format": "9x16",
+   "audio": false
+  },
+  "out": "out/edit_review/fix_9x16/f.png",
+  "still": [
+   1824,
+   2052,
+   2580,
+   2736,
+   4455,
+   4843,
+   5034,
+   5376
+  ]
+ },
+ {
+  "id": "fix_16x9",
+  "composition": "Film-16x9",
+  "props": {
+   "format": "16x9",
+   "audio": false
+  },
+  "out": "out/edit_review/fix_16x9/f.png",
+  "still": [
+   1824,
+   2052,
+   2580,
+   2736,
+   4455,
+   4843,
+   5034,
+   5376
+  ]
+ }
+]

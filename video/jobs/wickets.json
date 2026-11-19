@@ -1,0 +1,7 @@
+[
+ {"id":"bowled_stump","composition":"Over-16x9","props":{"file":"overs_ga2_champion_slogger.json","overIndex":9,"balls":[2],"camera":"stumpCam","speed":1,"accumulate":false,"goodLengthBand":false},"out":"out/stills/wk/bowled_stump.png","still":[196,215,240]},
+ {"id":"bowled_bc","composition":"Over-9x16","props":{"file":"overs_ga2_champion_slogger.json","overIndex":9,"balls":[2],"camera":"broadcast","speed":1,"accumulate":false,"goodLengthBand":false},"out":"out/stills/wk/bowled_bc.png","still":[240]},
+ {"id":"lbw_side","composition":"Over-16x9","props":{"file":"overs_ga2_champion_tailender.json","overIndex":11,"balls":[3],"camera":"sideOn","speed":1,"accumulate":false,"goodLengthBand":false},"out":"out/stills/wk/lbw_side.png","still":[230]},
+ {"id":"lbw_bat","composition":"Over-16x9","props":{"file":"overs_ga2_champion_tailender.json","overIndex":11,"balls":[3],"camera":"batterEnd","speed":1,"accumulate":false,"goodLengthBand":false},"out":"out/stills/wk/lbw_bat.png","still":[230]},
+ {"id":"cb_bat","composition":"Over-16x9","props":{"file":"overs_ga2_champion_technician.json","overIndex":2,"balls":[3],"camera":"batterEnd","speed":1,"accumulate":false,"goodLengthBand":false},"out":"out/stills/wk/cb_bat.png","still":[192]}
+]

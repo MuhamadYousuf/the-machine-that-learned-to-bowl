@@ -1,0 +1,2548 @@
+{
+ "format": "9x16",
+ "fps": 60,
+ "duration": 107.761,
+ "durationInFrames": 6466,
+ "sections": [
+  {
+   "scene": "hook",
+   "mood": "hook",
+   "start": 0.0,
+   "end": 7.398
+  },
+  {
+   "scene": "chaos",
+   "mood": "chaos",
+   "start": 7.398,
+   "end": 13.837
+  },
+  {
+   "scene": "brain",
+   "mood": "build1",
+   "start": 13.837,
+   "end": 22.101
+  },
+  {
+   "scene": "evolve",
+   "mood": "build1",
+   "start": 22.101,
+   "end": 31.778
+  },
+  {
+   "scene": "curve",
+   "mood": "build2",
+   "start": 31.778,
+   "end": 36.573
+  },
+  {
+   "scene": "twist",
+   "mood": "twist",
+   "start": 36.573,
+   "end": 40.37
+  },
+  {
+   "scene": "cheat",
+   "mood": "cheat",
+   "start": 40.37,
+   "end": 50.999
+  },
+  {
+   "scene": "fix",
+   "mood": "fix",
+   "start": 50.999,
+   "end": 59.643
+  },
+  {
+   "scene": "rise",
+   "mood": "rise",
+   "start": 59.643,
+   "end": 67.085
+  },
+  {
+   "scene": "master",
+   "mood": "hero",
+   "start": 67.085,
+   "end": 69.707
+  },
+  {
+   "scene": "tech",
+   "mood": "hero",
+   "start": 69.707,
+   "end": 74.404
+  },
+  {
+   "scene": "tail",
+   "mood": "hero",
+   "start": 74.404,
+   "end": 77.929
+  },
+  {
+   "scene": "slog",
+   "mood": "hero",
+   "start": 77.929,
+   "end": 82.389
+  },
+  {
+   "scene": "think",
+   "mood": "think",
+   "start": 82.389,
+   "end": 86.883
+  },
+  {
+   "scene": "result",
+   "mood": "result",
+   "start": 86.883,
+   "end": 93.799
+  },
+  {
+   "scene": "outro",
+   "mood": "outro",
+   "start": 93.799,
+   "end": 107.761
+  }
+ ],
+ "shots": [
+  {
+   "scene": "hook",
+   "clip": "R1_hero/slogger_bowled_stumpCam_x01",
+   "start": 0.0,
+   "end": 7.398,
+   "rate": 1.0,
+   "zoom": [
+    1.18,
+    1.0
+   ],
+   "grade": null,
+   "src": 3.715,
+   "file": "clips/R1_hero__slogger_bowled_stumpCam_x01_9x16.mp4"
+  },
+  {
+   "scene": "chaos",
+   "clip": "R6_chaos/gen0_broadcast",
+   "start": 7.398,
+   "end": 10.839,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "grade": null,
+   "src": 2.2,
+   "file": "clips/R6_chaos__gen0_broadcast_9x16.mp4"
+  },
+  {
+   "scene": "chaos",
+   "clip": "R6_chaos/gen0_batterEnd",
+   "start": 10.839,
+   "end": 13.837,
+   "rate": 1.0,
+   "zoom": [
+    1.05,
+    1.0
+   ],
+   "grade": null,
+   "src": 6.9,
+   "file": "clips/R6_chaos__gen0_batterEnd_9x16.mp4"
+  },
+  {
+   "scene": "brain",
+   "clip": "brain/A1_brain_morph",
+   "start": 13.837,
+   "end": 22.101,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/brain__A1_brain_morph_9x16.mp4"
+  },
+  {
+   "scene": "evolve",
+   "clip": "brain/A3_behaviour_swarm",
+   "start": 22.101,
+   "end": 24.462,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/brain__A3_behaviour_swarm_9x16.mp4"
+  },
+  {
+   "scene": "evolve",
+   "clip": "R3_swarm/montage_technician_broadcast",
+   "start": 24.462,
+   "end": 28.498,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "grade": null,
+   "src": 1.632,
+   "file": "clips/R3_swarm__montage_technician_broadcast_9x16.mp4"
+  },
+  {
+   "scene": "evolve",
+   "clip": "brain/A6_family_tree",
+   "start": 28.498,
+   "end": 31.778,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "grade": null,
+   "src": 10.0,
+   "file": "clips/brain__A6_family_tree_9x16.mp4"
+  },
+  {
+   "scene": "curve",
+   "clip": "brain/A7a_curve_ga2",
+   "start": 31.778,
+   "end": 36.573,
+   "rate": 2.6,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/brain__A7a_curve_ga2_9x16.mp4"
+  },
+  {
+   "scene": "twist",
+   "clip": "brain/A7b_curve_ga1500",
+   "start": 36.573,
+   "end": 40.37,
+   "rate": 2.2,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "grade": "red",
+   "src": 2.0,
+   "file": "clips/brain__A7b_curve_ga1500_9x16.mp4"
+  },
+  {
+   "scene": "cheat",
+   "clip": "R5_pitchmap/ga1500_technician",
+   "start": 40.37,
+   "end": 43.811,
+   "rate": 1.4,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "grade": "red",
+   "src": 2.0,
+   "file": "clips/R5_pitchmap__ga1500_technician_9x16.mp4"
+  },
+  {
+   "scene": "cheat",
+   "clip": "brain/A2_braincam_v1_technician",
+   "start": 43.811,
+   "end": 47.374,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "grade": "red",
+   "src": 2.4,
+   "file": "clips/brain__A2_braincam_v1_technician_9x16.mp4"
+  },
+  {
+   "scene": "cheat",
+   "clip": "brain/A8_v1_vs_v2_technician",
+   "start": 47.374,
+   "end": 50.999,
+   "rate": 1.0,
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "grade": "red",
+   "src": 4.0,
+   "file": "clips/brain__A8_v1_vs_v2_technician_9x16.mp4"
+  },
+  {
+   "scene": "fix",
+   "clip": "R2_overs/technician_broadcast",
+   "start": 50.999,
+   "end": 56.869,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "grade": "dim",
+   "src": 2.0,
+   "file": "clips/R2_overs__technician_broadcast_9x16.mp4"
+  },
+  {
+   "scene": "fix",
+   "clip": "R6_chaos/gen0_broadcast",
+   "start": 56.869,
+   "end": 59.643,
+   "rate": 1.0,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "grade": "dim",
+   "src": 12.0,
+   "file": "clips/R6_chaos__gen0_broadcast_9x16.mp4"
+  },
+  {
+   "scene": "rise",
+   "clip": "R3_swarm/gen0001_vs_1500_orbit",
+   "start": 59.643,
+   "end": 67.085,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "grade": null,
+   "src": 2.942,
+   "file": "clips/R3_swarm__gen0001_vs_1500_orbit_9x16.mp4"
+  },
+  {
+   "scene": "master",
+   "clip": "R5_pitchmap/ga2_technician",
+   "start": 67.085,
+   "end": 69.707,
+   "rate": 1.3,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "grade": null,
+   "src": 4.0,
+   "file": "clips/R5_pitchmap__ga2_technician_9x16.mp4"
+  },
+  {
+   "scene": "tech",
+   "clip": "R1_hero/technician_caught_behind_broadcast_x025",
+   "start": 69.707,
+   "end": 74.404,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "grade": null,
+   "src": 0.654,
+   "file": "clips/R1_hero__technician_caught_behind_broadcast_x025_9x16.mp4"
+  },
+  {
+   "scene": "tail",
+   "clip": "R1_hero/tailender_lbw_batterEnd_x025",
+   "start": 74.404,
+   "end": 77.929,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "grade": null,
+   "src": 2.358,
+   "file": "clips/R1_hero__tailender_lbw_batterEnd_x025_9x16.mp4"
+  },
+  {
+   "scene": "slog",
+   "clip": "R1_hero/slogger_bowled_broadcast_x025",
+   "start": 77.929,
+   "end": 81.06,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "grade": null,
+   "src": 3.039,
+   "file": "clips/R1_hero__slogger_bowled_broadcast_x025_9x16.mp4"
+  },
+  {
+   "scene": "slog",
+   "clip": "R1_hero/slogger_bowled_stumpCam_x1",
+   "start": 81.06,
+   "end": 82.389,
+   "rate": 1.0,
+   "zoom": [
+    1.15,
+    1.0
+   ],
+   "grade": null,
+   "src": 3.0,
+   "file": "clips/R1_hero__slogger_bowled_stumpCam_x1_9x16.mp4"
+  },
+  {
+   "scene": "think",
+   "clip": "brain/A2_braincam_technician",
+   "start": 82.389,
+   "end": 86.883,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "grade": null,
+   "src": 2.6,
+   "file": "clips/brain__A2_braincam_technician_9x16.mp4"
+  },
+  {
+   "scene": "result",
+   "clip": "@bars",
+   "start": 86.883,
+   "end": 93.799,
+   "rate": 1.0,
+   "zoom": [
+    1.0,
+    1.03
+   ],
+   "grade": null
+  },
+  {
+   "scene": "outro",
+   "clip": "R3_swarm/montage_technician_orbit",
+   "start": 93.799,
+   "end": 101.361,
+   "rate": 0.65,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "grade": null,
+   "src": 24.8,
+   "file": "clips/R3_swarm__montage_technician_orbit_9x16.mp4"
+  },
+  {
+   "scene": "outro",
+   "clip": "@endcard",
+   "start": 101.361,
+   "end": 107.761,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null
+  }
+ ],
+ "overlays": [
+  {
+   "type": "title",
+   "at": "L02.end+0.35",
+   "until": "scene.end",
+   "text": "AN AI LEARNS TO BOWL",
+   "start": 5.968,
+   "end": 7.398
+  },
+  {
+   "type": "gen",
+   "at": "scene",
+   "until": "scene.end",
+   "from": 0,
+   "to": 0,
+   "start": 7.398,
+   "end": 13.837
+  },
+  {
+   "type": "stat",
+   "at": "L06@Eighteen",
+   "until": "L06@Four-0.1",
+   "big": "18",
+   "small": "INPUTS",
+   "sub": "batter \u00b7 over \u00b7 last balls",
+   "pos": "top",
+   "start": 15.894,
+   "end": 18.304
+  },
+  {
+   "type": "stat",
+   "at": "L06@Four",
+   "until": "scene.end",
+   "big": "4",
+   "small": "OUTPUTS",
+   "pos": "bottom",
+   "start": 18.404,
+   "end": 22.101
+  },
+  {
+   "type": "chips",
+   "at": "L06@speed",
+   "until": "scene.end",
+   "items": [
+    [
+     "SPEED",
+     19.404
+    ],
+    [
+     "LENGTH",
+     20.117
+    ],
+    [
+     "LINE",
+     20.592
+    ],
+    [
+     "SWING",
+     21.117
+    ]
+   ],
+   "pos": "bottom",
+   "start": 19.404,
+   "end": 22.101
+  },
+  {
+   "type": "stat",
+   "at": "L08@ninety",
+   "until": "L08.end+0.3",
+   "big": "192",
+   "small": "BRAINS",
+   "sub": "every generation",
+   "pos": "top",
+   "start": 25.18,
+   "end": 28.548
+  },
+  {
+   "type": "label",
+   "at": "L09@breed",
+   "until": "scene.end",
+   "text": "SURVIVORS \u2192 CHILDREN",
+   "pos": "bottom",
+   "start": 30.068,
+   "end": 31.778
+  },
+  {
+   "type": "counter",
+   "at": "L10@Fifteen",
+   "until": "scene.end",
+   "to": 1500,
+   "dur": 1.6,
+   "small": "GENERATIONS",
+   "pos": "top",
+   "start": 31.998,
+   "end": 36.573
+  },
+  {
+   "type": "counter",
+   "at": "L10@eighty",
+   "until": "scene.end",
+   "to": 82944000,
+   "dur": 1.6,
+   "small": "DELIVERIES BOWLED",
+   "pos": "bottom",
+   "start": 34.35,
+   "end": 36.573
+  },
+  {
+   "type": "tag",
+   "at": "L11@winning",
+   "until": "scene.end",
+   "text": "VERSION 1",
+   "color": "orange",
+   "start": 37.884,
+   "end": 40.37
+  },
+  {
+   "type": "flash",
+   "at": "L12@Bouncer",
+   "text": "BOUNCER",
+   "side": "a",
+   "start": 41.464,
+   "end": 42.014
+  },
+  {
+   "type": "flash",
+   "at": "L12@Yorker",
+   "text": "YORKER",
+   "side": "b",
+   "start": 42.014,
+   "end": 42.564
+  },
+  {
+   "type": "flash",
+   "at": "L12@Bouncer#2",
+   "text": "BOUNCER",
+   "side": "a",
+   "start": 42.514,
+   "end": 43.064
+  },
+  {
+   "type": "flash",
+   "at": "L12@Yorker#2",
+   "text": "YORKER",
+   "side": "b",
+   "start": 43.076,
+   "end": 43.626
+  },
+  {
+   "type": "label",
+   "at": "L13@Flat",
+   "until": "L13.end+0.2",
+   "text": "115 OR 150 KM/H \u00b7 NOTHING IN BETWEEN",
+   "pos": "top",
+   "color": "orange",
+   "start": 43.939,
+   "end": 47.374
+  },
+  {
+   "type": "stamp",
+   "at": "L14@cheat",
+   "until": "scene.end",
+   "text": "REWARD HACKING",
+   "start": 49.692,
+   "end": 50.999
+  },
+  {
+   "type": "rule",
+   "at": "L15@read",
+   "until": "L16-0.1",
+   "n": "01",
+   "text": "Batters spot patterns and get set",
+   "pos": "top",
+   "start": 53.484,
+   "end": 56.819
+  },
+  {
+   "type": "rule",
+   "at": "L15@two",
+   "until": "L16-0.1",
+   "n": "02",
+   "text": "Max two bouncers an over",
+   "pos": "bottom",
+   "start": 54.909,
+   "end": 56.819
+  },
+  {
+   "type": "gen",
+   "at": "L16@nothing-0.3",
+   "until": "scene.end",
+   "from": 0,
+   "to": 0,
+   "rewind": true,
+   "start": 58.171,
+   "end": 59.643
+  },
+  {
+   "type": "gen",
+   "at": "scene",
+   "until": "L18-0.15",
+   "from": 1,
+   "to": 1,
+   "start": 59.643,
+   "end": 62.884
+  },
+  {
+   "type": "gen",
+   "at": "L18-0.15",
+   "until": "scene.end",
+   "from": 1,
+   "to": 1500,
+   "dur": 0.9,
+   "start": 62.884,
+   "end": 67.085
+  },
+  {
+   "type": "tag",
+   "at": "L19",
+   "until": "scene.end",
+   "text": "VERSION 2",
+   "color": "teal",
+   "start": 67.305,
+   "end": 69.707
+  },
+  {
+   "type": "label",
+   "at": "L20",
+   "until": "L20@edges+0.2",
+   "text": "vs THE TECHNICIAN",
+   "pos": "top",
+   "start": 69.927,
+   "end": 73.703
+  },
+  {
+   "type": "wicket",
+   "at": "L20@edges+0.25",
+   "until": "scene.end",
+   "text": "CAUGHT BEHIND",
+   "start": 73.753,
+   "end": 74.404
+  },
+  {
+   "type": "label",
+   "at": "L21",
+   "until": "L21@Trapped",
+   "text": "vs THE TAILENDER",
+   "pos": "top",
+   "start": 74.624,
+   "end": 76.763
+  },
+  {
+   "type": "wicket",
+   "at": "L21@Trapped+0.1",
+   "until": "scene.end",
+   "text": "LBW",
+   "start": 76.863,
+   "end": 77.929
+  },
+  {
+   "type": "label",
+   "at": "L22",
+   "until": "L22@stumps-0.1",
+   "text": "vs THE SLOGGER",
+   "pos": "top",
+   "start": 78.149,
+   "end": 80.223
+  },
+  {
+   "type": "wicket",
+   "at": "L22@stumps",
+   "until": "scene.end",
+   "text": "BOWLED",
+   "start": 80.323,
+   "end": 82.389
+  },
+  {
+   "type": "label",
+   "at": "L23@think",
+   "until": "scene.end",
+   "text": "BRAIN CAM \u00b7 LIVE ACTIVATIONS",
+   "pos": "top",
+   "start": 83.432,
+   "end": 86.883
+  }
+ ],
+ "sfx": [
+  {
+   "t": 4.018,
+   "type": "riser"
+  },
+  {
+   "t": 5.401,
+   "type": "bounce_slow"
+  },
+  {
+   "t": 5.968,
+   "type": "stumps"
+  },
+  {
+   "t": 5.968,
+   "type": "boom"
+  },
+  {
+   "t": 7.398,
+   "type": "whoosh"
+  },
+  {
+   "t": 8.165,
+   "type": "bounce"
+  },
+  {
+   "t": 10.565,
+   "type": "bounce"
+  },
+  {
+   "t": 10.798,
+   "type": "bat"
+  },
+  {
+   "t": 10.839,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 11.739,
+   "type": "bounce"
+  },
+  {
+   "t": 11.839,
+   "type": "bat"
+  },
+  {
+   "t": 13.837,
+   "type": "whoosh"
+  },
+  {
+   "t": 15.894,
+   "type": "tick"
+  },
+  {
+   "t": 18.404,
+   "type": "tick"
+  },
+  {
+   "t": 19.404,
+   "type": "blip"
+  },
+  {
+   "t": 20.117,
+   "type": "blip"
+  },
+  {
+   "t": 20.592,
+   "type": "blip"
+  },
+  {
+   "t": 21.117,
+   "type": "blip"
+  },
+  {
+   "t": 22.101,
+   "type": "whoosh"
+  },
+  {
+   "t": 24.462,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 25.18,
+   "type": "tick"
+  },
+  {
+   "t": 28.498,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 31.778,
+   "type": "whoosh"
+  },
+  {
+   "t": 31.998,
+   "type": "tick"
+  },
+  {
+   "t": 34.35,
+   "type": "tick"
+  },
+  {
+   "t": 36.573,
+   "type": "whoosh"
+  },
+  {
+   "t": 36.573,
+   "type": "drop"
+  },
+  {
+   "t": 37.884,
+   "type": "tick"
+  },
+  {
+   "t": 40.37,
+   "type": "whoosh"
+  },
+  {
+   "t": 41.464,
+   "type": "hit"
+  },
+  {
+   "t": 42.014,
+   "type": "hit"
+  },
+  {
+   "t": 42.514,
+   "type": "hit"
+  },
+  {
+   "t": 43.076,
+   "type": "hit"
+  },
+  {
+   "t": 43.811,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 44.794,
+   "type": "bounce"
+  },
+  {
+   "t": 47.374,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 49.692,
+   "type": "stamp"
+  },
+  {
+   "t": 49.692,
+   "type": "stamp"
+  },
+  {
+   "t": 50.999,
+   "type": "whoosh"
+  },
+  {
+   "t": 51.982,
+   "type": "bounce"
+  },
+  {
+   "t": 53.484,
+   "type": "tick"
+  },
+  {
+   "t": 54.266,
+   "type": "bounce"
+  },
+  {
+   "t": 54.909,
+   "type": "tick"
+  },
+  {
+   "t": 56.732,
+   "type": "bounce"
+  },
+  {
+   "t": 56.869,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 57.519,
+   "type": "bounce"
+  },
+  {
+   "t": 57.671,
+   "type": "rewind"
+  },
+  {
+   "t": 57.802,
+   "type": "bat"
+  },
+  {
+   "t": 59.643,
+   "type": "whoosh"
+  },
+  {
+   "t": 62.734,
+   "type": "whoosh"
+  },
+  {
+   "t": 67.085,
+   "type": "whoosh"
+  },
+  {
+   "t": 67.305,
+   "type": "tick"
+  },
+  {
+   "t": 69.707,
+   "type": "whoosh"
+  },
+  {
+   "t": 73.036,
+   "type": "bounce_slow"
+  },
+  {
+   "t": 73.753,
+   "type": "edge"
+  },
+  {
+   "t": 73.753,
+   "type": "impact"
+  },
+  {
+   "t": 74.404,
+   "type": "whoosh"
+  },
+  {
+   "t": 76.78,
+   "type": "bounce_slow"
+  },
+  {
+   "t": 76.863,
+   "type": "pad"
+  },
+  {
+   "t": 76.863,
+   "type": "impact"
+  },
+  {
+   "t": 77.929,
+   "type": "whoosh"
+  },
+  {
+   "t": 80.09,
+   "type": "bounce_slow"
+  },
+  {
+   "t": 80.323,
+   "type": "stumps"
+  },
+  {
+   "t": 80.323,
+   "type": "impact"
+  },
+  {
+   "t": 81.06,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 81.31,
+   "type": "bounce"
+  },
+  {
+   "t": 81.36,
+   "type": "stumps"
+  },
+  {
+   "t": 82.389,
+   "type": "whoosh"
+  },
+  {
+   "t": 83.272,
+   "type": "bounce"
+  },
+  {
+   "t": 85.606,
+   "type": "bounce"
+  },
+  {
+   "t": 86.883,
+   "type": "whoosh"
+  },
+  {
+   "t": 87.934,
+   "type": "rise_hit"
+  },
+  {
+   "t": 91.386,
+   "type": "tick"
+  },
+  {
+   "t": 92.424,
+   "type": "boom"
+  },
+  {
+   "t": 93.799,
+   "type": "whoosh"
+  },
+  {
+   "t": 101.361,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 101.361,
+   "type": "boom"
+  }
+ ],
+ "result": {
+  "v2": 87.934,
+  "v1": 91.386,
+  "close": 92.424
+ },
+ "captions": [
+  {
+   "id": "L01",
+   "start": 0.4,
+   "end": 3.476,
+   "emph": [
+    "never"
+   ],
+   "words": [
+    {
+     "w": "This",
+     "s": 0.416,
+     "e": 0.641
+    },
+    {
+     "w": "bowler",
+     "s": 0.641,
+     "e": 1.116
+    },
+    {
+     "w": "has",
+     "s": 1.116,
+     "e": 1.329
+    },
+    {
+     "w": "never",
+     "s": 1.329,
+     "e": 1.641
+    },
+    {
+     "w": "watched",
+     "s": 1.641,
+     "e": 2.041
+    },
+    {
+     "w": "a",
+     "s": 2.041,
+     "e": 2.166
+    },
+    {
+     "w": "single",
+     "s": 2.166,
+     "e": 2.566
+    },
+    {
+     "w": "game",
+     "s": 2.566,
+     "e": 2.803
+    },
+    {
+     "w": "of",
+     "s": 2.803,
+     "e": 2.916
+    },
+    {
+     "w": "cricket.",
+     "s": 2.916,
+     "e": 3.666
+    }
+   ],
+   "scene": "hook"
+  },
+  {
+   "id": "L02",
+   "start": 3.826,
+   "end": 5.618,
+   "emph": [
+    "Nobody"
+   ],
+   "words": [
+    {
+     "w": "Nobody",
+     "s": 3.873,
+     "e": 4.298
+    },
+    {
+     "w": "ever",
+     "s": 4.298,
+     "e": 4.598
+    },
+    {
+     "w": "taught",
+     "s": 4.598,
+     "e": 4.835
+    },
+    {
+     "w": "it",
+     "s": 4.835,
+     "e": 4.923
+    },
+    {
+     "w": "how",
+     "s": 4.923,
+     "e": 5.06
+    },
+    {
+     "w": "to",
+     "s": 5.06,
+     "e": 5.148
+    },
+    {
+     "w": "bowl.",
+     "s": 5.148,
+     "e": 5.798
+    }
+   ],
+   "scene": "hook"
+  },
+  {
+   "id": "L03",
+   "start": 7.618,
+   "end": 9.056,
+   "emph": [
+    "hopeless"
+   ],
+   "words": [
+    {
+     "w": "At",
+     "s": 7.618,
+     "e": 7.723
+    },
+    {
+     "w": "the",
+     "s": 7.723,
+     "e": 7.81
+    },
+    {
+     "w": "start,",
+     "s": 7.81,
+     "e": 8.21
+    },
+    {
+     "w": "it's",
+     "s": 8.26,
+     "e": 8.385
+    },
+    {
+     "w": "hopeless.",
+     "s": 8.385,
+     "e": 9.16
+    }
+   ],
+   "scene": "chaos"
+  },
+  {
+   "id": "L04",
+   "start": 9.306,
+   "end": 13.357,
+   "emph": [
+    "smashed"
+   ],
+   "words": [
+    {
+     "w": "Random",
+     "s": 9.327,
+     "e": 9.727
+    },
+    {
+     "w": "speeds.",
+     "s": 9.727,
+     "e": 10.277
+    },
+    {
+     "w": "Random",
+     "s": 10.352,
+     "e": 10.752
+    },
+    {
+     "w": "lengths.",
+     "s": 10.752,
+     "e": 11.377
+    },
+    {
+     "w": "It",
+     "s": 11.477,
+     "e": 11.614
+    },
+    {
+     "w": "gets",
+     "s": 11.614,
+     "e": 11.839
+    },
+    {
+     "w": "smashed",
+     "s": 11.839,
+     "e": 12.339
+    },
+    {
+     "w": "all",
+     "s": 12.339,
+     "e": 12.539
+    },
+    {
+     "w": "over",
+     "s": 12.539,
+     "e": 12.739
+    },
+    {
+     "w": "the",
+     "s": 12.739,
+     "e": 12.827
+    },
+    {
+     "w": "ground.",
+     "s": 12.827,
+     "e": 13.502
+    }
+   ],
+   "scene": "chaos"
+  },
+  {
+   "id": "L05",
+   "start": 14.057,
+   "end": 15.694,
+   "emph": [
+    "brain"
+   ],
+   "words": [
+    {
+     "w": "Inside,",
+     "s": 14.078,
+     "e": 14.603
+    },
+    {
+     "w": "there's",
+     "s": 14.653,
+     "e": 14.815
+    },
+    {
+     "w": "a",
+     "s": 14.815,
+     "e": 14.878
+    },
+    {
+     "w": "tiny",
+     "s": 14.878,
+     "e": 15.203
+    },
+    {
+     "w": "brain.",
+     "s": 15.203,
+     "e": 15.853
+    }
+   ],
+   "scene": "brain"
+  },
+  {
+   "id": "L06",
+   "start": 15.894,
+   "end": 21.621,
+   "emph": [
+    "Eighteen",
+    "Four"
+   ],
+   "words": [
+    {
+     "w": "Eighteen",
+     "s": 15.894,
+     "e": 16.304
+    },
+    {
+     "w": "inputs",
+     "s": 16.304,
+     "e": 16.717
+    },
+    {
+     "w": "about",
+     "s": 16.717,
+     "e": 16.892
+    },
+    {
+     "w": "the",
+     "s": 16.892,
+     "e": 16.979
+    },
+    {
+     "w": "batter",
+     "s": 16.979,
+     "e": 17.354
+    },
+    {
+     "w": "and",
+     "s": 17.354,
+     "e": 17.467
+    },
+    {
+     "w": "the",
+     "s": 17.467,
+     "e": 17.554
+    },
+    {
+     "w": "over.",
+     "s": 17.554,
+     "e": 18.229
+    },
+    {
+     "w": "Four",
+     "s": 18.404,
+     "e": 18.679
+    },
+    {
+     "w": "outputs:",
+     "s": 18.679,
+     "e": 19.279
+    },
+    {
+     "w": "speed,",
+     "s": 19.404,
+     "e": 20.004
+    },
+    {
+     "w": "length,",
+     "s": 20.117,
+     "e": 20.504
+    },
+    {
+     "w": "line,",
+     "s": 20.592,
+     "e": 20.954
+    },
+    {
+     "w": "and",
+     "s": 20.992,
+     "e": 21.117
+    },
+    {
+     "w": "swing.",
+     "s": 21.117,
+     "e": 21.779
+    }
+   ],
+   "scene": "brain"
+  },
+  {
+   "id": "L07",
+   "start": 22.321,
+   "end": 24.212,
+   "emph": [
+    "evolution"
+   ],
+   "words": [
+    {
+     "w": "So",
+     "s": 22.352,
+     "e": 22.477
+    },
+    {
+     "w": "I",
+     "s": 22.477,
+     "e": 22.627
+    },
+    {
+     "w": "let",
+     "s": 22.627,
+     "e": 22.802
+    },
+    {
+     "w": "evolution",
+     "s": 22.802,
+     "e": 23.402
+    },
+    {
+     "w": "do",
+     "s": 23.402,
+     "e": 23.515
+    },
+    {
+     "w": "the",
+     "s": 23.515,
+     "e": 23.602
+    },
+    {
+     "w": "teaching.",
+     "s": 23.602,
+     "e": 24.402
+    }
+   ],
+   "scene": "evolve"
+  },
+  {
+   "id": "L08",
+   "start": 24.562,
+   "end": 28.248,
+   "emph": [
+    "ninety two"
+   ],
+   "words": [
+    {
+     "w": "A",
+     "s": 24.562,
+     "e": 24.63
+    },
+    {
+     "w": "hundred",
+     "s": 24.63,
+     "e": 25.055
+    },
+    {
+     "w": "and",
+     "s": 25.055,
+     "e": 25.18
+    },
+    {
+     "w": "ninety",
+     "s": 25.18,
+     "e": 25.518
+    },
+    {
+     "w": "two",
+     "s": 25.518,
+     "e": 25.73
+    },
+    {
+     "w": "brains",
+     "s": 25.73,
+     "e": 26.105
+    },
+    {
+     "w": "bowl",
+     "s": 26.105,
+     "e": 26.655
+    },
+    {
+     "w": "against",
+     "s": 26.655,
+     "e": 27.068
+    },
+    {
+     "w": "three",
+     "s": 27.068,
+     "e": 27.33
+    },
+    {
+     "w": "different",
+     "s": 27.33,
+     "e": 27.618
+    },
+    {
+     "w": "batters.",
+     "s": 27.618,
+     "e": 28.38
+    }
+   ],
+   "scene": "evolve"
+  },
+  {
+   "id": "L09",
+   "start": 28.548,
+   "end": 31.498,
+   "emph": [
+    "survive"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 28.548,
+     "e": 28.606
+    },
+    {
+     "w": "best",
+     "s": 28.606,
+     "e": 28.868
+    },
+    {
+     "w": "ones",
+     "s": 28.868,
+     "e": 29.082
+    },
+    {
+     "w": "survive,",
+     "s": 29.082,
+     "e": 29.832
+    },
+    {
+     "w": "and",
+     "s": 29.932,
+     "e": 30.068
+    },
+    {
+     "w": "breed",
+     "s": 30.068,
+     "e": 30.368
+    },
+    {
+     "w": "the",
+     "s": 30.368,
+     "e": 30.457
+    },
+    {
+     "w": "next",
+     "s": 30.457,
+     "e": 30.732
+    },
+    {
+     "w": "generation.",
+     "s": 30.732,
+     "e": 31.682
+    }
+   ],
+   "scene": "evolve"
+  },
+  {
+   "id": "L10",
+   "start": 31.998,
+   "end": 35.793,
+   "emph": [
+    "Fifteen hundred",
+    "eighty million"
+   ],
+   "words": [
+    {
+     "w": "Fifteen",
+     "s": 31.998,
+     "e": 32.462
+    },
+    {
+     "w": "hundred",
+     "s": 32.462,
+     "e": 32.812
+    },
+    {
+     "w": "generations.",
+     "s": 32.812,
+     "e": 33.812
+    },
+    {
+     "w": "More",
+     "s": 33.95,
+     "e": 34.175
+    },
+    {
+     "w": "than",
+     "s": 34.175,
+     "e": 34.35
+    },
+    {
+     "w": "eighty",
+     "s": 34.35,
+     "e": 34.712
+    },
+    {
+     "w": "million",
+     "s": 34.712,
+     "e": 35.062
+    },
+    {
+     "w": "deliveries.",
+     "s": 35.062,
+     "e": 35.912
+    }
+   ],
+   "scene": "curve"
+  },
+  {
+   "id": "L11",
+   "start": 36.793,
+   "end": 39.99,
+   "emph": [
+    "too easily"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 36.809,
+     "e": 36.959
+    },
+    {
+     "w": "then,",
+     "s": 36.959,
+     "e": 37.284
+    },
+    {
+     "w": "it",
+     "s": 37.359,
+     "e": 37.484
+    },
+    {
+     "w": "started",
+     "s": 37.484,
+     "e": 37.884
+    },
+    {
+     "w": "winning.",
+     "s": 37.884,
+     "e": 38.534
+    },
+    {
+     "w": "A",
+     "s": 38.697,
+     "e": 38.809
+    },
+    {
+     "w": "little",
+     "s": 38.809,
+     "e": 39.072
+    },
+    {
+     "w": "too",
+     "s": 39.072,
+     "e": 39.347
+    },
+    {
+     "w": "easily.",
+     "s": 39.347,
+     "e": 40.209
+    }
+   ],
+   "scene": "twist"
+  },
+  {
+   "id": "L12",
+   "start": 40.59,
+   "end": 43.661,
+   "emph": [
+    "Bouncer",
+    "Yorker"
+   ],
+   "words": [
+    {
+     "w": "Look",
+     "s": 40.59,
+     "e": 40.764
+    },
+    {
+     "w": "closer.",
+     "s": 40.764,
+     "e": 41.364
+    },
+    {
+     "w": "Bouncer.",
+     "s": 41.464,
+     "e": 41.939
+    },
+    {
+     "w": "Yorker.",
+     "s": 42.014,
+     "e": 42.464
+    },
+    {
+     "w": "Bouncer.",
+     "s": 42.514,
+     "e": 43.014
+    },
+    {
+     "w": "Yorker.",
+     "s": 43.076,
+     "e": 43.814
+    }
+   ],
+   "scene": "cheat"
+  },
+  {
+   "id": "L13",
+   "start": 43.911,
+   "end": 47.174,
+   "emph": [
+    "pinned"
+   ],
+   "words": [
+    {
+     "w": "Flat",
+     "s": 43.939,
+     "e": 44.214
+    },
+    {
+     "w": "out,",
+     "s": 44.214,
+     "e": 44.414
+    },
+    {
+     "w": "then",
+     "s": 44.451,
+     "e": 44.639
+    },
+    {
+     "w": "dead",
+     "s": 44.639,
+     "e": 44.901
+    },
+    {
+     "w": "slow.",
+     "s": 44.901,
+     "e": 45.414
+    },
+    {
+     "w": "Every",
+     "s": 45.576,
+     "e": 45.889
+    },
+    {
+     "w": "dial",
+     "s": 45.889,
+     "e": 46.226
+    },
+    {
+     "w": "pinned",
+     "s": 46.226,
+     "e": 46.514
+    },
+    {
+     "w": "to",
+     "s": 46.514,
+     "e": 46.601
+    },
+    {
+     "w": "the",
+     "s": 46.601,
+     "e": 46.689
+    },
+    {
+     "w": "limit.",
+     "s": 46.689,
+     "e": 47.289
+    }
+   ],
+   "scene": "cheat"
+  },
+  {
+   "id": "L14",
+   "start": 47.474,
+   "end": 50.219,
+   "emph": [
+    "cheat"
+   ],
+   "words": [
+    {
+     "w": "It",
+     "s": 47.474,
+     "e": 47.579
+    },
+    {
+     "w": "hadn't",
+     "s": 47.579,
+     "e": 47.879
+    },
+    {
+     "w": "learned",
+     "s": 47.879,
+     "e": 48.154
+    },
+    {
+     "w": "to",
+     "s": 48.154,
+     "e": 48.279
+    },
+    {
+     "w": "bowl.",
+     "s": 48.279,
+     "e": 48.854
+    },
+    {
+     "w": "It",
+     "s": 48.979,
+     "e": 49.117
+    },
+    {
+     "w": "had",
+     "s": 49.117,
+     "e": 49.279
+    },
+    {
+     "w": "learned",
+     "s": 49.279,
+     "e": 49.554
+    },
+    {
+     "w": "to",
+     "s": 49.554,
+     "e": 49.692
+    },
+    {
+     "w": "cheat.",
+     "s": 49.692,
+     "e": 50.354
+    }
+   ],
+   "scene": "cheat"
+  },
+  {
+   "id": "L15",
+   "start": 51.219,
+   "end": 56.619,
+   "emph": [
+    "fixed",
+    "two bouncers"
+   ],
+   "words": [
+    {
+     "w": "So",
+     "s": 51.247,
+     "e": 51.334
+    },
+    {
+     "w": "I",
+     "s": 51.334,
+     "e": 51.484
+    },
+    {
+     "w": "fixed",
+     "s": 51.484,
+     "e": 51.784
+    },
+    {
+     "w": "the",
+     "s": 51.784,
+     "e": 51.872
+    },
+    {
+     "w": "game.",
+     "s": 51.872,
+     "e": 52.572
+    },
+    {
+     "w": "The",
+     "s": 52.697,
+     "e": 52.797
+    },
+    {
+     "w": "batters",
+     "s": 52.797,
+     "e": 53.247
+    },
+    {
+     "w": "now",
+     "s": 53.247,
+     "e": 53.484
+    },
+    {
+     "w": "read",
+     "s": 53.484,
+     "e": 53.722
+    },
+    {
+     "w": "patterns,",
+     "s": 53.722,
+     "e": 54.397
+    },
+    {
+     "w": "and",
+     "s": 54.472,
+     "e": 54.597
+    },
+    {
+     "w": "only",
+     "s": 54.597,
+     "e": 54.909
+    },
+    {
+     "w": "two",
+     "s": 54.909,
+     "e": 55.122
+    },
+    {
+     "w": "bouncers",
+     "s": 55.122,
+     "e": 55.647
+    },
+    {
+     "w": "are",
+     "s": 55.647,
+     "e": 55.772
+    },
+    {
+     "w": "allowed",
+     "s": 55.772,
+     "e": 56.059
+    },
+    {
+     "w": "an",
+     "s": 56.059,
+     "e": 56.147
+    },
+    {
+     "w": "over.",
+     "s": 56.147,
+     "e": 56.797
+    }
+   ],
+   "scene": "fix"
+  },
+  {
+   "id": "L16",
+   "start": 56.919,
+   "end": 59.063,
+   "emph": [
+    "nothing"
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "s": 56.946,
+     "e": 57.071
+    },
+    {
+     "w": "I",
+     "s": 57.071,
+     "e": 57.221
+    },
+    {
+     "w": "started",
+     "s": 57.221,
+     "e": 57.608
+    },
+    {
+     "w": "again.",
+     "s": 57.608,
+     "e": 58.146
+    },
+    {
+     "w": "From",
+     "s": 58.283,
+     "e": 58.471
+    },
+    {
+     "w": "nothing.",
+     "s": 58.471,
+     "e": 59.246
+    }
+   ],
+   "scene": "fix"
+  },
+  {
+   "id": "L17",
+   "start": 59.863,
+   "end": 62.634,
+   "emph": [
+    "one"
+   ],
+   "words": [
+    {
+     "w": "Generation",
+     "s": 59.874,
+     "e": 60.499
+    },
+    {
+     "w": "one.",
+     "s": 60.499,
+     "e": 60.999
+    },
+    {
+     "w": "Balls",
+     "s": 61.137,
+     "e": 61.487
+    },
+    {
+     "w": "scattered",
+     "s": 61.487,
+     "e": 61.974
+    },
+    {
+     "w": "everywhere.",
+     "s": 61.974,
+     "e": 62.799
+    }
+   ],
+   "scene": "rise"
+  },
+  {
+   "id": "L18",
+   "start": 63.034,
+   "end": 66.405,
+   "emph": [
+    "fifteen hundred",
+    "on target"
+   ],
+   "words": [
+    {
+     "w": "Generation",
+     "s": 63.082,
+     "e": 63.72
+    },
+    {
+     "w": "fifteen",
+     "s": 63.72,
+     "e": 64.132
+    },
+    {
+     "w": "hundred.",
+     "s": 64.132,
+     "e": 64.782
+    },
+    {
+     "w": "Every",
+     "s": 64.945,
+     "e": 65.257
+    },
+    {
+     "w": "ball,",
+     "s": 65.257,
+     "e": 65.582
+    },
+    {
+     "w": "on",
+     "s": 65.62,
+     "e": 65.807
+    },
+    {
+     "w": "target.",
+     "s": 65.807,
+     "e": 66.532
+    }
+   ],
+   "scene": "rise"
+  },
+  {
+   "id": "L19",
+   "start": 67.305,
+   "end": 69.427,
+   "emph": [
+    "real cricket"
+   ],
+   "words": [
+    {
+     "w": "This",
+     "s": 67.312,
+     "e": 67.512
+    },
+    {
+     "w": "time,",
+     "s": 67.512,
+     "e": 67.962
+    },
+    {
+     "w": "it",
+     "s": 68.075,
+     "e": 68.212
+    },
+    {
+     "w": "learned",
+     "s": 68.212,
+     "e": 68.55
+    },
+    {
+     "w": "real",
+     "s": 68.55,
+     "e": 68.862
+    },
+    {
+     "w": "cricket.",
+     "s": 68.862,
+     "e": 69.562
+    }
+   ],
+   "scene": "master"
+  },
+  {
+   "id": "L20",
+   "start": 69.927,
+   "end": 74.224,
+   "emph": [
+    "good length",
+    "edges"
+   ],
+   "words": [
+    {
+     "w": "Against",
+     "s": 69.929,
+     "e": 70.216
+    },
+    {
+     "w": "the",
+     "s": 70.216,
+     "e": 70.304
+    },
+    {
+     "w": "technician,",
+     "s": 70.304,
+     "e": 71.054
+    },
+    {
+     "w": "a",
+     "s": 71.128,
+     "e": 71.228
+    },
+    {
+     "w": "good",
+     "s": 71.228,
+     "e": 71.453
+    },
+    {
+     "w": "length.",
+     "s": 71.453,
+     "e": 71.903
+    },
+    {
+     "w": "Over",
+     "s": 72.041,
+     "e": 72.391
+    },
+    {
+     "w": "and",
+     "s": 72.391,
+     "e": 72.503
+    },
+    {
+     "w": "over.",
+     "s": 72.503,
+     "e": 73.028
+    },
+    {
+     "w": "Until",
+     "s": 73.128,
+     "e": 73.366
+    },
+    {
+     "w": "he",
+     "s": 73.366,
+     "e": 73.503
+    },
+    {
+     "w": "edges",
+     "s": 73.503,
+     "e": 73.828
+    },
+    {
+     "w": "one.",
+     "s": 73.828,
+     "e": 74.403
+    }
+   ],
+   "scene": "tech"
+  },
+  {
+   "id": "L21",
+   "start": 74.624,
+   "end": 77.749,
+   "emph": [
+    "Trapped"
+   ],
+   "words": [
+    {
+     "w": "Against",
+     "s": 74.626,
+     "e": 74.938
+    },
+    {
+     "w": "the",
+     "s": 74.938,
+     "e": 75.026
+    },
+    {
+     "w": "tailender,",
+     "s": 75.026,
+     "e": 75.601
+    },
+    {
+     "w": "full",
+     "s": 75.688,
+     "e": 75.913
+    },
+    {
+     "w": "and",
+     "s": 75.913,
+     "e": 76.026
+    },
+    {
+     "w": "straight.",
+     "s": 76.026,
+     "e": 76.626
+    },
+    {
+     "w": "Trapped",
+     "s": 76.763,
+     "e": 77.113
+    },
+    {
+     "w": "in",
+     "s": 77.113,
+     "e": 77.263
+    },
+    {
+     "w": "front.",
+     "s": 77.263,
+     "e": 77.876
+    }
+   ],
+   "scene": "tail"
+  },
+  {
+   "id": "L22",
+   "start": 78.149,
+   "end": 80.91,
+   "emph": [
+    "Yorkers"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 78.149,
+     "e": 78.26
+    },
+    {
+     "w": "the",
+     "s": 78.26,
+     "e": 78.36
+    },
+    {
+     "w": "slogger?",
+     "s": 78.36,
+     "e": 78.973
+    },
+    {
+     "w": "Yorkers.",
+     "s": 79.11,
+     "e": 79.823
+    },
+    {
+     "w": "Right",
+     "s": 79.935,
+     "e": 80.16
+    },
+    {
+     "w": "at",
+     "s": 80.16,
+     "e": 80.235
+    },
+    {
+     "w": "the",
+     "s": 80.235,
+     "e": 80.323
+    },
+    {
+     "w": "stumps.",
+     "s": 80.323,
+     "e": 81.048
+    }
+   ],
+   "scene": "slog"
+  },
+  {
+   "id": "L23",
+   "start": 82.609,
+   "end": 86.303,
+   "emph": [
+    "think"
+   ],
+   "words": [
+    {
+     "w": "You",
+     "s": 82.609,
+     "e": 82.67
+    },
+    {
+     "w": "can",
+     "s": 82.67,
+     "e": 82.77
+    },
+    {
+     "w": "even",
+     "s": 82.77,
+     "e": 83.057
+    },
+    {
+     "w": "watch",
+     "s": 83.057,
+     "e": 83.345
+    },
+    {
+     "w": "it",
+     "s": 83.345,
+     "e": 83.432
+    },
+    {
+     "w": "think.",
+     "s": 83.432,
+     "e": 83.958
+    },
+    {
+     "w": "Every",
+     "s": 84.12,
+     "e": 84.432
+    },
+    {
+     "w": "neuron",
+     "s": 84.432,
+     "e": 84.795
+    },
+    {
+     "w": "firing,",
+     "s": 84.795,
+     "e": 85.333
+    },
+    {
+     "w": "ball",
+     "s": 85.407,
+     "e": 85.708
+    },
+    {
+     "w": "by",
+     "s": 85.708,
+     "e": 85.882
+    },
+    {
+     "w": "ball.",
+     "s": 85.882,
+     "e": 86.482
+    }
+   ],
+   "scene": "think"
+  },
+  {
+   "id": "L24",
+   "start": 87.103,
+   "end": 90.756,
+   "emph": [
+    "every specialist"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 87.103,
+     "e": 87.196
+    },
+    {
+     "w": "final",
+     "s": 87.196,
+     "e": 87.584
+    },
+    {
+     "w": "brain",
+     "s": 87.584,
+     "e": 87.934
+    },
+    {
+     "w": "beats",
+     "s": 87.934,
+     "e": 88.284
+    },
+    {
+     "w": "every",
+     "s": 88.284,
+     "e": 88.584
+    },
+    {
+     "w": "specialist,",
+     "s": 88.584,
+     "e": 89.434
+    },
+    {
+     "w": "against",
+     "s": 89.571,
+     "e": 89.959
+    },
+    {
+     "w": "every",
+     "s": 89.959,
+     "e": 90.259
+    },
+    {
+     "w": "batter.",
+     "s": 90.259,
+     "e": 90.934
+    }
+   ],
+   "scene": "result"
+  },
+  {
+   "id": "L25",
+   "start": 91.156,
+   "end": 93.019,
+   "emph": [
+    "Not even close"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 91.156,
+     "e": 91.286
+    },
+    {
+     "w": "the",
+     "s": 91.286,
+     "e": 91.386
+    },
+    {
+     "w": "cheater?",
+     "s": 91.386,
+     "e": 91.924
+    },
+    {
+     "w": "Not",
+     "s": 92.049,
+     "e": 92.211
+    },
+    {
+     "w": "even",
+     "s": 92.211,
+     "e": 92.424
+    },
+    {
+     "w": "close.",
+     "s": 92.424,
+     "e": 93.124
+    }
+   ],
+   "scene": "result"
+  },
+  {
+   "id": "L26",
+   "start": 94.019,
+   "end": 97.821,
+   "emph": [
+    "evolution"
+   ],
+   "words": [
+    {
+     "w": "No",
+     "s": 94.054,
+     "e": 94.254
+    },
+    {
+     "w": "coaching.",
+     "s": 94.254,
+     "e": 95.029
+    },
+    {
+     "w": "No",
+     "s": 95.166,
+     "e": 95.354
+    },
+    {
+     "w": "examples.",
+     "s": 95.354,
+     "e": 96.054
+    },
+    {
+     "w": "Just",
+     "s": 96.116,
+     "e": 96.341
+    },
+    {
+     "w": "a",
+     "s": 96.341,
+     "e": 96.404
+    },
+    {
+     "w": "reward,",
+     "s": 96.404,
+     "e": 96.929
+    },
+    {
+     "w": "and",
+     "s": 96.966,
+     "e": 97.066
+    },
+    {
+     "w": "evolution.",
+     "s": 97.066,
+     "e": 98.029
+    }
+   ],
+   "scene": "outro"
+  },
+  {
+   "id": "L27",
+   "start": 98.321,
+   "end": 100.761,
+   "emph": [
+    "taught itself"
+   ],
+   "words": [
+    {
+     "w": "This",
+     "s": 98.341,
+     "e": 98.541
+    },
+    {
+     "w": "is",
+     "s": 98.541,
+     "e": 98.654
+    },
+    {
+     "w": "an",
+     "s": 98.654,
+     "e": 98.803
+    },
+    {
+     "w": "AI",
+     "s": 98.803,
+     "e": 99.416
+    },
+    {
+     "w": "that",
+     "s": 99.416,
+     "e": 99.566
+    },
+    {
+     "w": "taught",
+     "s": 99.566,
+     "e": 99.803
+    },
+    {
+     "w": "itself",
+     "s": 99.803,
+     "e": 100.166
+    },
+    {
+     "w": "to",
+     "s": 100.166,
+     "e": 100.291
+    },
+    {
+     "w": "bowl.",
+     "s": 100.291,
+     "e": 100.966
+    }
+   ],
+   "scene": "outro"
+  }
+ ]
+}

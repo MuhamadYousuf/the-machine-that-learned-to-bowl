@@ -1,0 +1,47 @@
+{
+  "voice": "af_heart",
+  "cut": "short",
+  "lines": [
+    {"id": "S01", "scene": "open", "speed": 0.86, "pause": 0.9, "text": "Every great fast bowler spends years learning one thing.", "emph": ["years"]},
+    {"id": "S02", "scene": "open", "speed": 0.86, "pause": 0.4, "text": "This one learned it in six hours.", "emph": ["six hours"]},
+    {"id": "S03", "scene": "open", "speed": 0.84, "pause": 2.2, "text": "And nobody taught it a thing.", "emph": ["nobody"]},
+
+    {"id": "S04", "scene": "chaos", "speed": 0.95, "pause": 0.25, "text": "At the start, it's hopeless.", "emph": ["hopeless"]},
+    {"id": "S05", "scene": "chaos", "speed": 1.0, "pause": 0.7, "text": "Random speeds, random lengths. It gets hit on more than half its balls.", "emph": ["half"]},
+
+    {"id": "S06", "scene": "batters", "speed": 0.95, "pause": 0.5, "text": "Its opponents are three batters, each with a hidden weakness.", "emph": ["hidden weakness"]},
+    {"id": "S07", "scene": "slogger", "speed": 1.0, "pause": 0.4, "text": "The Slogger. He hits anything full or short. But a yorker on the stumps, or a slower ball, can get him.", "emph": ["Slogger", "yorker"]},
+    {"id": "S08", "scene": "technician", "speed": 1.0, "pause": 0.4, "text": "The Technician. He leaves anything wide and blocks the straight ball. His only flaw: a good length ball that moves away late.", "emph": ["Technician", "moves away"]},
+    {"id": "S09", "scene": "tailender", "speed": 0.98, "pause": 0.6, "text": "And the Tailender. Brave, but not much of a batter.", "emph": ["Tailender"]},
+    {"id": "S10", "scene": "learn", "speed": 0.95, "pause": 0.8, "text": "And all three learn. Bowl the same ball twice, and they're ready for it.", "emph": ["learn", "ready"]},
+
+    {"id": "S11", "scene": "brain", "speed": 1.0, "pause": 0.7, "text": "The bowler is a tiny brain. Eighteen numbers in, about the batter and the over. Four out: speed, length, line and swing.", "emph": ["Eighteen", "Four"]},
+    {"id": "S12", "scene": "evolve", "speed": 0.98, "pause": 0.3, "text": "A hundred and ninety two brains bowl. The best survive, and breed the next generation.", "emph": ["ninety two", "survive"]},
+    {"id": "S13", "scene": "evolve", "speed": 0.95, "pause": 0.9, "text": "Fifteen hundred generations. About eighty three million deliveries.", "emph": ["Fifteen hundred", "eighty three million"]},
+
+    {"id": "S14", "scene": "twist", "speed": 0.86, "pause": 0.7, "text": "And then, it got good. Suspiciously good.", "emph": ["Suspiciously"]},
+    {"id": "S15", "scene": "cheat", "speed": 0.97, "pause": 0.25, "text": "It had found a trick. Bouncer. Yorker. Bouncer. Yorker.", "emph": ["Bouncer", "Yorker"]},
+    {"id": "S16", "scene": "cheat", "speed": 1.0, "pause": 0.5, "text": "Flat out, then dead slow. Three bouncers an over, which is illegal.", "emph": ["illegal"]},
+    {"id": "S17", "scene": "cheat2", "speed": 0.88, "pause": 1.0, "text": "It hadn't learned to bowl. It had learned to fool my batters.", "emph": ["fool"]},
+
+    {"id": "S18", "scene": "fix", "speed": 1.0, "pause": 0.3, "text": "So I made the batters smarter. Now they spot patterns.", "emph": ["smarter", "patterns"]},
+    {"id": "S19", "scene": "fix", "speed": 1.0, "pause": 0.3, "text": "Alternate bouncer and yorker, and they've read you by the fourth ball.", "emph": ["fourth ball"]},
+    {"id": "S20", "scene": "fix2", "speed": 1.0, "pause": 0.4, "text": "And only two bouncers an over, like the real laws.", "emph": ["two bouncers"]},
+    {"id": "S21", "scene": "reset", "speed": 0.88, "pause": 0.9, "text": "Then I deleted everything, and started again.", "emph": ["deleted everything"]},
+
+    {"id": "S22", "scene": "rise", "speed": 0.92, "pause": 0.9, "text": "Fifteen hundred generations later, every ball lands where it means to.", "emph": ["every ball"]},
+    {"id": "S23", "scene": "tech", "speed": 1.0, "pause": 0.3, "text": "Against the Technician, it bowls good length on fourth stump, seventy three percent of the time, and gives away barely one run an over.", "emph": ["seventy three percent", "one run"]},
+    {"id": "S24", "scene": "tech", "speed": 0.95, "pause": 0.2, "text": "Then, the one that moves away.", "emph": ["moves away"]},
+    {"id": "S25", "scene": "tech", "speed": 0.9, "pause": 0.6, "text": "Edged. Gone.", "emph": ["Gone"]},
+    {"id": "S26", "scene": "slog", "speed": 1.02, "pause": 0.3, "text": "The Slogger fights back. Four. Four. Four. His confidence is climbing.", "emph": ["Four", "climbing"]},
+    {"id": "S27", "scene": "slog", "speed": 0.95, "pause": 0.2, "text": "But the bowler keeps it full and straight, until one yorker is too good.", "emph": ["too good"]},
+    {"id": "S28", "scene": "tail", "speed": 1.0, "pause": 0.7, "text": "And the Tailender? It skips the bouncer and goes full and straight. Trapped in front.", "emph": ["Trapped"]},
+
+    {"id": "S29", "scene": "think", "speed": 0.97, "pause": 0.7, "text": "You can watch it decide. Every neuron, every ball.", "emph": ["decide"]},
+    {"id": "S30", "scene": "result", "speed": 0.97, "pause": 0.3, "text": "Scored against the hand written expert plan for each batter, the final brain beats every one.", "emph": ["beats every one"]},
+    {"id": "S31", "scene": "result", "speed": 0.92, "pause": 1.0, "text": "And the cheating version, retested under the new rules? Not even close.", "emph": ["Not even close"]},
+
+    {"id": "S32", "scene": "outro", "speed": 0.86, "pause": 0.5, "text": "No coaching. No examples. Just a reward, a few hard lessons, and evolution.", "emph": ["evolution"]},
+    {"id": "S33", "scene": "outro", "speed": 0.84, "pause": 3.0, "text": "This is the machine that learned to bowl.", "emph": ["learned to bowl"]}
+  ]
+}

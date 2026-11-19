@@ -1,0 +1,31 @@
+{
+  "name": "aibowler-video",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Remotion project: Hawk-Eye replays, brain visualisations and the final video for the AI bowler",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "still": "remotion still"
+  },
+  "dependencies": {
+    "@react-three/fiber": "8.18.0",
+    "@react-three/postprocessing": "2.16.6",
+    "@remotion/bundler": "4.0.544",
+    "@remotion/cli": "4.0.544",
+    "@remotion/google-fonts": "^4.0.544",
+    "@remotion/renderer": "4.0.544",
+    "@remotion/three": "4.0.544",
+    "postprocessing": "6.36.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.544",
+    "three": "0.169.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/three": "0.169.0",
+    "tsx": "^4.19.2",
+    "typescript": "5.6.3"
+  }
+}

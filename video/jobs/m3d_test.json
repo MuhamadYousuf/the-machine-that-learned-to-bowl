@@ -1,0 +1,1 @@
+[{"id":"m3d_slog","composition":"Match3D-16x9","props":{"file":"overs_ga2_champion_slogger.json","batterFile":"batter_ga2_champion_slogger.json","overIndex":17,"balls":[],"cameras":["broadcast","batterFront","wide","batterSide","release","stumps"],"slowmo":{"ball":5,"factor":0.25},"hud":true,"archetype":"slogger"},"out":"out/edit_review/match3d/slogger_over17.mp4"}]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cmp_side",
+    "out": "out/stills/cmp/side.png",
+    "frames": 1106,
+    "seconds": 3.623
+  },
+  {
+    "id": "cmp_top",
+    "out": "out/stills/cmp/top.png",
+    "frames": 1106,
+    "seconds": 2.981
+  },
+  {
+    "id": "cmp_top169",
+    "out": "out/stills/cmp/top169.png",
+    "frames": 1106,
+    "seconds": 1.613
+  }
+]

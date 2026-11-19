@@ -1,0 +1,1683 @@
+[
+ {
+  "id": "R1_hero_slogger_bowled_broadcast_x1_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_broadcast_x1_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_broadcast_x1_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_broadcast_x1_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_broadcast_x025_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "broadcast",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_broadcast_x025_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_broadcast_x025_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "broadcast",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_broadcast_x025_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_stumpCam_x1_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "stumpCam",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_stumpCam_x1_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_stumpCam_x1_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "stumpCam",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_stumpCam_x1_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_stumpCam_x01_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "stumpCam",
+   "speed": 0.1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_stumpCam_x01_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_stumpCam_x01_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "stumpCam",
+   "speed": 0.1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_stumpCam_x01_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_batterEnd_x025_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "batterEnd",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_batterEnd_x025_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_batterEnd_x025_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "batterEnd",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_batterEnd_x025_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_sideOn_x025_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "sideOn",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_sideOn_x025_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_slogger_bowled_sideOn_x025_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 9,
+   "overCount": 1,
+   "balls": [
+    2
+   ],
+   "camera": "sideOn",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/slogger_bowled_sideOn_x025_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_broadcast_x1_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_broadcast_x1_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_broadcast_x1_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_broadcast_x1_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_broadcast_x025_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "broadcast",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_broadcast_x025_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_broadcast_x025_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "broadcast",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_broadcast_x025_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_stumpCam_x1_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "stumpCam",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_stumpCam_x1_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_stumpCam_x1_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "stumpCam",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_stumpCam_x1_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_stumpCam_x01_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "stumpCam",
+   "speed": 0.1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_stumpCam_x01_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_stumpCam_x01_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "stumpCam",
+   "speed": 0.1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_stumpCam_x01_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_batterEnd_x025_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "batterEnd",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_batterEnd_x025_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_batterEnd_x025_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "batterEnd",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_batterEnd_x025_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_sideOn_x025_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "sideOn",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_sideOn_x025_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_technician_caught_behind_sideOn_x025_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 2,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "sideOn",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/technician_caught_behind_sideOn_x025_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_broadcast_x1_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_broadcast_x1_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_broadcast_x1_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_broadcast_x1_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_broadcast_x025_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "broadcast",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_broadcast_x025_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_broadcast_x025_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "broadcast",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_broadcast_x025_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_stumpCam_x1_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "stumpCam",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_stumpCam_x1_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_stumpCam_x1_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "stumpCam",
+   "speed": 1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_stumpCam_x1_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_stumpCam_x01_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "stumpCam",
+   "speed": 0.1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_stumpCam_x01_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_stumpCam_x01_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "stumpCam",
+   "speed": 0.1,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_stumpCam_x01_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_batterEnd_x025_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "batterEnd",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_batterEnd_x025_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_batterEnd_x025_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "batterEnd",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_batterEnd_x025_9x16.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_sideOn_x025_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "sideOn",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_sideOn_x025_16x9.mp4"
+ },
+ {
+  "id": "R1_hero_tailender_lbw_sideOn_x025_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "overCount": 1,
+   "balls": [
+    3
+   ],
+   "camera": "sideOn",
+   "speed": 0.25,
+   "accumulate": false,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R1_hero/tailender_lbw_sideOn_x025_9x16.mp4"
+ },
+ {
+  "id": "R2_overs_slogger_broadcast_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R2_overs/slogger_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R2_overs_slogger_broadcast_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R2_overs/slogger_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R2_overs_slogger_pitchmap_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "pitchMap",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R2_overs/slogger_pitchmap_16x9.mp4"
+ },
+ {
+  "id": "R2_overs_slogger_pitchmap_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "pitchMap",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R2_overs/slogger_pitchmap_9x16.mp4"
+ },
+ {
+  "id": "R2_overs_technician_broadcast_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R2_overs/technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R2_overs_technician_broadcast_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R2_overs/technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R2_overs_technician_pitchmap_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "pitchMap",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R2_overs/technician_pitchmap_16x9.mp4"
+ },
+ {
+  "id": "R2_overs_technician_pitchmap_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "pitchMap",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R2_overs/technician_pitchmap_9x16.mp4"
+ },
+ {
+  "id": "R2_overs_tailender_broadcast_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R2_overs/tailender_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R2_overs_tailender_broadcast_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R2_overs/tailender_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R2_overs_tailender_pitchmap_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "pitchMap",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R2_overs/tailender_pitchmap_16x9.mp4"
+ },
+ {
+  "id": "R2_overs_tailender_pitchmap_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "pitchMap",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R2_overs/tailender_pitchmap_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0001_technician_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    1
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0001_technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0001_technician_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    1
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0001_technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0010_technician_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    10
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0010_technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0010_technician_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    10
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0010_technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0050_technician_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    50
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0050_technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0050_technician_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    50
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0050_technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0250_technician_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    250
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0250_technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0250_technician_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    250
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0250_technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0500_technician_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0500_technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0500_technician_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen0500_technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_gen1000_technician_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    1000
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen1000_technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_gen1000_technician_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    1000
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen1000_technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_gen1500_technician_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    1500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen1500_technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_gen1500_technician_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    1500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/gen1500_technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_montage_slogger_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    1,
+    10,
+    50,
+    250,
+    500,
+    1000,
+    1500
+   ],
+   "archetype": "slogger",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/montage_slogger_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_montage_slogger_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    1,
+    10,
+    50,
+    250,
+    500,
+    1000,
+    1500
+   ],
+   "archetype": "slogger",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/montage_slogger_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_montage_technician_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    1,
+    10,
+    50,
+    250,
+    500,
+    1000,
+    1500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/montage_technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_montage_technician_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    1,
+    10,
+    50,
+    250,
+    500,
+    1000,
+    1500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/montage_technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_montage_tailender_broadcast_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    1,
+    10,
+    50,
+    250,
+    500,
+    1000,
+    1500
+   ],
+   "archetype": "tailender",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/montage_tailender_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_montage_tailender_broadcast_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    1,
+    10,
+    50,
+    250,
+    500,
+    1000,
+    1500
+   ],
+   "archetype": "tailender",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": false
+  },
+  "out": "out/renders/R3_swarm/montage_tailender_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_montage_technician_orbit_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    1,
+    10,
+    50,
+    250,
+    500,
+    1000,
+    1500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": true
+  },
+  "out": "out/renders/R3_swarm/montage_technician_orbit_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_montage_technician_orbit_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    1,
+    10,
+    50,
+    250,
+    500,
+    1000,
+    1500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": true
+  },
+  "out": "out/renders/R3_swarm/montage_technician_orbit_9x16.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0001_vs_1500_orbit_16x9",
+  "composition": "Swarm-16x9",
+  "props": {
+   "generations": [
+    1,
+    1500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": true
+  },
+  "out": "out/renders/R3_swarm/gen0001_vs_1500_orbit_16x9.mp4"
+ },
+ {
+  "id": "R3_swarm_gen0001_vs_1500_orbit_9x16",
+  "composition": "Swarm-9x16",
+  "props": {
+   "generations": [
+    1,
+    1500
+   ],
+   "archetype": "technician",
+   "camera": "broadcast",
+   "speed": 0.5,
+   "orbit": true
+  },
+  "out": "out/renders/R3_swarm/gen0001_vs_1500_orbit_9x16.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_slogger_pitchMap_16x9",
+  "composition": "Compare-16x9",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_slogger.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_slogger.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "pitchMap",
+   "speed": 1,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R4_v1_vs_v2/slogger_pitchMap_16x9.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_slogger_pitchMap_9x16",
+  "composition": "Compare-9x16",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_slogger.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_slogger.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "pitchMap",
+   "speed": 1,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R4_v1_vs_v2/slogger_pitchMap_9x16.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_slogger_broadcast_16x9",
+  "composition": "Compare-16x9",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_slogger.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_slogger.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "broadcast",
+   "speed": 1,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R4_v1_vs_v2/slogger_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_slogger_broadcast_9x16",
+  "composition": "Compare-9x16",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_slogger.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_slogger.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "broadcast",
+   "speed": 1,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R4_v1_vs_v2/slogger_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_technician_pitchMap_16x9",
+  "composition": "Compare-16x9",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_technician.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_technician.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "pitchMap",
+   "speed": 1,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R4_v1_vs_v2/technician_pitchMap_16x9.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_technician_pitchMap_9x16",
+  "composition": "Compare-9x16",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_technician.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_technician.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "pitchMap",
+   "speed": 1,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R4_v1_vs_v2/technician_pitchMap_9x16.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_technician_broadcast_16x9",
+  "composition": "Compare-16x9",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_technician.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_technician.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "broadcast",
+   "speed": 1,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R4_v1_vs_v2/technician_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_technician_broadcast_9x16",
+  "composition": "Compare-9x16",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_technician.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_technician.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "broadcast",
+   "speed": 1,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R4_v1_vs_v2/technician_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_tailender_pitchMap_16x9",
+  "composition": "Compare-16x9",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_tailender.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_tailender.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "pitchMap",
+   "speed": 1,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R4_v1_vs_v2/tailender_pitchMap_16x9.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_tailender_pitchMap_9x16",
+  "composition": "Compare-9x16",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_tailender.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_tailender.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "pitchMap",
+   "speed": 1,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R4_v1_vs_v2/tailender_pitchMap_9x16.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_tailender_broadcast_16x9",
+  "composition": "Compare-16x9",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_tailender.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_tailender.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "broadcast",
+   "speed": 1,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R4_v1_vs_v2/tailender_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_tailender_broadcast_9x16",
+  "composition": "Compare-9x16",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_tailender.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_tailender.json",
+    "overIndex": 0
+   },
+   "overCount": 1,
+   "camera": "broadcast",
+   "speed": 1,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R4_v1_vs_v2/tailender_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_technician_pitchMap_3overs_16x9",
+  "composition": "Compare-16x9",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_technician.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_technician.json",
+    "overIndex": 0
+   },
+   "overCount": 3,
+   "camera": "pitchMap",
+   "speed": 1,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R4_v1_vs_v2/technician_pitchMap_3overs_16x9.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_technician_pitchMap_3overs_9x16",
+  "composition": "Compare-9x16",
+  "props": {
+   "left": {
+    "file": "overs_ga1500_champion_technician.json",
+    "overIndex": 0
+   },
+   "right": {
+    "file": "overs_ga2_champion_technician.json",
+    "overIndex": 0
+   },
+   "overCount": 3,
+   "camera": "pitchMap",
+   "speed": 1,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/R4_v1_vs_v2/technician_pitchMap_3overs_9x16.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_v1_only_slogger_sideOn_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga1500_champion_slogger.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "sideOn",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R4_v1_vs_v2/v1_only_slogger_sideOn_16x9.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_v1_only_technician_sideOn_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga1500_champion_technician.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "sideOn",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R4_v1_vs_v2/v1_only_technician_sideOn_16x9.mp4"
+ },
+ {
+  "id": "R4_v1_vs_v2_v1_only_tailender_sideOn_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga1500_champion_tailender.json",
+   "overIndex": 0,
+   "overCount": 1,
+   "balls": [],
+   "camera": "sideOn",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R4_v1_vs_v2/v1_only_tailender_sideOn_16x9.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga2_slogger_16x9",
+  "composition": "PitchBuild-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga2_slogger_16x9.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga2_slogger_9x16",
+  "composition": "PitchBuild-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga2_slogger_9x16.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga2_technician_16x9",
+  "composition": "PitchBuild-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga2_technician_16x9.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga2_technician_9x16",
+  "composition": "PitchBuild-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga2_technician_9x16.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga2_tailender_16x9",
+  "composition": "PitchBuild-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga2_tailender_16x9.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga2_tailender_9x16",
+  "composition": "PitchBuild-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga2_tailender_9x16.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga1500_slogger_16x9",
+  "composition": "PitchBuild-16x9",
+  "props": {
+   "file": "overs_ga1500_champion_slogger.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga1500_slogger_16x9.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga1500_slogger_9x16",
+  "composition": "PitchBuild-9x16",
+  "props": {
+   "file": "overs_ga1500_champion_slogger.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga1500_slogger_9x16.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga1500_technician_16x9",
+  "composition": "PitchBuild-16x9",
+  "props": {
+   "file": "overs_ga1500_champion_technician.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga1500_technician_16x9.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga1500_technician_9x16",
+  "composition": "PitchBuild-9x16",
+  "props": {
+   "file": "overs_ga1500_champion_technician.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga1500_technician_9x16.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga1500_tailender_16x9",
+  "composition": "PitchBuild-16x9",
+  "props": {
+   "file": "overs_ga1500_champion_tailender.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga1500_tailender_16x9.mp4"
+ },
+ {
+  "id": "R5_pitchmap_ga1500_tailender_9x16",
+  "composition": "PitchBuild-9x16",
+  "props": {
+   "file": "overs_ga1500_champion_tailender.json",
+   "overs": 30,
+   "ballsPerSecond": 8,
+   "colorBy": "outcome"
+  },
+  "out": "out/renders/R5_pitchmap/ga1500_tailender_9x16.mp4"
+ },
+ {
+  "id": "R6_chaos_gen0_broadcast_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_typical_gen0.json",
+   "overIndex": 0,
+   "overCount": 3,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R6_chaos/gen0_broadcast_16x9.mp4"
+ },
+ {
+  "id": "R6_chaos_gen0_broadcast_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_typical_gen0.json",
+   "overIndex": 0,
+   "overCount": 3,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R6_chaos/gen0_broadcast_9x16.mp4"
+ },
+ {
+  "id": "R6_chaos_gen0_batterEnd_16x9",
+  "composition": "Over-16x9",
+  "props": {
+   "file": "overs_ga2_typical_gen0.json",
+   "overIndex": 3,
+   "overCount": 2,
+   "balls": [],
+   "camera": "batterEnd",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R6_chaos/gen0_batterEnd_16x9.mp4"
+ },
+ {
+  "id": "R6_chaos_gen0_batterEnd_9x16",
+  "composition": "Over-9x16",
+  "props": {
+   "file": "overs_ga2_typical_gen0.json",
+   "overIndex": 3,
+   "overCount": 2,
+   "balls": [],
+   "camera": "batterEnd",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/R6_chaos/gen0_batterEnd_9x16.mp4"
+ }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "s9",
+    "out": "out/edit_review/docfix/s9.png",
+    "frames": 9193,
+    "seconds": 10.164
+  },
+  {
+    "id": "s16",
+    "out": "out/edit_review/docfix/s16.png",
+    "frames": 9193,
+    "seconds": 4.128
+  },
+  {
+    "id": "l16",
+    "out": "out/edit_review/docfix/l16.png",
+    "frames": 29053,
+    "seconds": 4.691
+  }
+]

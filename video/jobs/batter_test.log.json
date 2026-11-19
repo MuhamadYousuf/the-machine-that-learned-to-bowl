@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b_bowled_bat_side",
+    "out": "out/edit_review/players/b_bowled_bat_side.png",
+    "frames": 360,
+    "seconds": 21.112
+  },
+  {
+    "id": "b_bowled_bat_front",
+    "out": "out/edit_review/players/b_bowled_bat_front.png",
+    "frames": 360,
+    "seconds": 19.927
+  },
+  {
+    "id": "b_bowled_broadcast",
+    "out": "out/edit_review/players/b_bowled_broadcast.png",
+    "frames": 360,
+    "seconds": 20.995
+  },
+  {
+    "id": "b_four_bat_side",
+    "out": "out/edit_review/players/b_four_bat_side.png",
+    "frames": 360,
+    "seconds": 20.17
+  },
+  {
+    "id": "b_four_bat_front",
+    "out": "out/edit_review/players/b_four_bat_front.png",
+    "frames": 360,
+    "seconds": 20.122
+  },
+  {
+    "id": "b_four_broadcast",
+    "out": "out/edit_review/players/b_four_broadcast.png",
+    "frames": 360,
+    "seconds": 20.052
+  }
+]

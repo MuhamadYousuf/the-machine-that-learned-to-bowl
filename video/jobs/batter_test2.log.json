@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c_bat_side",
+    "out": "out/edit_review/players/c_bat_side.png",
+    "frames": 360,
+    "seconds": 12.281
+  },
+  {
+    "id": "c_bat_front",
+    "out": "out/edit_review/players/c_bat_front.png",
+    "frames": 360,
+    "seconds": 10.516
+  }
+]

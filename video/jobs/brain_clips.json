@@ -1,0 +1,374 @@
+[
+ {
+  "id": "A1_brain_morph_16x9",
+  "composition": "BrainMorph-16x9",
+  "props": {
+   "run": "ga2",
+   "mode": "morph",
+   "seconds": 20
+  },
+  "out": "out/renders/brain/A1_brain_morph_16x9.mp4"
+ },
+ {
+  "id": "A1_brain_morph_9x16",
+  "composition": "BrainMorph-9x16",
+  "props": {
+   "run": "ga2",
+   "mode": "morph",
+   "seconds": 20
+  },
+  "out": "out/renders/brain/A1_brain_morph_9x16.mp4"
+ },
+ {
+  "id": "A1_brain_milestones_16x9",
+  "composition": "BrainMorph-16x9",
+  "props": {
+   "run": "ga2",
+   "mode": "milestones",
+   "seconds": 12
+  },
+  "out": "out/renders/brain/A1_brain_milestones_16x9.mp4"
+ },
+ {
+  "id": "A1_brain_milestones_9x16",
+  "composition": "BrainMorph-9x16",
+  "props": {
+   "run": "ga2",
+   "mode": "milestones",
+   "seconds": 12
+  },
+  "out": "out/renders/brain/A1_brain_milestones_9x16.mp4"
+ },
+ {
+  "id": "A2_braincam_slogger_16x9",
+  "composition": "BrainCam-16x9",
+  "props": {
+   "run": "ga2",
+   "archetype": "slogger",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A2_braincam_slogger_16x9.mp4"
+ },
+ {
+  "id": "A2_braincam_slogger_9x16",
+  "composition": "BrainCam-9x16",
+  "props": {
+   "run": "ga2",
+   "archetype": "slogger",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A2_braincam_slogger_9x16.mp4"
+ },
+ {
+  "id": "A2_braincam_slogger_x05_16x9",
+  "composition": "BrainCam-16x9",
+  "props": {
+   "run": "ga2",
+   "archetype": "slogger",
+   "speed": 0.5
+  },
+  "out": "out/renders/brain/A2_braincam_slogger_x05_16x9.mp4"
+ },
+ {
+  "id": "A2_braincam_slogger_x05_9x16",
+  "composition": "BrainCam-9x16",
+  "props": {
+   "run": "ga2",
+   "archetype": "slogger",
+   "speed": 0.5
+  },
+  "out": "out/renders/brain/A2_braincam_slogger_x05_9x16.mp4"
+ },
+ {
+  "id": "A2_braincam_technician_16x9",
+  "composition": "BrainCam-16x9",
+  "props": {
+   "run": "ga2",
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A2_braincam_technician_16x9.mp4"
+ },
+ {
+  "id": "A2_braincam_technician_9x16",
+  "composition": "BrainCam-9x16",
+  "props": {
+   "run": "ga2",
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A2_braincam_technician_9x16.mp4"
+ },
+ {
+  "id": "A2_braincam_technician_x05_16x9",
+  "composition": "BrainCam-16x9",
+  "props": {
+   "run": "ga2",
+   "archetype": "technician",
+   "speed": 0.5
+  },
+  "out": "out/renders/brain/A2_braincam_technician_x05_16x9.mp4"
+ },
+ {
+  "id": "A2_braincam_technician_x05_9x16",
+  "composition": "BrainCam-9x16",
+  "props": {
+   "run": "ga2",
+   "archetype": "technician",
+   "speed": 0.5
+  },
+  "out": "out/renders/brain/A2_braincam_technician_x05_9x16.mp4"
+ },
+ {
+  "id": "A2_braincam_tailender_16x9",
+  "composition": "BrainCam-16x9",
+  "props": {
+   "run": "ga2",
+   "archetype": "tailender",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A2_braincam_tailender_16x9.mp4"
+ },
+ {
+  "id": "A2_braincam_tailender_9x16",
+  "composition": "BrainCam-9x16",
+  "props": {
+   "run": "ga2",
+   "archetype": "tailender",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A2_braincam_tailender_9x16.mp4"
+ },
+ {
+  "id": "A2_braincam_tailender_x05_16x9",
+  "composition": "BrainCam-16x9",
+  "props": {
+   "run": "ga2",
+   "archetype": "tailender",
+   "speed": 0.5
+  },
+  "out": "out/renders/brain/A2_braincam_tailender_x05_16x9.mp4"
+ },
+ {
+  "id": "A2_braincam_tailender_x05_9x16",
+  "composition": "BrainCam-9x16",
+  "props": {
+   "run": "ga2",
+   "archetype": "tailender",
+   "speed": 0.5
+  },
+  "out": "out/renders/brain/A2_braincam_tailender_x05_9x16.mp4"
+ },
+ {
+  "id": "A2_braincam_v1_technician_16x9",
+  "composition": "BrainCam-16x9",
+  "props": {
+   "run": "ga1500",
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A2_braincam_v1_technician_16x9.mp4"
+ },
+ {
+  "id": "A2_braincam_v1_technician_9x16",
+  "composition": "BrainCam-9x16",
+  "props": {
+   "run": "ga1500",
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A2_braincam_v1_technician_9x16.mp4"
+ },
+ {
+  "id": "A3_behaviour_swarm_16x9",
+  "composition": "BehaviourSwarm-16x9",
+  "props": {
+   "seconds": 22
+  },
+  "out": "out/renders/brain/A3_behaviour_swarm_16x9.mp4"
+ },
+ {
+  "id": "A3_behaviour_swarm_9x16",
+  "composition": "BehaviourSwarm-9x16",
+  "props": {
+   "seconds": 22
+  },
+  "out": "out/renders/brain/A3_behaviour_swarm_9x16.mp4"
+ },
+ {
+  "id": "A4_weight_heatmaps_16x9",
+  "composition": "Heatmaps-16x9",
+  "props": {
+   "run": "ga2",
+   "seconds": 20
+  },
+  "out": "out/renders/brain/A4_weight_heatmaps_16x9.mp4"
+ },
+ {
+  "id": "A4_weight_heatmaps_9x16",
+  "composition": "Heatmaps-9x16",
+  "props": {
+   "run": "ga2",
+   "seconds": 20
+  },
+  "out": "out/renders/brain/A4_weight_heatmaps_9x16.mp4"
+ },
+ {
+  "id": "A5_decision_length_16x9",
+  "composition": "Decision-16x9",
+  "props": {
+   "output": "length_category",
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A5_decision_length_16x9.mp4"
+ },
+ {
+  "id": "A5_decision_length_9x16",
+  "composition": "Decision-9x16",
+  "props": {
+   "output": "length_category",
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A5_decision_length_9x16.mp4"
+ },
+ {
+  "id": "A5_decision_speed_16x9",
+  "composition": "Decision-16x9",
+  "props": {
+   "output": "speed",
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A5_decision_speed_16x9.mp4"
+ },
+ {
+  "id": "A5_decision_speed_9x16",
+  "composition": "Decision-9x16",
+  "props": {
+   "output": "speed",
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A5_decision_speed_9x16.mp4"
+ },
+ {
+  "id": "A6_family_tree_16x9",
+  "composition": "Tree-16x9",
+  "props": {
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A6_family_tree_16x9.mp4"
+ },
+ {
+  "id": "A6_family_tree_9x16",
+  "composition": "Tree-9x16",
+  "props": {
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A6_family_tree_9x16.mp4"
+ },
+ {
+  "id": "A7a_curve_ga2_16x9",
+  "composition": "Curve-16x9",
+  "props": {
+   "run": "ga2",
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A7a_curve_ga2_16x9.mp4"
+ },
+ {
+  "id": "A7a_curve_ga2_9x16",
+  "composition": "Curve-9x16",
+  "props": {
+   "run": "ga2",
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A7a_curve_ga2_9x16.mp4"
+ },
+ {
+  "id": "A7b_curve_ga1500_16x9",
+  "composition": "Curve-16x9",
+  "props": {
+   "run": "ga1500",
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A7b_curve_ga1500_16x9.mp4"
+ },
+ {
+  "id": "A7b_curve_ga1500_9x16",
+  "composition": "Curve-9x16",
+  "props": {
+   "run": "ga1500",
+   "seconds": 14
+  },
+  "out": "out/renders/brain/A7b_curve_ga1500_9x16.mp4"
+ },
+ {
+  "id": "A9_retest_bars_16x9",
+  "composition": "Retest-16x9",
+  "props": {
+   "seconds": 6
+  },
+  "out": "out/renders/brain/A9_retest_bars_16x9.mp4"
+ },
+ {
+  "id": "A9_retest_bars_9x16",
+  "composition": "Retest-9x16",
+  "props": {
+   "seconds": 6
+  },
+  "out": "out/renders/brain/A9_retest_bars_9x16.mp4"
+ },
+ {
+  "id": "A8_v1_vs_v2_slogger_16x9",
+  "composition": "V1V2-16x9",
+  "props": {
+   "archetype": "slogger",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A8_v1_vs_v2_slogger_16x9.mp4"
+ },
+ {
+  "id": "A8_v1_vs_v2_slogger_9x16",
+  "composition": "V1V2-9x16",
+  "props": {
+   "archetype": "slogger",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A8_v1_vs_v2_slogger_9x16.mp4"
+ },
+ {
+  "id": "A8_v1_vs_v2_technician_16x9",
+  "composition": "V1V2-16x9",
+  "props": {
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A8_v1_vs_v2_technician_16x9.mp4"
+ },
+ {
+  "id": "A8_v1_vs_v2_technician_9x16",
+  "composition": "V1V2-9x16",
+  "props": {
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A8_v1_vs_v2_technician_9x16.mp4"
+ },
+ {
+  "id": "A8_v1_vs_v2_tailender_16x9",
+  "composition": "V1V2-16x9",
+  "props": {
+   "archetype": "tailender",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A8_v1_vs_v2_tailender_16x9.mp4"
+ },
+ {
+  "id": "A8_v1_vs_v2_tailender_9x16",
+  "composition": "V1V2-9x16",
+  "props": {
+   "archetype": "tailender",
+   "speed": 1
+  },
+  "out": "out/renders/brain/A8_v1_vs_v2_tailender_9x16.mp4"
+ }
+]

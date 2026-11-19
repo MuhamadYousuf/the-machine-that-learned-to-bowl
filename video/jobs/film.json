@@ -1,0 +1,4 @@
+[
+ {"id": "film_9x16", "composition": "Film-9x16", "props": {"format": "9x16", "audio": true}, "out": "out/film/AI_learns_to_bowl_9x16.mp4", "concurrency": 6},
+ {"id": "film_16x9", "composition": "Film-16x9", "props": {"format": "16x9", "audio": true}, "out": "out/film/AI_learns_to_bowl_16x9.mp4", "concurrency": 6}
+]

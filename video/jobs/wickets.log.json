@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bowled_stump",
+    "out": "out/stills/wk/bowled_stump.png",
+    "frames": 393,
+    "seconds": 6.967
+  },
+  {
+    "id": "bowled_bc",
+    "out": "out/stills/wk/bowled_bc.png",
+    "frames": 393,
+    "seconds": 1.414
+  },
+  {
+    "id": "lbw_side",
+    "out": "out/stills/wk/lbw_side.png",
+    "frames": 384,
+    "seconds": 1.462
+  },
+  {
+    "id": "lbw_bat",
+    "out": "out/stills/wk/lbw_bat.png",
+    "frames": 384,
+    "seconds": 1.4
+  },
+  {
+    "id": "cb_bat",
+    "out": "out/stills/wk/cb_bat.png",
+    "frames": 380,
+    "seconds": 2.351
+  }
+]

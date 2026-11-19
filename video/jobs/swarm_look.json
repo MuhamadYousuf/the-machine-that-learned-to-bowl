@@ -1,0 +1,7 @@
+[
+ {"id":"sw1","composition":"Swarm-16x9","props":{"generations":[1],"archetype":"technician","camera":"broadcast","speed":0.5,"orbit":false},"out":"out/stills/swarm/g1_bc.png","still":[220,300]},
+ {"id":"sw1500","composition":"Swarm-16x9","props":{"generations":[1500],"archetype":"technician","camera":"broadcast","speed":0.5,"orbit":false},"out":"out/stills/swarm/g1500_bc.png","still":[300]},
+ {"id":"sw1v","composition":"Swarm-9x16","props":{"generations":[1],"archetype":"slogger","camera":"broadcast","speed":0.5,"orbit":false},"out":"out/stills/swarm/g1_v.png","still":[300]},
+ {"id":"sw1500v","composition":"Swarm-9x16","props":{"generations":[1500],"archetype":"slogger","camera":"broadcast","speed":0.5,"orbit":false},"out":"out/stills/swarm/g1500_v.png","still":[300]},
+ {"id":"sw1o","composition":"Swarm-16x9","props":{"generations":[1],"archetype":"technician","camera":"broadcast","speed":0.5,"orbit":true},"out":"out/stills/swarm/g1_orbit.png","still":[300]}
+]

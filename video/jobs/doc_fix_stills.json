@@ -1,0 +1,5 @@
+[
+ {"id": "s9", "composition": "Doc-short-9x16", "props": {"format": "9x16", "audio": false, "cut": "short"}, "out": "out/edit_review/docfix/s9.png", "still": [1400, 1560, 1760, 6040, 6120]},
+ {"id": "s16", "composition": "Doc-short-16x9", "props": {"format": "16x9", "audio": false, "cut": "short"}, "out": "out/edit_review/docfix/s16.png", "still": [6040, 6120]},
+ {"id": "l16", "composition": "Doc-long-16x9", "props": {"format": "16x9", "audio": false, "cut": "long"}, "out": "out/edit_review/docfix/l16.png", "still": [22520, 22660]}
+]

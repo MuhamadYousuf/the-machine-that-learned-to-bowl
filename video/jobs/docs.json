@@ -1,0 +1,5 @@
+[
+ {"id": "doc_short_9x16", "composition": "Doc-short-9x16", "props": {"format": "9x16", "audio": true, "cut": "short"}, "out": "out/film/doc_short_9x16.mp4"},
+ {"id": "doc_short_16x9", "composition": "Doc-short-16x9", "props": {"format": "16x9", "audio": true, "cut": "short"}, "out": "out/film/doc_short_16x9.mp4"},
+ {"id": "doc_long_16x9", "composition": "Doc-long-16x9", "props": {"format": "16x9", "audio": true, "cut": "long"}, "out": "out/film/doc_long_16x9.mp4"}
+]

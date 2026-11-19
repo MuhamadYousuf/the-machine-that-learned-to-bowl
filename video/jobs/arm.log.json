@@ -1,0 +1,14 @@
+[
+  {
+    "id": "arm_armSide",
+    "out": "out/edit_review/arm/armSide.png",
+    "frames": 360,
+    "seconds": 31.034
+  },
+  {
+    "id": "arm_armFront",
+    "out": "out/edit_review/arm/armFront.png",
+    "frames": 360,
+    "seconds": 29.464
+  }
+]

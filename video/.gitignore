@@ -1,0 +1,6 @@
+node_modules
+out
+audio/.venv
+public/clips
+public/edit/*.wav
+public/models/   # third-party Unity Asset Store pack: licensed for use, not for redistribution

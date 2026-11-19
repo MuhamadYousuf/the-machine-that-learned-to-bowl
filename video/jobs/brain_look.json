@@ -1,0 +1,226 @@
+[
+ {
+  "id": "BrainMorph_16x9",
+  "composition": "BrainMorph-16x9",
+  "props": {
+   "run": "ga2",
+   "mode": "morph",
+   "seconds": 20
+  },
+  "out": "out/stills/brain/BrainMorph_16x9.png",
+  "still": [
+   150,
+   1300
+  ]
+ },
+ {
+  "id": "BrainMorph_9x16",
+  "composition": "BrainMorph-9x16",
+  "props": {
+   "run": "ga2",
+   "mode": "morph",
+   "seconds": 20
+  },
+  "out": "out/stills/brain/BrainMorph_9x16.png",
+  "still": [
+   150,
+   1300
+  ]
+ },
+ {
+  "id": "BrainCam_16x9",
+  "composition": "BrainCam-16x9",
+  "props": {
+   "run": "ga2",
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/stills/brain/BrainCam_16x9.png",
+  "still": [
+   275,
+   470
+  ]
+ },
+ {
+  "id": "BrainCam_9x16",
+  "composition": "BrainCam-9x16",
+  "props": {
+   "run": "ga2",
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/stills/brain/BrainCam_9x16.png",
+  "still": [
+   275,
+   470
+  ]
+ },
+ {
+  "id": "BehaviourSwarm_16x9",
+  "composition": "BehaviourSwarm-16x9",
+  "props": {
+   "seconds": 22
+  },
+  "out": "out/stills/brain/BehaviourSwarm_16x9.png",
+  "still": [
+   150,
+   1400
+  ]
+ },
+ {
+  "id": "BehaviourSwarm_9x16",
+  "composition": "BehaviourSwarm-9x16",
+  "props": {
+   "seconds": 22
+  },
+  "out": "out/stills/brain/BehaviourSwarm_9x16.png",
+  "still": [
+   150,
+   1400
+  ]
+ },
+ {
+  "id": "Heatmaps_16x9",
+  "composition": "Heatmaps-16x9",
+  "props": {
+   "run": "ga2",
+   "seconds": 20
+  },
+  "out": "out/stills/brain/Heatmaps_16x9.png",
+  "still": [
+   150,
+   1300
+  ]
+ },
+ {
+  "id": "Heatmaps_9x16",
+  "composition": "Heatmaps-9x16",
+  "props": {
+   "run": "ga2",
+   "seconds": 20
+  },
+  "out": "out/stills/brain/Heatmaps_9x16.png",
+  "still": [
+   150,
+   1300
+  ]
+ },
+ {
+  "id": "Decision_16x9",
+  "composition": "Decision-16x9",
+  "props": {
+   "output": "length_category",
+   "seconds": 14
+  },
+  "out": "out/stills/brain/Decision_16x9.png",
+  "still": [
+   300,
+   900
+  ]
+ },
+ {
+  "id": "Decision_9x16",
+  "composition": "Decision-9x16",
+  "props": {
+   "output": "length_category",
+   "seconds": 14
+  },
+  "out": "out/stills/brain/Decision_9x16.png",
+  "still": [
+   300,
+   900
+  ]
+ },
+ {
+  "id": "Tree_16x9",
+  "composition": "Tree-16x9",
+  "props": {
+   "seconds": 14
+  },
+  "out": "out/stills/brain/Tree_16x9.png",
+  "still": [
+   900
+  ]
+ },
+ {
+  "id": "Tree_9x16",
+  "composition": "Tree-9x16",
+  "props": {
+   "seconds": 14
+  },
+  "out": "out/stills/brain/Tree_9x16.png",
+  "still": [
+   900
+  ]
+ },
+ {
+  "id": "Curve_16x9",
+  "composition": "Curve-16x9",
+  "props": {
+   "run": "ga2",
+   "seconds": 14
+  },
+  "out": "out/stills/brain/Curve_16x9.png",
+  "still": [
+   900
+  ]
+ },
+ {
+  "id": "Curve_9x16",
+  "composition": "Curve-9x16",
+  "props": {
+   "run": "ga2",
+   "seconds": 14
+  },
+  "out": "out/stills/brain/Curve_9x16.png",
+  "still": [
+   900
+  ]
+ },
+ {
+  "id": "Retest_16x9",
+  "composition": "Retest-16x9",
+  "props": {
+   "seconds": 6
+  },
+  "out": "out/stills/brain/Retest_16x9.png",
+  "still": [
+   440
+  ]
+ },
+ {
+  "id": "Retest_9x16",
+  "composition": "Retest-9x16",
+  "props": {
+   "seconds": 6
+  },
+  "out": "out/stills/brain/Retest_9x16.png",
+  "still": [
+   440
+  ]
+ },
+ {
+  "id": "V1V2_16x9",
+  "composition": "V1V2-16x9",
+  "props": {
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/stills/brain/V1V2_16x9.png",
+  "still": [
+   700
+  ]
+ },
+ {
+  "id": "V1V2_9x16",
+  "composition": "V1V2-9x16",
+  "props": {
+   "archetype": "technician",
+   "speed": 1
+  },
+  "out": "out/stills/brain/V1V2_9x16.png",
+  "still": [
+   700
+  ]
+ }
+]

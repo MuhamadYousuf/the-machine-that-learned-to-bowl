@@ -1,0 +1,9174 @@
+{
+ "format": "16x9",
+ "fps": 60,
+ "duration": 484.213,
+ "durationInFrames": 29053,
+ "sections": [
+  {
+   "scene": "open",
+   "mood": "hook",
+   "start": 0.0,
+   "end": 17.06
+  },
+  {
+   "scene": "c1_problem",
+   "mood": "build1",
+   "start": 17.06,
+   "end": 27.703
+  },
+  {
+   "scene": "c1_physics",
+   "mood": "build1",
+   "start": 27.703,
+   "end": 35.76
+  },
+  {
+   "scene": "c1_noise",
+   "mood": "build1",
+   "start": 35.76,
+   "end": 47.905
+  },
+  {
+   "scene": "c1_sim",
+   "mood": "build1",
+   "start": 47.905,
+   "end": 58.194
+  },
+  {
+   "scene": "c2_intro",
+   "mood": "build1",
+   "start": 58.194,
+   "end": 66.026
+  },
+  {
+   "scene": "c2_slogger",
+   "mood": "build1",
+   "start": 66.026,
+   "end": 78.972
+  },
+  {
+   "scene": "c2_technician",
+   "mood": "build1",
+   "start": 78.972,
+   "end": 91.856
+  },
+  {
+   "scene": "c2_tailender",
+   "mood": "build1",
+   "start": 91.856,
+   "end": 100.046
+  },
+  {
+   "scene": "c2_mind",
+   "mood": "build1",
+   "start": 100.046,
+   "end": 124.635
+  },
+  {
+   "scene": "c3_brain",
+   "mood": "think",
+   "start": 124.635,
+   "end": 148.796
+  },
+  {
+   "scene": "c4_evolve",
+   "mood": "build1",
+   "start": 148.796,
+   "end": 153.724
+  },
+  {
+   "scene": "c4_chaos",
+   "mood": "chaos",
+   "start": 153.724,
+   "end": 160.93
+  },
+  {
+   "scene": "c4_swarm",
+   "mood": "build1",
+   "start": 160.93,
+   "end": 165.212
+  },
+  {
+   "scene": "c4_tree",
+   "mood": "build1",
+   "start": 165.212,
+   "end": 173.437
+  },
+  {
+   "scene": "c4_curve",
+   "mood": "build2",
+   "start": 173.437,
+   "end": 180.979
+  },
+  {
+   "scene": "c4_montage",
+   "mood": "build2",
+   "start": 180.979,
+   "end": 207.757
+  },
+  {
+   "scene": "c4_family",
+   "mood": "build2",
+   "start": 207.757,
+   "end": 222.618
+  },
+  {
+   "scene": "c5_rise",
+   "mood": "twist",
+   "start": 222.618,
+   "end": 228.138
+  },
+  {
+   "scene": "c5_cheat",
+   "mood": "cheat",
+   "start": 228.138,
+   "end": 239.547
+  },
+  {
+   "scene": "c5_cheat2",
+   "mood": "cheat",
+   "start": 239.547,
+   "end": 245.059
+  },
+  {
+   "scene": "c5_why",
+   "mood": "cheat",
+   "start": 245.059,
+   "end": 261.443
+  },
+  {
+   "scene": "c5_name",
+   "mood": "cheat",
+   "start": 261.443,
+   "end": 269.788
+  },
+  {
+   "scene": "c6_fix",
+   "mood": "fix",
+   "start": 269.788,
+   "end": 274.384
+  },
+  {
+   "scene": "c6_pattern",
+   "mood": "fix",
+   "start": 274.384,
+   "end": 284.134
+  },
+  {
+   "scene": "c6_fade",
+   "mood": "fix",
+   "start": 284.134,
+   "end": 294.093
+  },
+  {
+   "scene": "c6_laws",
+   "mood": "fix",
+   "start": 294.093,
+   "end": 298.338
+  },
+  {
+   "scene": "c6_reset",
+   "mood": "fix",
+   "start": 298.338,
+   "end": 303.454
+  },
+  {
+   "scene": "c7_rise",
+   "mood": "rise",
+   "start": 303.454,
+   "end": 312.36
+  },
+  {
+   "scene": "c7_tech",
+   "mood": "hero",
+   "start": 312.36,
+   "end": 327.441
+  },
+  {
+   "scene": "c7_slog",
+   "mood": "hero",
+   "start": 327.441,
+   "end": 344.261
+  },
+  {
+   "scene": "c7_tail",
+   "mood": "hero",
+   "start": 344.261,
+   "end": 356.011
+  },
+  {
+   "scene": "c7_stats",
+   "mood": "hero",
+   "start": 356.011,
+   "end": 368.523
+  },
+  {
+   "scene": "c8_cam",
+   "mood": "think",
+   "start": 368.523,
+   "end": 375.079
+  },
+  {
+   "scene": "c8_map",
+   "mood": "think",
+   "start": 375.079,
+   "end": 379.723
+  },
+  {
+   "scene": "c8_swing",
+   "mood": "think",
+   "start": 379.723,
+   "end": 390.95
+  },
+  {
+   "scene": "c9_expert",
+   "mood": "result",
+   "start": 390.95,
+   "end": 419.765
+  },
+  {
+   "scene": "c9_verdict",
+   "mood": "result",
+   "start": 419.765,
+   "end": 440.606
+  },
+  {
+   "scene": "c10_limits",
+   "mood": "think",
+   "start": 440.606,
+   "end": 461.252
+  },
+  {
+   "scene": "c10_next",
+   "mood": "outro",
+   "start": 461.252,
+   "end": 464.819
+  },
+  {
+   "scene": "outro",
+   "mood": "outro",
+   "start": 464.819,
+   "end": 484.213
+  }
+ ],
+ "shots": [
+  {
+   "scene": "open",
+   "clip": "blender/open_bowled_release",
+   "start": 0.0,
+   "end": 4.495,
+   "rate": 1.0,
+   "zoom": [
+    1.08,
+    1.0
+   ],
+   "grade": null,
+   "src": 0.3,
+   "file": "clips/blender__open_bowled_release_16x9.mp4"
+  },
+  {
+   "scene": "open",
+   "clip": "blender/open_bowled_tele",
+   "start": 4.495,
+   "end": 6.949,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 3.0,
+   "file": "clips/blender__open_bowled_tele_16x9.mp4"
+  },
+  {
+   "scene": "open",
+   "clip": "blender/open_bowled_stumpsLow",
+   "start": 6.949,
+   "end": 9.274,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.775,
+   "file": "clips/blender__open_bowled_stumpsLow_16x9.mp4"
+  },
+  {
+   "scene": "open",
+   "clip": "blender/establish_wide",
+   "start": 9.274,
+   "end": 17.06,
+   "rate": 0.7,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/blender__establish_wide_16x9.mp4"
+  },
+  {
+   "scene": "c1_problem",
+   "clip": "blender/establish_runSide",
+   "start": 17.06,
+   "end": 27.703,
+   "rate": 0.5277,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/blender__establish_runSide_16x9.mp4"
+  },
+  {
+   "scene": "c1_physics",
+   "clip": "R1_hero/slogger_bowled_sideOn_x025",
+   "start": 27.703,
+   "end": 35.76,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 1.026,
+   "file": "clips/R1_hero__slogger_bowled_sideOn_x025_16x9.mp4"
+  },
+  {
+   "scene": "c1_noise",
+   "clip": "R2_overs/technician_pitchmap",
+   "start": 35.76,
+   "end": 47.905,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/R2_overs__technician_pitchmap_16x9.mp4"
+  },
+  {
+   "scene": "c1_sim",
+   "clip": "R1_hero/technician_caught_behind_broadcast_x025",
+   "start": 47.905,
+   "end": 54.868,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 1.187,
+   "file": "clips/R1_hero__technician_caught_behind_broadcast_x025_16x9.mp4"
+  },
+  {
+   "scene": "c1_sim",
+   "clip": "blender/slog_fours_tele",
+   "start": 54.868,
+   "end": 58.194,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.5,
+   "file": "clips/blender__slog_fours_tele_16x9.mp4"
+  },
+  {
+   "scene": "c2_intro",
+   "clip": "blender/establish_wide",
+   "start": 58.194,
+   "end": 66.026,
+   "rate": 0.7171,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/blender__establish_wide_16x9.mp4"
+  },
+  {
+   "scene": "c2_slogger",
+   "clip": "blender/slog_fours_tele",
+   "start": 66.026,
+   "end": 72.986,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/blender__slog_fours_tele_16x9.mp4"
+  },
+  {
+   "scene": "c2_slogger",
+   "clip": "R5_pitchmap/ga2_slogger",
+   "start": 72.986,
+   "end": 78.972,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 6.0,
+   "file": "clips/R5_pitchmap__ga2_slogger_16x9.mp4"
+  },
+  {
+   "scene": "c2_technician",
+   "clip": "duel/tech_over5",
+   "start": 78.972,
+   "end": 85.645,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.2,
+   "file": "clips/duel__tech_over5_16x9.mp4"
+  },
+  {
+   "scene": "c2_technician",
+   "clip": "R1_hero/technician_caught_behind_sideOn_x025",
+   "start": 85.645,
+   "end": 91.856,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 1.939,
+   "file": "clips/R1_hero__technician_caught_behind_sideOn_x025_16x9.mp4"
+  },
+  {
+   "scene": "c2_tailender",
+   "clip": "blender/tail_lbw_tele",
+   "start": 91.856,
+   "end": 100.046,
+   "rate": 0.9178,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/blender__tail_lbw_tele_16x9.mp4"
+  },
+  {
+   "scene": "c2_mind",
+   "clip": "duel/tech_over5",
+   "start": 100.046,
+   "end": 124.635,
+   "rate": 0.8676,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/duel__tech_over5_16x9.mp4"
+  },
+  {
+   "scene": "c3_brain",
+   "clip": "brain/A1_brain_morph",
+   "start": 124.635,
+   "end": 136.075,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/brain__A1_brain_morph_16x9.mp4"
+  },
+  {
+   "scene": "c3_brain",
+   "clip": "brain/A4_weight_heatmaps",
+   "start": 136.075,
+   "end": 142.117,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 3.0,
+   "file": "clips/brain__A4_weight_heatmaps_16x9.mp4"
+  },
+  {
+   "scene": "c3_brain",
+   "clip": "brain/A1_brain_milestones",
+   "start": 142.117,
+   "end": 148.796,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/brain__A1_brain_milestones_16x9.mp4"
+  },
+  {
+   "scene": "c4_evolve",
+   "clip": "brain/A3_behaviour_swarm",
+   "start": 148.796,
+   "end": 153.724,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/brain__A3_behaviour_swarm_16x9.mp4"
+  },
+  {
+   "scene": "c4_chaos",
+   "clip": "R6_chaos/gen0_broadcast",
+   "start": 153.724,
+   "end": 160.93,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.2,
+   "file": "clips/R6_chaos__gen0_broadcast_16x9.mp4"
+  },
+  {
+   "scene": "c4_swarm",
+   "clip": "R3_swarm/montage_technician_broadcast",
+   "start": 160.93,
+   "end": 165.212,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 1.516,
+   "file": "clips/R3_swarm__montage_technician_broadcast_16x9.mp4"
+  },
+  {
+   "scene": "c4_tree",
+   "clip": "brain/A6_family_tree",
+   "start": 165.212,
+   "end": 173.437,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 8.0,
+   "file": "clips/brain__A6_family_tree_16x9.mp4"
+  },
+  {
+   "scene": "c4_curve",
+   "clip": "brain/A7a_curve_ga2",
+   "start": 173.437,
+   "end": 180.979,
+   "rate": 2.2,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 1.358,
+   "file": "clips/brain__A7a_curve_ga2_16x9.mp4"
+  },
+  {
+   "scene": "c4_montage",
+   "clip": "R3_swarm/montage_technician_orbit",
+   "start": 180.979,
+   "end": 191.239,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/R3_swarm__montage_technician_orbit_16x9.mp4"
+  },
+  {
+   "scene": "c4_montage",
+   "clip": "R3_swarm/montage_technician_orbit",
+   "start": 191.239,
+   "end": 193.614,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 10.467,
+   "file": "clips/R3_swarm__montage_technician_orbit_16x9.mp4"
+  },
+  {
+   "scene": "c4_montage",
+   "clip": "R3_swarm/montage_technician_orbit",
+   "start": 193.614,
+   "end": 198.33,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 18.683,
+   "file": "clips/R3_swarm__montage_technician_orbit_16x9.mp4"
+  },
+  {
+   "scene": "c4_montage",
+   "clip": "R3_swarm/montage_technician_orbit",
+   "start": 198.33,
+   "end": 207.757,
+   "rate": 0.5907,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 26.899,
+   "file": "clips/R3_swarm__montage_technician_orbit_16x9.mp4"
+  },
+  {
+   "scene": "c4_family",
+   "clip": "brain/A6_family_tree",
+   "start": 207.757,
+   "end": 222.618,
+   "rate": 0.8,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 6.061,
+   "file": "clips/brain__A6_family_tree_16x9.mp4"
+  },
+  {
+   "scene": "c5_rise",
+   "clip": "brain/A7b_curve_ga1500",
+   "start": 222.618,
+   "end": 228.138,
+   "rate": 2.2,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": "red",
+   "src": 2.0,
+   "file": "clips/brain__A7b_curve_ga1500_16x9.mp4"
+  },
+  {
+   "scene": "c5_cheat",
+   "clip": "R5_pitchmap/ga1500_technician",
+   "start": 228.138,
+   "end": 234.176,
+   "rate": 1.4,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": "red",
+   "src": 2.0,
+   "file": "clips/R5_pitchmap__ga1500_technician_16x9.mp4"
+  },
+  {
+   "scene": "c5_cheat",
+   "clip": "brain/A2_braincam_v1_technician",
+   "start": 234.176,
+   "end": 239.547,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": "red",
+   "src": 2.4,
+   "file": "clips/brain__A2_braincam_v1_technician_16x9.mp4"
+  },
+  {
+   "scene": "c5_cheat2",
+   "clip": "R4_v1_vs_v2/v1_only_technician_sideOn",
+   "start": 239.547,
+   "end": 245.059,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": "red",
+   "src": 2.0,
+   "file": "clips/R4_v1_vs_v2__v1_only_technician_sideOn_16x9.mp4"
+  },
+  {
+   "scene": "c5_why",
+   "clip": "brain/A8_v1_vs_v2_technician",
+   "start": 245.059,
+   "end": 261.443,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": "red",
+   "src": 2.316,
+   "file": "clips/brain__A8_v1_vs_v2_technician_16x9.mp4"
+  },
+  {
+   "scene": "c5_name",
+   "clip": "R4_v1_vs_v2/technician_pitchMap",
+   "start": 261.443,
+   "end": 269.788,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": "red",
+   "src": 2.0,
+   "file": "clips/R4_v1_vs_v2__technician_pitchMap_16x9.mp4"
+  },
+  {
+   "scene": "c6_fix",
+   "clip": "R2_overs/technician_broadcast",
+   "start": 269.788,
+   "end": 274.384,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": "dim",
+   "src": 2.0,
+   "file": "clips/R2_overs__technician_broadcast_16x9.mp4"
+  },
+  {
+   "scene": "c6_pattern",
+   "clip": "duel/pattern",
+   "start": 274.384,
+   "end": 284.134,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 3.245,
+   "file": "clips/duel__pattern_16x9.mp4"
+  },
+  {
+   "scene": "c6_fade",
+   "clip": "R2_overs/slogger_pitchmap",
+   "start": 284.134,
+   "end": 294.093,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/R2_overs__slogger_pitchmap_16x9.mp4"
+  },
+  {
+   "scene": "c6_laws",
+   "clip": "R2_overs/tailender_broadcast",
+   "start": 294.093,
+   "end": 298.338,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": "dim",
+   "src": 2.0,
+   "file": "clips/R2_overs__tailender_broadcast_16x9.mp4"
+  },
+  {
+   "scene": "c6_reset",
+   "clip": "R6_chaos/gen0_broadcast",
+   "start": 298.338,
+   "end": 303.454,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": "dim",
+   "src": 12.0,
+   "file": "clips/R6_chaos__gen0_broadcast_16x9.mp4"
+  },
+  {
+   "scene": "c7_rise",
+   "clip": "R3_swarm/gen0001_vs_1500_orbit",
+   "start": 303.454,
+   "end": 312.36,
+   "rate": 0.9435,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 3.73,
+   "file": "clips/R3_swarm__gen0001_vs_1500_orbit_16x9.mp4"
+  },
+  {
+   "scene": "c7_tech",
+   "clip": "duel/tech_over5",
+   "start": 312.36,
+   "end": 319.73,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.106,
+   "file": "clips/duel__tech_over5_16x9.mp4"
+  },
+  {
+   "scene": "c7_tech",
+   "clip": "blender/tech_edge_tele",
+   "start": 319.73,
+   "end": 327.441,
+   "rate": 0.7529,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 1.811,
+   "file": "clips/blender__tech_edge_tele_16x9.mp4"
+  },
+  {
+   "scene": "c7_slog",
+   "clip": "duel/slog_over17",
+   "start": 327.441,
+   "end": 330.687,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 3.504,
+   "file": "clips/duel__slog_over17_16x9.mp4"
+  },
+  {
+   "scene": "c7_slog",
+   "clip": "blender/slog_fours_tele",
+   "start": 330.687,
+   "end": 331.225,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.767,
+   "file": "clips/blender__slog_fours_tele_16x9.mp4"
+  },
+  {
+   "scene": "c7_slog",
+   "clip": "blender/slog_fours_tele",
+   "start": 331.225,
+   "end": 331.575,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 8.65,
+   "file": "clips/blender__slog_fours_tele_16x9.mp4"
+  },
+  {
+   "scene": "c7_slog",
+   "clip": "blender/slog_fours_tele",
+   "start": 331.575,
+   "end": 332.585,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 14.35,
+   "file": "clips/blender__slog_fours_tele_16x9.mp4"
+  },
+  {
+   "scene": "c7_slog",
+   "clip": "duel/slog_over17",
+   "start": 332.585,
+   "end": 337.461,
+   "rate": 0.9506,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 17.748,
+   "file": "clips/duel__slog_over17_16x9.mp4"
+  },
+  {
+   "scene": "c7_slog",
+   "clip": "blender/open_bowled_tele",
+   "start": 337.461,
+   "end": 341.181,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.087,
+   "file": "clips/blender__open_bowled_tele_16x9.mp4"
+  },
+  {
+   "scene": "c7_slog",
+   "clip": "blender/open_bowled_stumpsLow",
+   "start": 341.181,
+   "end": 344.261,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 4.3,
+   "file": "clips/blender__open_bowled_stumpsLow_16x9.mp4"
+  },
+  {
+   "scene": "c7_tail",
+   "clip": "blender/tail_lbw_tele",
+   "start": 344.261,
+   "end": 352.831,
+   "rate": 0.8771,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/blender__tail_lbw_tele_16x9.mp4"
+  },
+  {
+   "scene": "c7_tail",
+   "clip": "blender/tail_lbw_stumpsLow",
+   "start": 352.831,
+   "end": 356.011,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 3.467,
+   "file": "clips/blender__tail_lbw_stumpsLow_16x9.mp4"
+  },
+  {
+   "scene": "c7_stats",
+   "clip": "R5_pitchmap/ga2_slogger",
+   "start": 356.011,
+   "end": 368.523,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 8.0,
+   "file": "clips/R5_pitchmap__ga2_slogger_16x9.mp4"
+  },
+  {
+   "scene": "c8_cam",
+   "clip": "brain/A2_braincam_technician",
+   "start": 368.523,
+   "end": 375.079,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.6,
+   "file": "clips/brain__A2_braincam_technician_16x9.mp4"
+  },
+  {
+   "scene": "c8_map",
+   "clip": "brain/A2_braincam_slogger",
+   "start": 375.079,
+   "end": 379.723,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 1.0,
+   "file": "clips/brain__A2_braincam_slogger_16x9.mp4"
+  },
+  {
+   "scene": "c8_swing",
+   "clip": "R1_hero/technician_caught_behind_batterEnd_x025",
+   "start": 379.723,
+   "end": 390.95,
+   "rate": 0.7259,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/R1_hero__technician_caught_behind_batterEnd_x025_16x9.mp4"
+  },
+  {
+   "scene": "c9_expert",
+   "clip": "R2_overs/technician_pitchmap",
+   "start": 390.95,
+   "end": 398.715,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 2.0,
+   "file": "clips/R2_overs__technician_pitchmap_16x9.mp4"
+  },
+  {
+   "scene": "c9_expert",
+   "clip": "R5_pitchmap/ga2_tailender",
+   "start": 398.715,
+   "end": 407.326,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 6.0,
+   "file": "clips/R5_pitchmap__ga2_tailender_16x9.mp4"
+  },
+  {
+   "scene": "c9_expert",
+   "clip": "R5_pitchmap/ga2_technician",
+   "start": 407.326,
+   "end": 419.765,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 6.0,
+   "file": "clips/R5_pitchmap__ga2_technician_16x9.mp4"
+  },
+  {
+   "scene": "c9_verdict",
+   "clip": "@bars",
+   "start": 419.765,
+   "end": 440.606,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null
+  },
+  {
+   "scene": "c10_limits",
+   "clip": "blender/establish_wide",
+   "start": 440.606,
+   "end": 452.441,
+   "rate": 0.4746,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/blender__establish_wide_16x9.mp4"
+  },
+  {
+   "scene": "c10_limits",
+   "clip": "R3_swarm/montage_technician_orbit",
+   "start": 452.441,
+   "end": 461.252,
+   "rate": 0.7,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 26.299,
+   "file": "clips/R3_swarm__montage_technician_orbit_16x9.mp4"
+  },
+  {
+   "scene": "c10_next",
+   "clip": "blender/establish_runSide",
+   "start": 461.252,
+   "end": 464.819,
+   "rate": 0.7,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/blender__establish_runSide_16x9.mp4"
+  },
+  {
+   "scene": "outro",
+   "clip": "blender/open_bowled_release",
+   "start": 464.819,
+   "end": 474.313,
+   "rate": 0.85,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null,
+   "src": 0.0,
+   "file": "clips/blender__open_bowled_release_16x9.mp4"
+  },
+  {
+   "scene": "outro",
+   "clip": "@endcard",
+   "start": 474.313,
+   "end": 484.213,
+   "rate": 1.0,
+   "zoom": [
+    1,
+    1
+   ],
+   "grade": null
+  }
+ ],
+ "overlays": [
+  {
+   "type": "title",
+   "at": "L004.end+0.6",
+   "until": "scene.end",
+   "text": "THE MACHINE THAT LEARNED TO BOWL",
+   "start": 15.26,
+   "end": 17.06
+  },
+  {
+   "type": "chapter",
+   "n": "01",
+   "title": "THE PROBLEM",
+   "start": 17.06,
+   "end": 19.56
+  },
+  {
+   "type": "chips",
+   "at": "L011@fast",
+   "until": "scene.end",
+   "items": [
+    [
+     "SPEED",
+     24.65
+    ],
+    [
+     "LENGTH",
+     25.388
+    ],
+    [
+     "LINE",
+     25.938
+    ],
+    [
+     "SWING",
+     26.913
+    ]
+   ],
+   "pos": "bottom",
+   "start": 24.65,
+   "end": 27.703
+  },
+  {
+   "type": "chips",
+   "at": "L012@Gravity",
+   "until": "scene.end",
+   "items": [
+    [
+     "GRAVITY",
+     29.581
+    ],
+    [
+     "AIR DRAG",
+     31.056
+    ],
+    [
+     "SWING",
+     32.269
+    ],
+    [
+     "BOUNCE",
+     33.906
+    ]
+   ],
+   "pos": "bottom",
+   "start": 29.581,
+   "end": 35.76
+  },
+  {
+   "type": "label",
+   "at": "L014@wobble",
+   "until": "scene.end",
+   "text": "EVERY RELEASE GETS A RANDOM WOBBLE",
+   "pos": "top",
+   "start": 45.159,
+   "end": 47.905
+  },
+  {
+   "type": "label",
+   "at": "L014b@milliseconds",
+   "until": "L015-0.2",
+   "text": "STEPPED EVERY 2 MS",
+   "pos": "top",
+   "start": 52.207,
+   "end": 54.768
+  },
+  {
+   "type": "chapter",
+   "n": "02",
+   "title": "MEET THE BATTERS",
+   "start": 58.194,
+   "end": 60.694
+  },
+  {
+   "type": "card",
+   "at": "L021",
+   "until": "L022.end",
+   "name": "THE SLOGGER",
+   "colour": "red",
+   "lines": [
+    "Aggression 94 / 100",
+    "Punishes full and short",
+    "Weak: yorker, slower ball"
+   ],
+   "start": 66.246,
+   "end": 77.792
+  },
+  {
+   "type": "card",
+   "at": "L023",
+   "until": "L024.end",
+   "name": "THE TECHNICIAN",
+   "colour": "blue",
+   "lines": [
+    "Skill 91 / 100",
+    "Leaves wide, blocks straight",
+    "Weak: good length, moving away late"
+   ],
+   "start": 79.192,
+   "end": 90.676
+  },
+  {
+   "type": "card",
+   "at": "L025",
+   "until": "scene.end",
+   "name": "THE TAILENDER",
+   "colour": "yellow",
+   "lines": [
+    "Skill 30 / 100",
+    "Hops around against the short ball",
+    "Weak: full and straight"
+   ],
+   "start": 92.076,
+   "end": 100.046
+  },
+  {
+   "type": "label",
+   "at": "L027@confidence",
+   "until": "scene.end",
+   "text": "CONFIDENCE RISES WITH REPETITION",
+   "pos": "bottom",
+   "start": 107.709,
+   "end": 124.635
+  },
+  {
+   "type": "chapter",
+   "n": "03",
+   "title": "THE BRAIN",
+   "start": 124.635,
+   "end": 127.135
+  },
+  {
+   "type": "stat",
+   "at": "L030@Eighteen",
+   "until": "L031-0.1",
+   "big": "18",
+   "small": "INPUTS",
+   "pos": "top",
+   "start": 129.299,
+   "end": 134.946
+  },
+  {
+   "type": "stat",
+   "at": "L031@Four",
+   "until": "L031@One-0.1",
+   "big": "4",
+   "small": "OUTPUTS",
+   "pos": "top",
+   "start": 136.075,
+   "end": 138.387
+  },
+  {
+   "type": "counter",
+   "at": "L031@One",
+   "until": "L032-0.1",
+   "to": 1156,
+   "dur": 1.2,
+   "small": "NUMBERS",
+   "pos": "top",
+   "start": 138.487,
+   "end": 142.017
+  },
+  {
+   "type": "chapter",
+   "n": "04",
+   "title": "EVOLUTION",
+   "start": 148.796,
+   "end": 151.296
+  },
+  {
+   "type": "gen",
+   "at": "scene",
+   "until": "scene.end",
+   "from": 0,
+   "to": 0,
+   "start": 153.724,
+   "end": 160.93
+  },
+  {
+   "type": "stat",
+   "at": "L041@ninety",
+   "until": "scene.end",
+   "big": "192",
+   "small": "BRAINS",
+   "sub": "48 overs each",
+   "pos": "top",
+   "start": 161.764,
+   "end": 165.212
+  },
+  {
+   "type": "label",
+   "at": "L042@best",
+   "until": "scene.end",
+   "text": "TOP 8 SURVIVE \u00b7 THE REST ARE BRED",
+   "pos": "bottom",
+   "start": 165.522,
+   "end": 173.437
+  },
+  {
+   "type": "counter",
+   "at": "L043@fifteen",
+   "until": "scene.end",
+   "to": 1500,
+   "dur": 1.4,
+   "small": "GENERATIONS",
+   "pos": "top",
+   "start": 174.303,
+   "end": 180.979
+  },
+  {
+   "type": "counter",
+   "at": "L043@eighty",
+   "until": "scene.end",
+   "to": 82944000,
+   "dur": 1.4,
+   "small": "DELIVERIES",
+   "pos": "bottom",
+   "start": 176.803,
+   "end": 180.979
+  },
+  {
+   "type": "gen",
+   "at": "L044",
+   "until": "L045@fifty-0.3",
+   "from": 1,
+   "to": 1,
+   "start": 181.199,
+   "end": 191.239
+  },
+  {
+   "type": "gen",
+   "at": "L045@fifty-0.3",
+   "until": "L045@five-0.3",
+   "from": 50,
+   "to": 50,
+   "start": 191.239,
+   "end": 193.614
+  },
+  {
+   "type": "gen",
+   "at": "L045@five-0.3",
+   "until": "L046-0.2",
+   "from": 500,
+   "to": 500,
+   "start": 193.614,
+   "end": 198.33
+  },
+  {
+   "type": "gen",
+   "at": "L046-0.2",
+   "until": "scene.end",
+   "from": 1500,
+   "to": 1500,
+   "start": 198.33,
+   "end": 207.757
+  },
+  {
+   "type": "label",
+   "at": "L047@born",
+   "until": "scene.end",
+   "text": "CHAMPION \u00b7 GENERATION 1,425",
+   "pos": "bottom",
+   "start": 211.629,
+   "end": 222.618
+  },
+  {
+   "type": "chapter",
+   "n": "05",
+   "title": "THE CHEAT",
+   "start": 222.618,
+   "end": 225.118
+  },
+  {
+   "type": "tag",
+   "at": "L050",
+   "until": "scene.end",
+   "text": "VERSION 1",
+   "color": "orange",
+   "start": 225.218,
+   "end": 228.138
+  },
+  {
+   "type": "flash",
+   "at": "L051@Bouncer",
+   "text": "BOUNCER",
+   "side": "a",
+   "start": 231.203,
+   "end": 232.003
+  },
+  {
+   "type": "flash",
+   "at": "L051@Yorker",
+   "text": "YORKER",
+   "side": "b",
+   "start": 231.953,
+   "end": 232.753
+  },
+  {
+   "type": "flash",
+   "at": "L051@Bouncer#2",
+   "text": "BOUNCER",
+   "side": "a",
+   "start": 232.653,
+   "end": 233.453
+  },
+  {
+   "type": "flash",
+   "at": "L051@Yorker#2",
+   "text": "YORKER",
+   "side": "b",
+   "start": 233.378,
+   "end": 234.178
+  },
+  {
+   "type": "label",
+   "at": "L052",
+   "until": "scene.end",
+   "text": "115 OR 150 KM/H \u00b7 NOTHING IN BETWEEN",
+   "pos": "top",
+   "color": "orange",
+   "start": 234.276,
+   "end": 239.547
+  },
+  {
+   "type": "stat",
+   "at": "L053@Three",
+   "until": "scene.end",
+   "big": "3",
+   "small": "BOUNCERS AN OVER",
+   "sub": "illegal",
+   "pos": "top",
+   "start": 241.86,
+   "end": 245.059
+  },
+  {
+   "type": "label",
+   "at": "L054",
+   "until": "scene.end",
+   "text": "SURPRISE = DISTANCE FROM EXPECTATION",
+   "pos": "top",
+   "color": "orange",
+   "start": 245.279,
+   "end": 261.443
+  },
+  {
+   "type": "stamp",
+   "at": "L057@Reward",
+   "until": "scene.end",
+   "text": "REWARD HACKING",
+   "start": 263.769,
+   "end": 269.788
+  },
+  {
+   "type": "chapter",
+   "n": "06",
+   "title": "REWRITING THE RULES",
+   "start": 269.788,
+   "end": 272.288
+  },
+  {
+   "type": "label",
+   "at": "L061@patterns",
+   "until": "scene.end",
+   "text": "PATTERN READ BY BALL 4",
+   "pos": "bottom",
+   "start": 277.185,
+   "end": 284.134
+  },
+  {
+   "type": "stat",
+   "at": "L061b@quarter",
+   "until": "L061b@sixth-0.1",
+   "big": "28%",
+   "small": "SHOCK BALL \u00b7 BALL 1",
+   "pos": "top",
+   "start": 288.593,
+   "end": 291.631
+  },
+  {
+   "type": "stat",
+   "at": "L061b@sixth",
+   "until": "scene.end",
+   "big": "2%",
+   "small": "SAME BALL \u00b7 BALL 6",
+   "pos": "top",
+   "start": 291.731,
+   "end": 294.093
+  },
+  {
+   "type": "rule",
+   "at": "L062@capped",
+   "until": "scene.end",
+   "n": "02",
+   "text": "Max two bouncers an over",
+   "pos": "top",
+   "start": 295.731,
+   "end": 298.338
+  },
+  {
+   "type": "gen",
+   "at": "L063@threw",
+   "until": "scene.end",
+   "from": 0,
+   "to": 0,
+   "rewind": true,
+   "start": 298.874,
+   "end": 303.454
+  },
+  {
+   "type": "chapter",
+   "n": "07",
+   "title": "THE DUEL",
+   "start": 303.454,
+   "end": 305.954
+  },
+  {
+   "type": "gen",
+   "at": "L070",
+   "until": "scene.end",
+   "from": 1,
+   "to": 1500,
+   "dur": 0.9,
+   "start": 306.054,
+   "end": 312.36
+  },
+  {
+   "type": "wicket",
+   "at": "L074@Edged",
+   "until": "scene.end",
+   "text": "CAUGHT BEHIND",
+   "start": 322.726,
+   "end": 327.441
+  },
+  {
+   "type": "flash",
+   "at": "L075@Four",
+   "text": "FOUR",
+   "side": "a",
+   "start": 330.987,
+   "end": 331.787
+  },
+  {
+   "type": "flash",
+   "at": "L075@Four#2",
+   "text": "FOUR",
+   "side": "b",
+   "start": 331.475,
+   "end": 332.275
+  },
+  {
+   "type": "flash",
+   "at": "L075@Four#3",
+   "text": "FOUR",
+   "side": "a",
+   "start": 331.825,
+   "end": 332.625
+  },
+  {
+   "type": "wicket",
+   "at": "L077@Bowled",
+   "until": "scene.end",
+   "text": "BOWLED",
+   "start": 340.274,
+   "end": 344.261
+  },
+  {
+   "type": "wicket",
+   "at": "L079@Trapped",
+   "until": "scene.end",
+   "text": "LBW",
+   "start": 350.109,
+   "end": 356.011
+  },
+  {
+   "type": "stat",
+   "at": "L080@six",
+   "until": "L081-0.1",
+   "big": "5.7",
+   "small": "RUNS / OVER",
+   "sub": "the Slogger still scores",
+   "pos": "top",
+   "start": 359.207,
+   "end": 360.267
+  },
+  {
+   "type": "stat",
+   "at": "L081@wicket",
+   "until": "L081@one-0.1",
+   "big": "0.44",
+   "small": "WICKETS / OVER",
+   "pos": "top",
+   "start": 360.85,
+   "end": 365.325
+  },
+  {
+   "type": "stat",
+   "at": "L081@one",
+   "until": "scene.end",
+   "big": "1.2",
+   "small": "RUNS / OVER vs TECHNICIAN",
+   "pos": "top",
+   "start": 365.425,
+   "end": 368.523
+  },
+  {
+   "type": "chapter",
+   "n": "08",
+   "title": "INSIDE ITS HEAD",
+   "start": 368.523,
+   "end": 371.023
+  },
+  {
+   "type": "label",
+   "at": "L090@brain",
+   "until": "scene.end",
+   "text": "BRAIN CAM \u00b7 LIVE ACTIVATIONS",
+   "pos": "top",
+   "start": 371.482,
+   "end": 375.079
+  },
+  {
+   "type": "label",
+   "at": "L091@confidence",
+   "until": "scene.end",
+   "text": "PLAN SHIFTS AS CONFIDENCE CHANGES",
+   "pos": "top",
+   "start": 378.425,
+   "end": 379.723
+  },
+  {
+   "type": "label",
+   "at": "L092@always",
+   "until": "scene.end",
+   "text": "ALWAYS OUTSWING",
+   "pos": "top",
+   "start": 381.91,
+   "end": 390.95
+  },
+  {
+   "type": "chapter",
+   "n": "09",
+   "title": "THE VERDICT",
+   "start": 390.95,
+   "end": 393.45
+  },
+  {
+   "type": "label",
+   "at": "L096@threw",
+   "until": "L097-0.1",
+   "text": "AI: 0 BOUNCERS TO THE TAILENDER",
+   "pos": "top",
+   "start": 403.998,
+   "end": 407.226
+  },
+  {
+   "type": "label",
+   "at": "L097@good",
+   "until": "scene.end",
+   "text": "73% GOOD LENGTH vs THE TECHNICIAN",
+   "pos": "top",
+   "start": 412.828,
+   "end": 419.765
+  },
+  {
+   "type": "chapter",
+   "n": "10",
+   "title": "WHAT'S NEXT",
+   "start": 440.606,
+   "end": 443.106
+  }
+ ],
+ "sfx": [
+  {
+   "t": 0.0,
+   "type": "crowd"
+  },
+  {
+   "t": 4.495,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 6.395,
+   "type": "stumps"
+  },
+  {
+   "t": 6.949,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 7.574,
+   "type": "riser"
+  },
+  {
+   "t": 9.074,
+   "type": "stumps"
+  },
+  {
+   "t": 9.074,
+   "type": "boom"
+  },
+  {
+   "t": 9.274,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 15.26,
+   "type": "boom"
+  },
+  {
+   "t": 17.06,
+   "type": "boom"
+  },
+  {
+   "t": 17.06,
+   "type": "whoosh"
+  },
+  {
+   "t": 24.65,
+   "type": "blip"
+  },
+  {
+   "t": 25.388,
+   "type": "blip"
+  },
+  {
+   "t": 25.938,
+   "type": "blip"
+  },
+  {
+   "t": 26.913,
+   "type": "blip"
+  },
+  {
+   "t": 27.703,
+   "type": "whoosh"
+  },
+  {
+   "t": 29.581,
+   "type": "blip"
+  },
+  {
+   "t": 31.056,
+   "type": "blip"
+  },
+  {
+   "t": 31.877,
+   "type": "bounce_slow"
+  },
+  {
+   "t": 32.11,
+   "type": "stumps"
+  },
+  {
+   "t": 32.269,
+   "type": "blip"
+  },
+  {
+   "t": 33.906,
+   "type": "blip"
+  },
+  {
+   "t": 35.76,
+   "type": "whoosh"
+  },
+  {
+   "t": 36.743,
+   "type": "bounce"
+  },
+  {
+   "t": 39.027,
+   "type": "bounce"
+  },
+  {
+   "t": 41.493,
+   "type": "bounce"
+  },
+  {
+   "t": 43.893,
+   "type": "bounce"
+  },
+  {
+   "t": 46.31,
+   "type": "bounce"
+  },
+  {
+   "t": 47.905,
+   "type": "whoosh"
+  },
+  {
+   "t": 50.701,
+   "type": "bounce_slow"
+  },
+  {
+   "t": 51.418,
+   "type": "edge"
+  },
+  {
+   "t": 54.868,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 57.435,
+   "type": "bat"
+  },
+  {
+   "t": 58.194,
+   "type": "boom"
+  },
+  {
+   "t": 58.194,
+   "type": "whoosh"
+  },
+  {
+   "t": 66.026,
+   "type": "whoosh"
+  },
+  {
+   "t": 66.246,
+   "type": "tick"
+  },
+  {
+   "t": 69.093,
+   "type": "bat"
+  },
+  {
+   "t": 72.986,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 78.972,
+   "type": "whoosh"
+  },
+  {
+   "t": 79.192,
+   "type": "tick"
+  },
+  {
+   "t": 79.755,
+   "type": "bounce"
+  },
+  {
+   "t": 82.022,
+   "type": "bounce"
+  },
+  {
+   "t": 84.505,
+   "type": "bounce"
+  },
+  {
+   "t": 84.705,
+   "type": "bat"
+  },
+  {
+   "t": 85.645,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 87.689,
+   "type": "bounce_slow"
+  },
+  {
+   "t": 88.406,
+   "type": "edge"
+  },
+  {
+   "t": 91.856,
+   "type": "whoosh"
+  },
+  {
+   "t": 92.076,
+   "type": "tick"
+  },
+  {
+   "t": 96.287,
+   "type": "pad"
+  },
+  {
+   "t": 100.046,
+   "type": "whoosh"
+  },
+  {
+   "t": 103.485,
+   "type": "bounce"
+  },
+  {
+   "t": 106.097,
+   "type": "bounce"
+  },
+  {
+   "t": 108.96,
+   "type": "bounce"
+  },
+  {
+   "t": 109.19,
+   "type": "bat"
+  },
+  {
+   "t": 112.398,
+   "type": "bounce"
+  },
+  {
+   "t": 115.184,
+   "type": "bounce"
+  },
+  {
+   "t": 115.453,
+   "type": "edge"
+  },
+  {
+   "t": 118.007,
+   "type": "bounce"
+  },
+  {
+   "t": 118.238,
+   "type": "bat"
+  },
+  {
+   "t": 124.635,
+   "type": "boom"
+  },
+  {
+   "t": 124.635,
+   "type": "whoosh"
+  },
+  {
+   "t": 129.299,
+   "type": "tick"
+  },
+  {
+   "t": 136.075,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 136.075,
+   "type": "tick"
+  },
+  {
+   "t": 138.487,
+   "type": "tick"
+  },
+  {
+   "t": 142.117,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 148.796,
+   "type": "boom"
+  },
+  {
+   "t": 148.796,
+   "type": "whoosh"
+  },
+  {
+   "t": 153.724,
+   "type": "whoosh"
+  },
+  {
+   "t": 154.491,
+   "type": "bounce"
+  },
+  {
+   "t": 156.891,
+   "type": "bounce"
+  },
+  {
+   "t": 157.124,
+   "type": "bat"
+  },
+  {
+   "t": 159.291,
+   "type": "bounce"
+  },
+  {
+   "t": 159.574,
+   "type": "bat"
+  },
+  {
+   "t": 160.93,
+   "type": "whoosh"
+  },
+  {
+   "t": 161.764,
+   "type": "tick"
+  },
+  {
+   "t": 165.212,
+   "type": "whoosh"
+  },
+  {
+   "t": 173.437,
+   "type": "whoosh"
+  },
+  {
+   "t": 174.303,
+   "type": "tick"
+  },
+  {
+   "t": 176.803,
+   "type": "tick"
+  },
+  {
+   "t": 180.979,
+   "type": "whoosh"
+  },
+  {
+   "t": 191.239,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 193.614,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 198.33,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 207.757,
+   "type": "whoosh"
+  },
+  {
+   "t": 222.618,
+   "type": "boom"
+  },
+  {
+   "t": 222.618,
+   "type": "whoosh"
+  },
+  {
+   "t": 222.618,
+   "type": "drop"
+  },
+  {
+   "t": 225.218,
+   "type": "tick"
+  },
+  {
+   "t": 228.138,
+   "type": "whoosh"
+  },
+  {
+   "t": 231.203,
+   "type": "hit"
+  },
+  {
+   "t": 231.953,
+   "type": "hit"
+  },
+  {
+   "t": 232.653,
+   "type": "hit"
+  },
+  {
+   "t": 233.378,
+   "type": "hit"
+  },
+  {
+   "t": 234.176,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 235.159,
+   "type": "bounce"
+  },
+  {
+   "t": 237.926,
+   "type": "bounce"
+  },
+  {
+   "t": 238.693,
+   "type": "edge"
+  },
+  {
+   "t": 239.547,
+   "type": "whoosh"
+  },
+  {
+   "t": 240.447,
+   "type": "bounce"
+  },
+  {
+   "t": 241.86,
+   "type": "tick"
+  },
+  {
+   "t": 243.164,
+   "type": "bounce"
+  },
+  {
+   "t": 243.164,
+   "type": "bat"
+  },
+  {
+   "t": 245.059,
+   "type": "whoosh"
+  },
+  {
+   "t": 261.443,
+   "type": "whoosh"
+  },
+  {
+   "t": 263.769,
+   "type": "stamp"
+  },
+  {
+   "t": 263.769,
+   "type": "stamp"
+  },
+  {
+   "t": 269.788,
+   "type": "boom"
+  },
+  {
+   "t": 269.788,
+   "type": "whoosh"
+  },
+  {
+   "t": 270.771,
+   "type": "bounce"
+  },
+  {
+   "t": 273.055,
+   "type": "bounce"
+  },
+  {
+   "t": 274.384,
+   "type": "whoosh"
+  },
+  {
+   "t": 276.755,
+   "type": "bounce"
+  },
+  {
+   "t": 278.839,
+   "type": "bounce"
+  },
+  {
+   "t": 281.572,
+   "type": "bounce"
+  },
+  {
+   "t": 283.655,
+   "type": "bounce"
+  },
+  {
+   "t": 284.134,
+   "type": "whoosh"
+  },
+  {
+   "t": 285.284,
+   "type": "bounce"
+  },
+  {
+   "t": 285.301,
+   "type": "bat"
+  },
+  {
+   "t": 287.501,
+   "type": "bounce"
+  },
+  {
+   "t": 288.593,
+   "type": "tick"
+  },
+  {
+   "t": 290.034,
+   "type": "bounce"
+  },
+  {
+   "t": 291.731,
+   "type": "tick"
+  },
+  {
+   "t": 292.401,
+   "type": "bat"
+  },
+  {
+   "t": 294.093,
+   "type": "whoosh"
+  },
+  {
+   "t": 295.16,
+   "type": "bounce"
+  },
+  {
+   "t": 295.276,
+   "type": "stumps"
+  },
+  {
+   "t": 295.731,
+   "type": "tick"
+  },
+  {
+   "t": 297.66,
+   "type": "bounce"
+  },
+  {
+   "t": 298.338,
+   "type": "whoosh"
+  },
+  {
+   "t": 298.474,
+   "type": "rewind"
+  },
+  {
+   "t": 298.988,
+   "type": "bounce"
+  },
+  {
+   "t": 299.271,
+   "type": "bat"
+  },
+  {
+   "t": 301.421,
+   "type": "bounce"
+  },
+  {
+   "t": 301.705,
+   "type": "bat"
+  },
+  {
+   "t": 303.454,
+   "type": "boom"
+  },
+  {
+   "t": 303.454,
+   "type": "whoosh"
+  },
+  {
+   "t": 312.36,
+   "type": "whoosh"
+  },
+  {
+   "t": 315.238,
+   "type": "bounce"
+  },
+  {
+   "t": 317.504,
+   "type": "bounce"
+  },
+  {
+   "t": 319.73,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 322.726,
+   "type": "edge"
+  },
+  {
+   "t": 322.726,
+   "type": "impact"
+  },
+  {
+   "t": 327.441,
+   "type": "whoosh"
+  },
+  {
+   "t": 329.287,
+   "type": "bounce"
+  },
+  {
+   "t": 330.687,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 330.987,
+   "type": "bat"
+  },
+  {
+   "t": 330.987,
+   "type": "crowd"
+  },
+  {
+   "t": 331.225,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 331.475,
+   "type": "bat"
+  },
+  {
+   "t": 331.575,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 331.825,
+   "type": "bat"
+  },
+  {
+   "t": 332.585,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 333.954,
+   "type": "bounce"
+  },
+  {
+   "t": 334.095,
+   "type": "stumps"
+  },
+  {
+   "t": 337.461,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 340.274,
+   "type": "stumps"
+  },
+  {
+   "t": 340.274,
+   "type": "impact"
+  },
+  {
+   "t": 341.181,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 341.781,
+   "type": "stumps"
+  },
+  {
+   "t": 344.261,
+   "type": "whoosh"
+  },
+  {
+   "t": 348.898,
+   "type": "pad"
+  },
+  {
+   "t": 350.109,
+   "type": "impact"
+  },
+  {
+   "t": 352.831,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 353.431,
+   "type": "pad"
+  },
+  {
+   "t": 356.011,
+   "type": "whoosh"
+  },
+  {
+   "t": 359.207,
+   "type": "tick"
+  },
+  {
+   "t": 360.85,
+   "type": "tick"
+  },
+  {
+   "t": 365.425,
+   "type": "tick"
+  },
+  {
+   "t": 368.523,
+   "type": "boom"
+  },
+  {
+   "t": 368.523,
+   "type": "whoosh"
+  },
+  {
+   "t": 369.406,
+   "type": "bounce"
+  },
+  {
+   "t": 371.74,
+   "type": "bounce"
+  },
+  {
+   "t": 374.273,
+   "type": "bounce"
+  },
+  {
+   "t": 375.079,
+   "type": "whoosh"
+  },
+  {
+   "t": 377.729,
+   "type": "bounce"
+  },
+  {
+   "t": 378.496,
+   "type": "stumps"
+  },
+  {
+   "t": 379.723,
+   "type": "whoosh"
+  },
+  {
+   "t": 385.21,
+   "type": "bounce_slow"
+  },
+  {
+   "t": 386.197,
+   "type": "edge"
+  },
+  {
+   "t": 390.95,
+   "type": "boom"
+  },
+  {
+   "t": 390.95,
+   "type": "whoosh"
+  },
+  {
+   "t": 391.933,
+   "type": "bounce"
+  },
+  {
+   "t": 394.217,
+   "type": "bounce"
+  },
+  {
+   "t": 396.683,
+   "type": "bounce"
+  },
+  {
+   "t": 398.715,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 407.326,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 419.765,
+   "type": "whoosh"
+  },
+  {
+   "t": 427.182,
+   "type": "rise_hit"
+  },
+  {
+   "t": 435.1,
+   "type": "tick"
+  },
+  {
+   "t": 438.475,
+   "type": "boom"
+  },
+  {
+   "t": 440.606,
+   "type": "boom"
+  },
+  {
+   "t": 440.606,
+   "type": "whoosh"
+  },
+  {
+   "t": 452.441,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 461.252,
+   "type": "whoosh"
+  },
+  {
+   "t": 464.819,
+   "type": "whoosh"
+  },
+  {
+   "t": 470.584,
+   "type": "stumps"
+  },
+  {
+   "t": 474.313,
+   "type": "whoosh_soft"
+  },
+  {
+   "t": 474.313,
+   "type": "boom"
+  }
+ ],
+ "result": {
+  "v2": 427.182,
+  "v1": 435.1,
+  "close": 438.475
+ },
+ "captions": [
+  {
+   "id": "L001",
+   "start": 0.4,
+   "end": 3.795,
+   "emph": [
+    "years"
+   ],
+   "words": [
+    {
+     "w": "Every",
+     "s": 0.4,
+     "e": 0.7
+    },
+    {
+     "w": "great",
+     "s": 0.7,
+     "e": 1.012
+    },
+    {
+     "w": "fast",
+     "s": 1.012,
+     "e": 1.425
+    },
+    {
+     "w": "bowler",
+     "s": 1.425,
+     "e": 2.1
+    },
+    {
+     "w": "spends",
+     "s": 2.1,
+     "e": 2.425
+    },
+    {
+     "w": "years",
+     "s": 2.425,
+     "e": 2.775
+    },
+    {
+     "w": "learning",
+     "s": 2.775,
+     "e": 3.125
+    },
+    {
+     "w": "one",
+     "s": 3.125,
+     "e": 3.375
+    },
+    {
+     "w": "thing.",
+     "s": 3.375,
+     "e": 4.0
+    }
+   ],
+   "scene": "open"
+  },
+  {
+   "id": "L002",
+   "start": 4.695,
+   "end": 6.649,
+   "emph": [
+    "six hours"
+   ],
+   "words": [
+    {
+     "w": "This",
+     "s": 4.712,
+     "e": 4.875
+    },
+    {
+     "w": "one",
+     "s": 4.875,
+     "e": 5.062
+    },
+    {
+     "w": "learned",
+     "s": 5.062,
+     "e": 5.362
+    },
+    {
+     "w": "it",
+     "s": 5.362,
+     "e": 5.512
+    },
+    {
+     "w": "in",
+     "s": 5.512,
+     "e": 5.687
+    },
+    {
+     "w": "six",
+     "s": 5.687,
+     "e": 6.025
+    },
+    {
+     "w": "hours.",
+     "s": 6.025,
+     "e": 6.812
+    }
+   ],
+   "scene": "open"
+  },
+  {
+   "id": "L003",
+   "start": 7.049,
+   "end": 8.674,
+   "emph": [
+    "nobody"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 7.065,
+     "e": 7.227
+    },
+    {
+     "w": "nobody",
+     "s": 7.227,
+     "e": 7.69
+    },
+    {
+     "w": "taught",
+     "s": 7.69,
+     "e": 8.002
+    },
+    {
+     "w": "it",
+     "s": 8.002,
+     "e": 8.077
+    },
+    {
+     "w": "a",
+     "s": 8.077,
+     "e": 8.177
+    },
+    {
+     "w": "thing.",
+     "s": 8.177,
+     "e": 8.84
+    }
+   ],
+   "scene": "open"
+  },
+  {
+   "id": "L004",
+   "start": 9.474,
+   "end": 14.66,
+   "emph": [
+    "cheated",
+    "earned"
+   ],
+   "words": [
+    {
+     "w": "This",
+     "s": 9.505,
+     "e": 9.73
+    },
+    {
+     "w": "is",
+     "s": 9.73,
+     "e": 9.88
+    },
+    {
+     "w": "the",
+     "s": 9.88,
+     "e": 10.017
+    },
+    {
+     "w": "story",
+     "s": 10.017,
+     "e": 10.405
+    },
+    {
+     "w": "of",
+     "s": 10.405,
+     "e": 10.505
+    },
+    {
+     "w": "how",
+     "s": 10.505,
+     "e": 10.692
+    },
+    {
+     "w": "it",
+     "s": 10.692,
+     "e": 10.805
+    },
+    {
+     "w": "learned,",
+     "s": 10.805,
+     "e": 11.38
+    },
+    {
+     "w": "how",
+     "s": 11.505,
+     "e": 11.705
+    },
+    {
+     "w": "it",
+     "s": 11.705,
+     "e": 11.842
+    },
+    {
+     "w": "cheated,",
+     "s": 11.842,
+     "e": 12.53
+    },
+    {
+     "w": "and",
+     "s": 12.63,
+     "e": 12.755
+    },
+    {
+     "w": "how",
+     "s": 12.755,
+     "e": 12.955
+    },
+    {
+     "w": "it",
+     "s": 12.955,
+     "e": 13.117
+    },
+    {
+     "w": "finally",
+     "s": 13.117,
+     "e": 13.605
+    },
+    {
+     "w": "earned",
+     "s": 13.605,
+     "e": 13.867
+    },
+    {
+     "w": "its",
+     "s": 13.867,
+     "e": 14.03
+    },
+    {
+     "w": "wickets.",
+     "s": 14.03,
+     "e": 14.805
+    }
+   ],
+   "scene": "open"
+  },
+  {
+   "id": "L010",
+   "start": 19.66,
+   "end": 21.901,
+   "emph": [
+    "simple"
+   ],
+   "words": [
+    {
+     "w": "Bowling",
+     "s": 19.66,
+     "e": 20.02
+    },
+    {
+     "w": "looks",
+     "s": 20.02,
+     "e": 20.245
+    },
+    {
+     "w": "simple.",
+     "s": 20.245,
+     "e": 20.77
+    },
+    {
+     "w": "Run",
+     "s": 20.908,
+     "e": 21.158
+    },
+    {
+     "w": "in,",
+     "s": 21.158,
+     "e": 21.32
+    },
+    {
+     "w": "let",
+     "s": 21.37,
+     "e": 21.52
+    },
+    {
+     "w": "go.",
+     "s": 21.52,
+     "e": 22.02
+    }
+   ],
+   "scene": "c1_problem"
+  },
+  {
+   "id": "L011",
+   "start": 22.301,
+   "end": 27.523,
+   "emph": [
+    "four decisions"
+   ],
+   "words": [
+    {
+     "w": "But",
+     "s": 22.301,
+     "e": 22.388
+    },
+    {
+     "w": "every",
+     "s": 22.388,
+     "e": 22.688
+    },
+    {
+     "w": "ball",
+     "s": 22.688,
+     "e": 23.013
+    },
+    {
+     "w": "is",
+     "s": 23.013,
+     "e": 23.175
+    },
+    {
+     "w": "four",
+     "s": 23.175,
+     "e": 23.388
+    },
+    {
+     "w": "decisions.",
+     "s": 23.388,
+     "e": 24.288
+    },
+    {
+     "w": "How",
+     "s": 24.425,
+     "e": 24.65
+    },
+    {
+     "w": "fast,",
+     "s": 24.65,
+     "e": 25.113
+    },
+    {
+     "w": "how",
+     "s": 25.188,
+     "e": 25.388
+    },
+    {
+     "w": "full,",
+     "s": 25.388,
+     "e": 25.713
+    },
+    {
+     "w": "what",
+     "s": 25.763,
+     "e": 25.938
+    },
+    {
+     "w": "line,",
+     "s": 25.938,
+     "e": 26.313
+    },
+    {
+     "w": "and",
+     "s": 26.363,
+     "e": 26.475
+    },
+    {
+     "w": "which",
+     "s": 26.475,
+     "e": 26.663
+    },
+    {
+     "w": "way",
+     "s": 26.663,
+     "e": 26.825
+    },
+    {
+     "w": "it",
+     "s": 26.825,
+     "e": 26.913
+    },
+    {
+     "w": "swings.",
+     "s": 26.913,
+     "e": 27.663
+    }
+   ],
+   "scene": "c1_problem"
+  },
+  {
+   "id": "L012",
+   "start": 27.923,
+   "end": 35.58,
+   "emph": [
+    "physics"
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "s": 27.923,
+     "e": 28.081
+    },
+    {
+     "w": "physics",
+     "s": 28.081,
+     "e": 28.494
+    },
+    {
+     "w": "takes",
+     "s": 28.494,
+     "e": 28.756
+    },
+    {
+     "w": "over.",
+     "s": 28.756,
+     "e": 29.419
+    },
+    {
+     "w": "Gravity",
+     "s": 29.581,
+     "e": 30.044
+    },
+    {
+     "w": "pulls",
+     "s": 30.044,
+     "e": 30.331
+    },
+    {
+     "w": "it",
+     "s": 30.331,
+     "e": 30.419
+    },
+    {
+     "w": "down,",
+     "s": 30.419,
+     "e": 30.819
+    },
+    {
+     "w": "the",
+     "s": 30.894,
+     "e": 31.056
+    },
+    {
+     "w": "air",
+     "s": 31.056,
+     "e": 31.331
+    },
+    {
+     "w": "slows",
+     "s": 31.331,
+     "e": 31.756
+    },
+    {
+     "w": "it,",
+     "s": 31.756,
+     "e": 32.044
+    },
+    {
+     "w": "the",
+     "s": 32.119,
+     "e": 32.269
+    },
+    {
+     "w": "seam",
+     "s": 32.269,
+     "e": 32.594
+    },
+    {
+     "w": "makes",
+     "s": 32.594,
+     "e": 32.869
+    },
+    {
+     "w": "it",
+     "s": 32.869,
+     "e": 33.031
+    },
+    {
+     "w": "swing,",
+     "s": 33.031,
+     "e": 33.619
+    },
+    {
+     "w": "and",
+     "s": 33.694,
+     "e": 33.806
+    },
+    {
+     "w": "the",
+     "s": 33.806,
+     "e": 33.906
+    },
+    {
+     "w": "pitch",
+     "s": 33.906,
+     "e": 34.219
+    },
+    {
+     "w": "decides",
+     "s": 34.219,
+     "e": 34.694
+    },
+    {
+     "w": "how",
+     "s": 34.694,
+     "e": 34.831
+    },
+    {
+     "w": "it",
+     "s": 34.831,
+     "e": 34.919
+    },
+    {
+     "w": "bounces.",
+     "s": 34.919,
+     "e": 35.744
+    }
+   ],
+   "scene": "c1_physics"
+  },
+  {
+   "id": "L013",
+   "start": 35.98,
+   "end": 41.202,
+   "emph": [
+    "never quite"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 35.98,
+     "e": 36.09
+    },
+    {
+     "w": "you",
+     "s": 36.09,
+     "e": 36.19
+    },
+    {
+     "w": "never",
+     "s": 36.19,
+     "e": 36.49
+    },
+    {
+     "w": "quite",
+     "s": 36.49,
+     "e": 36.79
+    },
+    {
+     "w": "hit",
+     "s": 36.79,
+     "e": 36.928
+    },
+    {
+     "w": "your",
+     "s": 36.928,
+     "e": 37.028
+    },
+    {
+     "w": "mark.",
+     "s": 37.028,
+     "e": 37.615
+    },
+    {
+     "w": "A",
+     "s": 37.753,
+     "e": 37.878
+    },
+    {
+     "w": "tiny",
+     "s": 37.878,
+     "e": 38.328
+    },
+    {
+     "w": "error",
+     "s": 38.328,
+     "e": 38.64
+    },
+    {
+     "w": "at",
+     "s": 38.64,
+     "e": 38.728
+    },
+    {
+     "w": "release",
+     "s": 38.728,
+     "e": 39.24
+    },
+    {
+     "w": "becomes",
+     "s": 39.24,
+     "e": 39.603
+    },
+    {
+     "w": "a",
+     "s": 39.603,
+     "e": 39.715
+    },
+    {
+     "w": "big",
+     "s": 39.715,
+     "e": 40.053
+    },
+    {
+     "w": "miss",
+     "s": 40.053,
+     "e": 40.39
+    },
+    {
+     "w": "at",
+     "s": 40.39,
+     "e": 40.478
+    },
+    {
+     "w": "the",
+     "s": 40.478,
+     "e": 40.553
+    },
+    {
+     "w": "other",
+     "s": 40.553,
+     "e": 40.79
+    },
+    {
+     "w": "end.",
+     "s": 40.79,
+     "e": 41.365
+    }
+   ],
+   "scene": "c1_noise"
+  },
+  {
+   "id": "L014",
+   "start": 41.602,
+   "end": 47.725,
+   "emph": [
+    "random wobble"
+   ],
+   "words": [
+    {
+     "w": "My",
+     "s": 41.602,
+     "e": 41.759
+    },
+    {
+     "w": "bowler",
+     "s": 41.759,
+     "e": 42.159
+    },
+    {
+     "w": "has",
+     "s": 42.159,
+     "e": 42.384
+    },
+    {
+     "w": "that",
+     "s": 42.384,
+     "e": 42.609
+    },
+    {
+     "w": "problem",
+     "s": 42.609,
+     "e": 43.046
+    },
+    {
+     "w": "too.",
+     "s": 43.046,
+     "e": 43.659
+    },
+    {
+     "w": "Every",
+     "s": 43.846,
+     "e": 44.159
+    },
+    {
+     "w": "ball",
+     "s": 44.159,
+     "e": 44.459
+    },
+    {
+     "w": "gets",
+     "s": 44.459,
+     "e": 44.671
+    },
+    {
+     "w": "a",
+     "s": 44.671,
+     "e": 44.759
+    },
+    {
+     "w": "random",
+     "s": 44.759,
+     "e": 45.159
+    },
+    {
+     "w": "wobble,",
+     "s": 45.159,
+     "e": 45.709
+    },
+    {
+     "w": "so",
+     "s": 45.809,
+     "e": 45.946
+    },
+    {
+     "w": "it",
+     "s": 45.946,
+     "e": 46.034
+    },
+    {
+     "w": "can't",
+     "s": 46.034,
+     "e": 46.284
+    },
+    {
+     "w": "rely",
+     "s": 46.284,
+     "e": 46.709
+    },
+    {
+     "w": "on",
+     "s": 46.709,
+     "e": 46.909
+    },
+    {
+     "w": "perfect",
+     "s": 46.909,
+     "e": 47.309
+    },
+    {
+     "w": "aim.",
+     "s": 47.309,
+     "e": 47.909
+    }
+   ],
+   "scene": "c1_noise"
+  },
+  {
+   "id": "L014b",
+   "start": 48.125,
+   "end": 54.568,
+   "emph": [
+    "two milliseconds"
+   ],
+   "words": [
+    {
+     "w": "My",
+     "s": 48.125,
+     "e": 48.282
+    },
+    {
+     "w": "simulator",
+     "s": 48.282,
+     "e": 48.907
+    },
+    {
+     "w": "models",
+     "s": 48.907,
+     "e": 49.345
+    },
+    {
+     "w": "all",
+     "s": 49.345,
+     "e": 49.545
+    },
+    {
+     "w": "of",
+     "s": 49.545,
+     "e": 49.632
+    },
+    {
+     "w": "it,",
+     "s": 49.632,
+     "e": 50.032
+    },
+    {
+     "w": "stepping",
+     "s": 50.17,
+     "e": 50.595
+    },
+    {
+     "w": "each",
+     "s": 50.595,
+     "e": 50.882
+    },
+    {
+     "w": "ball's",
+     "s": 50.882,
+     "e": 51.32
+    },
+    {
+     "w": "flight",
+     "s": 51.32,
+     "e": 51.67
+    },
+    {
+     "w": "every",
+     "s": 51.67,
+     "e": 51.995
+    },
+    {
+     "w": "two",
+     "s": 51.995,
+     "e": 52.207
+    },
+    {
+     "w": "milliseconds,",
+     "s": 52.207,
+     "e": 53.107
+    },
+    {
+     "w": "from",
+     "s": 53.207,
+     "e": 53.382
+    },
+    {
+     "w": "release",
+     "s": 53.382,
+     "e": 53.832
+    },
+    {
+     "w": "to",
+     "s": 53.832,
+     "e": 53.92
+    },
+    {
+     "w": "the",
+     "s": 53.92,
+     "e": 54.007
+    },
+    {
+     "w": "stumps.",
+     "s": 54.007,
+     "e": 54.707
+    }
+   ],
+   "scene": "c1_sim"
+  },
+  {
+   "id": "L015",
+   "start": 54.968,
+   "end": 56.294,
+   "emph": [
+    "batter"
+   ],
+   "words": [
+    {
+     "w": "Then,",
+     "s": 55.011,
+     "e": 55.336
+    },
+    {
+     "w": "there's",
+     "s": 55.411,
+     "e": 55.648
+    },
+    {
+     "w": "the",
+     "s": 55.648,
+     "e": 55.736
+    },
+    {
+     "w": "batter.",
+     "s": 55.736,
+     "e": 56.436
+    }
+   ],
+   "scene": "c1_sim"
+  },
+  {
+   "id": "L020",
+   "start": 60.794,
+   "end": 65.746,
+   "emph": [
+    "hidden weakness"
+   ],
+   "words": [
+    {
+     "w": "It",
+     "s": 60.794,
+     "e": 60.935
+    },
+    {
+     "w": "faces",
+     "s": 60.935,
+     "e": 61.398
+    },
+    {
+     "w": "three",
+     "s": 61.398,
+     "e": 61.623
+    },
+    {
+     "w": "of",
+     "s": 61.623,
+     "e": 61.735
+    },
+    {
+     "w": "them.",
+     "s": 61.735,
+     "e": 62.285
+    },
+    {
+     "w": "Each",
+     "s": 62.423,
+     "e": 62.648
+    },
+    {
+     "w": "one",
+     "s": 62.648,
+     "e": 62.785
+    },
+    {
+     "w": "has",
+     "s": 62.785,
+     "e": 62.96
+    },
+    {
+     "w": "strengths,",
+     "s": 62.96,
+     "e": 63.56
+    },
+    {
+     "w": "a",
+     "s": 63.635,
+     "e": 63.71
+    },
+    {
+     "w": "hidden",
+     "s": 63.71,
+     "e": 64.01
+    },
+    {
+     "w": "weakness,",
+     "s": 64.01,
+     "e": 64.535
+    },
+    {
+     "w": "and",
+     "s": 64.585,
+     "e": 64.698
+    },
+    {
+     "w": "a",
+     "s": 64.698,
+     "e": 64.76
+    },
+    {
+     "w": "mind",
+     "s": 64.76,
+     "e": 65.048
+    },
+    {
+     "w": "of",
+     "s": 65.048,
+     "e": 65.123
+    },
+    {
+     "w": "their",
+     "s": 65.123,
+     "e": 65.31
+    },
+    {
+     "w": "own.",
+     "s": 65.31,
+     "e": 65.91
+    }
+   ],
+   "scene": "c2_intro"
+  },
+  {
+   "id": "L021",
+   "start": 66.246,
+   "end": 72.186,
+   "emph": [
+    "Slogger",
+    "ninety four"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 66.246,
+     "e": 66.34
+    },
+    {
+     "w": "Slogger.",
+     "s": 66.34,
+     "e": 67.027
+    },
+    {
+     "w": "Aggression,",
+     "s": 67.165,
+     "e": 67.877
+    },
+    {
+     "w": "ninety",
+     "s": 67.977,
+     "e": 68.352
+    },
+    {
+     "w": "four",
+     "s": 68.352,
+     "e": 68.615
+    },
+    {
+     "w": "out",
+     "s": 68.615,
+     "e": 68.74
+    },
+    {
+     "w": "of",
+     "s": 68.74,
+     "e": 68.815
+    },
+    {
+     "w": "a",
+     "s": 68.815,
+     "e": 68.877
+    },
+    {
+     "w": "hundred.",
+     "s": 68.877,
+     "e": 69.627
+    },
+    {
+     "w": "Anything",
+     "s": 69.765,
+     "e": 70.215
+    },
+    {
+     "w": "full",
+     "s": 70.215,
+     "e": 70.615
+    },
+    {
+     "w": "or",
+     "s": 70.615,
+     "e": 70.802
+    },
+    {
+     "w": "short",
+     "s": 70.802,
+     "e": 71.127
+    },
+    {
+     "w": "goes",
+     "s": 71.127,
+     "e": 71.365
+    },
+    {
+     "w": "over",
+     "s": 71.365,
+     "e": 71.565
+    },
+    {
+     "w": "the",
+     "s": 71.565,
+     "e": 71.652
+    },
+    {
+     "w": "ropes.",
+     "s": 71.652,
+     "e": 72.302
+    }
+   ],
+   "scene": "c2_slogger"
+  },
+  {
+   "id": "L022",
+   "start": 72.986,
+   "end": 77.792,
+   "emph": [
+    "yorker",
+    "slower ball"
+   ],
+   "words": [
+    {
+     "w": "His",
+     "s": 72.986,
+     "e": 73.133
+    },
+    {
+     "w": "weaknesses:",
+     "s": 73.133,
+     "e": 74.058
+    },
+    {
+     "w": "the",
+     "s": 74.158,
+     "e": 74.283
+    },
+    {
+     "w": "yorker",
+     "s": 74.283,
+     "e": 74.645
+    },
+    {
+     "w": "on",
+     "s": 74.645,
+     "e": 74.745
+    },
+    {
+     "w": "the",
+     "s": 74.745,
+     "e": 74.833
+    },
+    {
+     "w": "stumps,",
+     "s": 74.833,
+     "e": 75.408
+    },
+    {
+     "w": "and",
+     "s": 75.483,
+     "e": 75.595
+    },
+    {
+     "w": "the",
+     "s": 75.595,
+     "e": 75.695
+    },
+    {
+     "w": "slower",
+     "s": 75.695,
+     "e": 76.058
+    },
+    {
+     "w": "ball",
+     "s": 76.058,
+     "e": 76.408
+    },
+    {
+     "w": "he",
+     "s": 76.408,
+     "e": 76.57
+    },
+    {
+     "w": "swings",
+     "s": 76.57,
+     "e": 76.958
+    },
+    {
+     "w": "at",
+     "s": 76.958,
+     "e": 77.095
+    },
+    {
+     "w": "too",
+     "s": 77.095,
+     "e": 77.308
+    },
+    {
+     "w": "early.",
+     "s": 77.308,
+     "e": 77.983
+    }
+   ],
+   "scene": "c2_slogger"
+  },
+  {
+   "id": "L023",
+   "start": 79.192,
+   "end": 85.345,
+   "emph": [
+    "Technician",
+    "ninety one"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 79.192,
+     "e": 79.251
+    },
+    {
+     "w": "Technician",
+     "s": 79.251,
+     "e": 79.826
+    },
+    {
+     "w": "is",
+     "s": 79.826,
+     "e": 79.938
+    },
+    {
+     "w": "the",
+     "s": 79.938,
+     "e": 80.088
+    },
+    {
+     "w": "opposite.",
+     "s": 80.088,
+     "e": 80.876
+    },
+    {
+     "w": "Skill,",
+     "s": 81.026,
+     "e": 81.501
+    },
+    {
+     "w": "ninety",
+     "s": 81.576,
+     "e": 81.901
+    },
+    {
+     "w": "one.",
+     "s": 81.901,
+     "e": 82.426
+    },
+    {
+     "w": "He",
+     "s": 82.526,
+     "e": 82.676
+    },
+    {
+     "w": "leaves",
+     "s": 82.676,
+     "e": 83.013
+    },
+    {
+     "w": "everything",
+     "s": 83.013,
+     "e": 83.476
+    },
+    {
+     "w": "wide",
+     "s": 83.476,
+     "e": 83.876
+    },
+    {
+     "w": "and",
+     "s": 83.876,
+     "e": 84.001
+    },
+    {
+     "w": "blocks",
+     "s": 84.001,
+     "e": 84.376
+    },
+    {
+     "w": "everything",
+     "s": 84.376,
+     "e": 84.826
+    },
+    {
+     "w": "straight.",
+     "s": 84.826,
+     "e": 85.476
+    }
+   ],
+   "scene": "c2_technician"
+  },
+  {
+   "id": "L024",
+   "start": 85.645,
+   "end": 90.676,
+   "emph": [
+    "moves away late",
+    "edges"
+   ],
+   "words": [
+    {
+     "w": "One",
+     "s": 85.645,
+     "e": 85.88
+    },
+    {
+     "w": "flaw.",
+     "s": 85.88,
+     "e": 86.367
+    },
+    {
+     "w": "A",
+     "s": 86.505,
+     "e": 86.63
+    },
+    {
+     "w": "good",
+     "s": 86.63,
+     "e": 86.867
+    },
+    {
+     "w": "length",
+     "s": 86.867,
+     "e": 87.167
+    },
+    {
+     "w": "ball",
+     "s": 87.167,
+     "e": 87.405
+    },
+    {
+     "w": "on",
+     "s": 87.405,
+     "e": 87.605
+    },
+    {
+     "w": "fourth",
+     "s": 87.605,
+     "e": 87.892
+    },
+    {
+     "w": "stump",
+     "s": 87.892,
+     "e": 88.18
+    },
+    {
+     "w": "that",
+     "s": 88.18,
+     "e": 88.317
+    },
+    {
+     "w": "moves",
+     "s": 88.317,
+     "e": 88.605
+    },
+    {
+     "w": "away",
+     "s": 88.605,
+     "e": 88.842
+    },
+    {
+     "w": "late.",
+     "s": 88.842,
+     "e": 89.442
+    },
+    {
+     "w": "That",
+     "s": 89.58,
+     "e": 89.83
+    },
+    {
+     "w": "one,",
+     "s": 89.83,
+     "e": 89.942
+    },
+    {
+     "w": "he",
+     "s": 89.98,
+     "e": 90.117
+    },
+    {
+     "w": "edges.",
+     "s": 90.117,
+     "e": 90.792
+    }
+   ],
+   "scene": "c2_technician"
+  },
+  {
+   "id": "L025",
+   "start": 92.076,
+   "end": 98.666,
+   "emph": [
+    "Tailender",
+    "sneak through"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 92.076,
+     "e": 92.183
+    },
+    {
+     "w": "the",
+     "s": 92.183,
+     "e": 92.271
+    },
+    {
+     "w": "Tailender.",
+     "s": 92.271,
+     "e": 93.096
+    },
+    {
+     "w": "Brave,",
+     "s": 93.233,
+     "e": 93.696
+    },
+    {
+     "w": "not",
+     "s": 93.746,
+     "e": 94.008
+    },
+    {
+     "w": "skilled.",
+     "s": 94.008,
+     "e": 94.821
+    },
+    {
+     "w": "He",
+     "s": 94.946,
+     "e": 95.071
+    },
+    {
+     "w": "hops",
+     "s": 95.071,
+     "e": 95.346
+    },
+    {
+     "w": "around",
+     "s": 95.346,
+     "e": 95.658
+    },
+    {
+     "w": "against",
+     "s": 95.658,
+     "e": 95.933
+    },
+    {
+     "w": "the",
+     "s": 95.933,
+     "e": 96.021
+    },
+    {
+     "w": "short",
+     "s": 96.021,
+     "e": 96.271
+    },
+    {
+     "w": "ball,",
+     "s": 96.271,
+     "e": 96.621
+    },
+    {
+     "w": "and",
+     "s": 96.671,
+     "e": 96.783
+    },
+    {
+     "w": "a",
+     "s": 96.783,
+     "e": 96.896
+    },
+    {
+     "w": "full,",
+     "s": 96.896,
+     "e": 97.271
+    },
+    {
+     "w": "straight",
+     "s": 97.333,
+     "e": 97.633
+    },
+    {
+     "w": "one",
+     "s": 97.633,
+     "e": 97.771
+    },
+    {
+     "w": "can",
+     "s": 97.771,
+     "e": 97.946
+    },
+    {
+     "w": "sneak",
+     "s": 97.946,
+     "e": 98.233
+    },
+    {
+     "w": "through.",
+     "s": 98.233,
+     "e": 98.821
+    }
+   ],
+   "scene": "c2_tailender"
+  },
+  {
+   "id": "L026",
+   "start": 100.266,
+   "end": 106.21,
+   "emph": [
+    "fixed target"
+   ],
+   "words": [
+    {
+     "w": "None",
+     "s": 100.299,
+     "e": 100.486
+    },
+    {
+     "w": "of",
+     "s": 100.486,
+     "e": 100.561
+    },
+    {
+     "w": "them",
+     "s": 100.561,
+     "e": 100.774
+    },
+    {
+     "w": "is",
+     "s": 100.774,
+     "e": 100.886
+    },
+    {
+     "w": "a",
+     "s": 100.886,
+     "e": 100.986
+    },
+    {
+     "w": "fixed",
+     "s": 100.986,
+     "e": 101.274
+    },
+    {
+     "w": "target.",
+     "s": 101.274,
+     "e": 101.874
+    },
+    {
+     "w": "Each",
+     "s": 101.974,
+     "e": 102.186
+    },
+    {
+     "w": "one",
+     "s": 102.186,
+     "e": 102.374
+    },
+    {
+     "w": "tracks",
+     "s": 102.374,
+     "e": 102.711
+    },
+    {
+     "w": "what",
+     "s": 102.711,
+     "e": 102.836
+    },
+    {
+     "w": "you've",
+     "s": 102.836,
+     "e": 102.936
+    },
+    {
+     "w": "been",
+     "s": 102.936,
+     "e": 103.073
+    },
+    {
+     "w": "bowling.",
+     "s": 103.073,
+     "e": 103.874
+    },
+    {
+     "w": "Length,",
+     "s": 104.049,
+     "e": 104.549
+    },
+    {
+     "w": "line,",
+     "s": 104.661,
+     "e": 105.099
+    },
+    {
+     "w": "movement,",
+     "s": 105.186,
+     "e": 105.624
+    },
+    {
+     "w": "pace.",
+     "s": 105.674,
+     "e": 106.299
+    }
+   ],
+   "scene": "c2_mind"
+  },
+  {
+   "id": "L027",
+   "start": 106.51,
+   "end": 111.766,
+   "emph": [
+    "confidence climbs"
+   ],
+   "words": [
+    {
+     "w": "Repeat",
+     "s": 106.51,
+     "e": 106.809
+    },
+    {
+     "w": "yourself",
+     "s": 106.809,
+     "e": 107.409
+    },
+    {
+     "w": "and",
+     "s": 107.409,
+     "e": 107.534
+    },
+    {
+     "w": "their",
+     "s": 107.534,
+     "e": 107.709
+    },
+    {
+     "w": "confidence",
+     "s": 107.709,
+     "e": 108.271
+    },
+    {
+     "w": "climbs,",
+     "s": 108.271,
+     "e": 109.046
+    },
+    {
+     "w": "and",
+     "s": 109.146,
+     "e": 109.259
+    },
+    {
+     "w": "a",
+     "s": 109.259,
+     "e": 109.334
+    },
+    {
+     "w": "confident",
+     "s": 109.334,
+     "e": 109.871
+    },
+    {
+     "w": "batter",
+     "s": 109.871,
+     "e": 110.284
+    },
+    {
+     "w": "is",
+     "s": 110.284,
+     "e": 110.459
+    },
+    {
+     "w": "much",
+     "s": 110.459,
+     "e": 110.721
+    },
+    {
+     "w": "harder",
+     "s": 110.721,
+     "e": 111.096
+    },
+    {
+     "w": "to",
+     "s": 111.096,
+     "e": 111.196
+    },
+    {
+     "w": "get",
+     "s": 111.196,
+     "e": 111.371
+    },
+    {
+     "w": "out.",
+     "s": 111.371,
+     "e": 111.921
+    }
+   ],
+   "scene": "c2_mind"
+  },
+  {
+   "id": "L028",
+   "start": 112.066,
+   "end": 115.964,
+   "emph": [
+    "Surprise"
+   ],
+   "words": [
+    {
+     "w": "Surprise",
+     "s": 112.096,
+     "e": 112.571
+    },
+    {
+     "w": "them,",
+     "s": 112.571,
+     "e": 112.821
+    },
+    {
+     "w": "and",
+     "s": 112.871,
+     "e": 112.996
+    },
+    {
+     "w": "you're",
+     "s": 112.996,
+     "e": 113.159
+    },
+    {
+     "w": "in",
+     "s": 113.159,
+     "e": 113.234
+    },
+    {
+     "w": "the",
+     "s": 113.234,
+     "e": 113.321
+    },
+    {
+     "w": "game.",
+     "s": 113.321,
+     "e": 113.946
+    },
+    {
+     "w": "Real",
+     "s": 114.121,
+     "e": 114.446
+    },
+    {
+     "w": "batters",
+     "s": 114.446,
+     "e": 114.896
+    },
+    {
+     "w": "work",
+     "s": 114.896,
+     "e": 115.146
+    },
+    {
+     "w": "the",
+     "s": 115.146,
+     "e": 115.284
+    },
+    {
+     "w": "same",
+     "s": 115.284,
+     "e": 115.571
+    },
+    {
+     "w": "way.",
+     "s": 115.571,
+     "e": 116.121
+    }
+   ],
+   "scene": "c2_mind"
+  },
+  {
+   "id": "L029",
+   "start": 116.364,
+   "end": 122.735,
+   "emph": [
+    "never"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 116.364,
+     "e": 116.519
+    },
+    {
+     "w": "every",
+     "s": 116.519,
+     "e": 116.856
+    },
+    {
+     "w": "over,",
+     "s": 116.856,
+     "e": 117.406
+    },
+    {
+     "w": "each",
+     "s": 117.531,
+     "e": 117.807
+    },
+    {
+     "w": "batter",
+     "s": 117.807,
+     "e": 118.182
+    },
+    {
+     "w": "is",
+     "s": 118.182,
+     "e": 118.332
+    },
+    {
+     "w": "varied",
+     "s": 118.332,
+     "e": 118.644
+    },
+    {
+     "w": "a",
+     "s": 118.644,
+     "e": 118.707
+    },
+    {
+     "w": "little,",
+     "s": 118.707,
+     "e": 119.257
+    },
+    {
+     "w": "so",
+     "s": 119.382,
+     "e": 119.519
+    },
+    {
+     "w": "the",
+     "s": 119.519,
+     "e": 119.606
+    },
+    {
+     "w": "bowler",
+     "s": 119.606,
+     "e": 120.007
+    },
+    {
+     "w": "never",
+     "s": 120.007,
+     "e": 120.319
+    },
+    {
+     "w": "faces",
+     "s": 120.319,
+     "e": 120.781
+    },
+    {
+     "w": "exactly",
+     "s": 120.781,
+     "e": 121.382
+    },
+    {
+     "w": "the",
+     "s": 121.382,
+     "e": 121.519
+    },
+    {
+     "w": "same",
+     "s": 121.519,
+     "e": 121.807
+    },
+    {
+     "w": "player",
+     "s": 121.807,
+     "e": 122.156
+    },
+    {
+     "w": "twice.",
+     "s": 122.156,
+     "e": 122.856
+    }
+   ],
+   "scene": "c2_mind"
+  },
+  {
+   "id": "L030",
+   "start": 127.235,
+   "end": 134.746,
+   "emph": [
+    "Eighteen inputs"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 127.235,
+     "e": 127.311
+    },
+    {
+     "w": "bowler",
+     "s": 127.311,
+     "e": 127.786
+    },
+    {
+     "w": "is",
+     "s": 127.786,
+     "e": 127.911
+    },
+    {
+     "w": "a",
+     "s": 127.911,
+     "e": 128.036
+    },
+    {
+     "w": "neural",
+     "s": 128.036,
+     "e": 128.386
+    },
+    {
+     "w": "network.",
+     "s": 128.386,
+     "e": 129.161
+    },
+    {
+     "w": "Eighteen",
+     "s": 129.299,
+     "e": 129.786
+    },
+    {
+     "w": "inputs:",
+     "s": 129.786,
+     "e": 130.536
+    },
+    {
+     "w": "which",
+     "s": 130.636,
+     "e": 130.861
+    },
+    {
+     "w": "batter,",
+     "s": 130.861,
+     "e": 131.286
+    },
+    {
+     "w": "his",
+     "s": 131.361,
+     "e": 131.561
+    },
+    {
+     "w": "confidence,",
+     "s": 131.561,
+     "e": 132.261
+    },
+    {
+     "w": "the",
+     "s": 132.336,
+     "e": 132.474
+    },
+    {
+     "w": "score",
+     "s": 132.474,
+     "e": 132.824
+    },
+    {
+     "w": "in",
+     "s": 132.824,
+     "e": 132.899
+    },
+    {
+     "w": "the",
+     "s": 132.899,
+     "e": 133.011
+    },
+    {
+     "w": "over,",
+     "s": 133.011,
+     "e": 133.386
+    },
+    {
+     "w": "and",
+     "s": 133.436,
+     "e": 133.549
+    },
+    {
+     "w": "the",
+     "s": 133.549,
+     "e": 133.636
+    },
+    {
+     "w": "last",
+     "s": 133.636,
+     "e": 133.986
+    },
+    {
+     "w": "two",
+     "s": 133.986,
+     "e": 134.161
+    },
+    {
+     "w": "balls.",
+     "s": 134.161,
+     "e": 134.886
+    }
+   ],
+   "scene": "c3_brain"
+  },
+  {
+   "id": "L031",
+   "start": 135.046,
+   "end": 141.817,
+   "emph": [
+    "Four outputs"
+   ],
+   "words": [
+    {
+     "w": "Two",
+     "s": 135.05,
+     "e": 135.25
+    },
+    {
+     "w": "layers",
+     "s": 135.25,
+     "e": 135.687
+    },
+    {
+     "w": "of",
+     "s": 135.687,
+     "e": 135.775
+    },
+    {
+     "w": "twenty",
+     "s": 135.775,
+     "e": 136.075
+    },
+    {
+     "w": "four",
+     "s": 136.075,
+     "e": 136.3
+    },
+    {
+     "w": "neurons.",
+     "s": 136.3,
+     "e": 137.025
+    },
+    {
+     "w": "Four",
+     "s": 137.15,
+     "e": 137.45
+    },
+    {
+     "w": "outputs.",
+     "s": 137.45,
+     "e": 138.35
+    },
+    {
+     "w": "One",
+     "s": 138.487,
+     "e": 138.75
+    },
+    {
+     "w": "thousand,",
+     "s": 138.75,
+     "e": 139.35
+    },
+    {
+     "w": "one",
+     "s": 139.425,
+     "e": 139.625
+    },
+    {
+     "w": "hundred",
+     "s": 139.625,
+     "e": 140.012
+    },
+    {
+     "w": "and",
+     "s": 140.012,
+     "e": 140.125
+    },
+    {
+     "w": "fifty",
+     "s": 140.125,
+     "e": 140.437
+    },
+    {
+     "w": "six",
+     "s": 140.437,
+     "e": 140.75
+    },
+    {
+     "w": "numbers",
+     "s": 140.75,
+     "e": 141.175
+    },
+    {
+     "w": "in",
+     "s": 141.175,
+     "e": 141.325
+    },
+    {
+     "w": "total.",
+     "s": 141.325,
+     "e": 142.0
+    }
+   ],
+   "scene": "c3_brain"
+  },
+  {
+   "id": "L032",
+   "start": 142.117,
+   "end": 146.896,
+   "emph": [
+    "by playing"
+   ],
+   "words": [
+    {
+     "w": "No",
+     "s": 142.165,
+     "e": 142.428
+    },
+    {
+     "w": "rules",
+     "s": 142.428,
+     "e": 142.753
+    },
+    {
+     "w": "of",
+     "s": 142.753,
+     "e": 142.865
+    },
+    {
+     "w": "cricket",
+     "s": 142.865,
+     "e": 143.215
+    },
+    {
+     "w": "are",
+     "s": 143.215,
+     "e": 143.365
+    },
+    {
+     "w": "written",
+     "s": 143.365,
+     "e": 143.615
+    },
+    {
+     "w": "anywhere.",
+     "s": 143.615,
+     "e": 144.39
+    },
+    {
+     "w": "Whatever",
+     "s": 144.54,
+     "e": 144.903
+    },
+    {
+     "w": "it",
+     "s": 144.903,
+     "e": 144.99
+    },
+    {
+     "w": "learns,",
+     "s": 144.99,
+     "e": 145.54
+    },
+    {
+     "w": "it",
+     "s": 145.64,
+     "e": 145.765
+    },
+    {
+     "w": "learns",
+     "s": 145.765,
+     "e": 146.14
+    },
+    {
+     "w": "by",
+     "s": 146.14,
+     "e": 146.315
+    },
+    {
+     "w": "playing.",
+     "s": 146.315,
+     "e": 147.065
+    }
+   ],
+   "scene": "c3_brain"
+  },
+  {
+   "id": "L040",
+   "start": 151.396,
+   "end": 153.644,
+   "emph": [
+    "evolve"
+   ],
+   "words": [
+    {
+     "w": "Instead",
+     "s": 151.401,
+     "e": 151.739
+    },
+    {
+     "w": "of",
+     "s": 151.739,
+     "e": 151.826
+    },
+    {
+     "w": "teaching",
+     "s": 151.826,
+     "e": 152.251
+    },
+    {
+     "w": "it,",
+     "s": 152.251,
+     "e": 152.501
+    },
+    {
+     "w": "I",
+     "s": 152.601,
+     "e": 152.751
+    },
+    {
+     "w": "let",
+     "s": 152.751,
+     "e": 152.889
+    },
+    {
+     "w": "it",
+     "s": 152.889,
+     "e": 152.976
+    },
+    {
+     "w": "evolve.",
+     "s": 152.976,
+     "e": 153.776
+    }
+   ],
+   "scene": "c4_evolve"
+  },
+  {
+   "id": "L040b",
+   "start": 153.944,
+   "end": 160.65,
+   "emph": [
+    "thirteen runs"
+   ],
+   "words": [
+    {
+     "w": "Generation",
+     "s": 153.953,
+     "e": 154.591
+    },
+    {
+     "w": "zero",
+     "s": 154.591,
+     "e": 155.091
+    },
+    {
+     "w": "is",
+     "s": 155.091,
+     "e": 155.266
+    },
+    {
+     "w": "chaos.",
+     "s": 155.266,
+     "e": 156.178
+    },
+    {
+     "w": "Against",
+     "s": 156.341,
+     "e": 156.691
+    },
+    {
+     "w": "the",
+     "s": 156.691,
+     "e": 156.778
+    },
+    {
+     "w": "Slogger,",
+     "s": 156.778,
+     "e": 157.453
+    },
+    {
+     "w": "random",
+     "s": 157.591,
+     "e": 158.028
+    },
+    {
+     "w": "bowling",
+     "s": 158.028,
+     "e": 158.403
+    },
+    {
+     "w": "goes",
+     "s": 158.403,
+     "e": 158.753
+    },
+    {
+     "w": "for",
+     "s": 158.753,
+     "e": 158.878
+    },
+    {
+     "w": "more",
+     "s": 158.878,
+     "e": 159.103
+    },
+    {
+     "w": "than",
+     "s": 159.103,
+     "e": 159.291
+    },
+    {
+     "w": "thirteen",
+     "s": 159.291,
+     "e": 159.828
+    },
+    {
+     "w": "runs",
+     "s": 159.828,
+     "e": 160.091
+    },
+    {
+     "w": "an",
+     "s": 160.091,
+     "e": 160.178
+    },
+    {
+     "w": "over.",
+     "s": 160.178,
+     "e": 160.828
+    }
+   ],
+   "scene": "c4_chaos"
+  },
+  {
+   "id": "L041",
+   "start": 161.15,
+   "end": 165.132,
+   "emph": [
+    "ninety two"
+   ],
+   "words": [
+    {
+     "w": "A",
+     "s": 161.15,
+     "e": 161.214
+    },
+    {
+     "w": "hundred",
+     "s": 161.214,
+     "e": 161.639
+    },
+    {
+     "w": "and",
+     "s": 161.639,
+     "e": 161.764
+    },
+    {
+     "w": "ninety",
+     "s": 161.764,
+     "e": 162.152
+    },
+    {
+     "w": "two",
+     "s": 162.152,
+     "e": 162.464
+    },
+    {
+     "w": "random",
+     "s": 162.464,
+     "e": 162.839
+    },
+    {
+     "w": "brains",
+     "s": 162.839,
+     "e": 163.214
+    },
+    {
+     "w": "each",
+     "s": 163.214,
+     "e": 163.439
+    },
+    {
+     "w": "bowl",
+     "s": 163.439,
+     "e": 163.927
+    },
+    {
+     "w": "forty",
+     "s": 163.927,
+     "e": 164.314
+    },
+    {
+     "w": "eight",
+     "s": 164.314,
+     "e": 164.514
+    },
+    {
+     "w": "overs.",
+     "s": 164.514,
+     "e": 165.264
+    }
+   ],
+   "scene": "c4_swarm"
+  },
+  {
+   "id": "L042",
+   "start": 165.432,
+   "end": 173.357,
+   "emph": [
+    "best eight",
+    "mutations"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 165.432,
+     "e": 165.522
+    },
+    {
+     "w": "best",
+     "s": 165.522,
+     "e": 165.885
+    },
+    {
+     "w": "eight",
+     "s": 165.885,
+     "e": 166.135
+    },
+    {
+     "w": "go",
+     "s": 166.135,
+     "e": 166.31
+    },
+    {
+     "w": "straight",
+     "s": 166.31,
+     "e": 166.647
+    },
+    {
+     "w": "through.",
+     "s": 166.647,
+     "e": 167.285
+    },
+    {
+     "w": "The",
+     "s": 167.472,
+     "e": 167.61
+    },
+    {
+     "w": "rest",
+     "s": 167.61,
+     "e": 167.872
+    },
+    {
+     "w": "of",
+     "s": 167.872,
+     "e": 167.947
+    },
+    {
+     "w": "the",
+     "s": 167.947,
+     "e": 168.035
+    },
+    {
+     "w": "next",
+     "s": 168.035,
+     "e": 168.31
+    },
+    {
+     "w": "generation",
+     "s": 168.31,
+     "e": 168.91
+    },
+    {
+     "w": "is",
+     "s": 168.91,
+     "e": 169.072
+    },
+    {
+     "w": "bred",
+     "s": 169.072,
+     "e": 169.41
+    },
+    {
+     "w": "from",
+     "s": 169.41,
+     "e": 169.547
+    },
+    {
+     "w": "the",
+     "s": 169.547,
+     "e": 169.635
+    },
+    {
+     "w": "winners,",
+     "s": 169.635,
+     "e": 170.31
+    },
+    {
+     "w": "by",
+     "s": 170.41,
+     "e": 170.585
+    },
+    {
+     "w": "mixing",
+     "s": 170.585,
+     "e": 170.972
+    },
+    {
+     "w": "two",
+     "s": 170.972,
+     "e": 171.185
+    },
+    {
+     "w": "parents",
+     "s": 171.185,
+     "e": 171.722
+    },
+    {
+     "w": "and",
+     "s": 171.722,
+     "e": 171.872
+    },
+    {
+     "w": "adding",
+     "s": 171.872,
+     "e": 172.222
+    },
+    {
+     "w": "small",
+     "s": 172.222,
+     "e": 172.547
+    },
+    {
+     "w": "mutations.",
+     "s": 172.547,
+     "e": 173.51
+    }
+   ],
+   "scene": "c4_tree"
+  },
+  {
+   "id": "L043",
+   "start": 173.657,
+   "end": 178.599,
+   "emph": [
+    "fifteen hundred",
+    "eighty three million"
+   ],
+   "words": [
+    {
+     "w": "Repeat",
+     "s": 173.657,
+     "e": 174.041
+    },
+    {
+     "w": "that",
+     "s": 174.041,
+     "e": 174.303
+    },
+    {
+     "w": "fifteen",
+     "s": 174.303,
+     "e": 174.716
+    },
+    {
+     "w": "hundred",
+     "s": 174.716,
+     "e": 175.066
+    },
+    {
+     "w": "times,",
+     "s": 175.066,
+     "e": 175.841
+    },
+    {
+     "w": "and",
+     "s": 175.941,
+     "e": 176.066
+    },
+    {
+     "w": "you've",
+     "s": 176.066,
+     "e": 176.266
+    },
+    {
+     "w": "bowled",
+     "s": 176.266,
+     "e": 176.528
+    },
+    {
+     "w": "about",
+     "s": 176.528,
+     "e": 176.803
+    },
+    {
+     "w": "eighty",
+     "s": 176.803,
+     "e": 177.166
+    },
+    {
+     "w": "three",
+     "s": 177.166,
+     "e": 177.503
+    },
+    {
+     "w": "million",
+     "s": 177.503,
+     "e": 177.866
+    },
+    {
+     "w": "deliveries.",
+     "s": 177.866,
+     "e": 178.741
+    }
+   ],
+   "scene": "c4_curve"
+  },
+  {
+   "id": "L044",
+   "start": 181.199,
+   "end": 189.236,
+   "emph": [
+    "everywhere"
+   ],
+   "words": [
+    {
+     "w": "Watch",
+     "s": 181.199,
+     "e": 181.458
+    },
+    {
+     "w": "a",
+     "s": 181.458,
+     "e": 181.571
+    },
+    {
+     "w": "whole",
+     "s": 181.571,
+     "e": 181.833
+    },
+    {
+     "w": "generation",
+     "s": 181.833,
+     "e": 182.358
+    },
+    {
+     "w": "bowl",
+     "s": 182.358,
+     "e": 182.608
+    },
+    {
+     "w": "at",
+     "s": 182.608,
+     "e": 182.708
+    },
+    {
+     "w": "once.",
+     "s": 182.708,
+     "e": 183.433
+    },
+    {
+     "w": "In",
+     "s": 183.571,
+     "e": 183.733
+    },
+    {
+     "w": "generation",
+     "s": 183.733,
+     "e": 184.358
+    },
+    {
+     "w": "one,",
+     "s": 184.358,
+     "e": 184.758
+    },
+    {
+     "w": "the",
+     "s": 184.858,
+     "e": 184.983
+    },
+    {
+     "w": "balls",
+     "s": 184.983,
+     "e": 185.383
+    },
+    {
+     "w": "land",
+     "s": 185.383,
+     "e": 185.758
+    },
+    {
+     "w": "everywhere.",
+     "s": 185.758,
+     "e": 186.658
+    },
+    {
+     "w": "The",
+     "s": 186.821,
+     "e": 186.958
+    },
+    {
+     "w": "lengths",
+     "s": 186.958,
+     "e": 187.283
+    },
+    {
+     "w": "are",
+     "s": 187.283,
+     "e": 187.383
+    },
+    {
+     "w": "spread",
+     "s": 187.383,
+     "e": 187.646
+    },
+    {
+     "w": "across",
+     "s": 187.646,
+     "e": 187.983
+    },
+    {
+     "w": "almost",
+     "s": 187.983,
+     "e": 188.408
+    },
+    {
+     "w": "three",
+     "s": 188.408,
+     "e": 188.633
+    },
+    {
+     "w": "metres.",
+     "s": 188.633,
+     "e": 189.358
+    }
+   ],
+   "scene": "c4_montage"
+  },
+  {
+   "id": "L045",
+   "start": 190.836,
+   "end": 196.93,
+   "emph": [
+    "single stream"
+   ],
+   "words": [
+    {
+     "w": "By",
+     "s": 190.836,
+     "e": 190.952
+    },
+    {
+     "w": "generation",
+     "s": 190.952,
+     "e": 191.539
+    },
+    {
+     "w": "fifty,",
+     "s": 191.539,
+     "e": 192.077
+    },
+    {
+     "w": "they've",
+     "s": 192.177,
+     "e": 192.402
+    },
+    {
+     "w": "found",
+     "s": 192.402,
+     "e": 192.689
+    },
+    {
+     "w": "the",
+     "s": 192.689,
+     "e": 192.777
+    },
+    {
+     "w": "stumps.",
+     "s": 192.777,
+     "e": 193.602
+    },
+    {
+     "w": "By",
+     "s": 193.727,
+     "e": 193.914
+    },
+    {
+     "w": "five",
+     "s": 193.914,
+     "e": 194.227
+    },
+    {
+     "w": "hundred,",
+     "s": 194.227,
+     "e": 194.702
+    },
+    {
+     "w": "the",
+     "s": 194.777,
+     "e": 194.914
+    },
+    {
+     "w": "swarm",
+     "s": 194.914,
+     "e": 195.377
+    },
+    {
+     "w": "is",
+     "s": 195.377,
+     "e": 195.527
+    },
+    {
+     "w": "almost",
+     "s": 195.527,
+     "e": 195.914
+    },
+    {
+     "w": "a",
+     "s": 195.914,
+     "e": 196.014
+    },
+    {
+     "w": "single",
+     "s": 196.014,
+     "e": 196.377
+    },
+    {
+     "w": "stream.",
+     "s": 196.377,
+     "e": 197.102
+    }
+   ],
+   "scene": "c4_montage"
+  },
+  {
+   "id": "L046",
+   "start": 198.53,
+   "end": 205.577,
+   "emph": [
+    "half a metre"
+   ],
+   "words": [
+    {
+     "w": "By",
+     "s": 198.53,
+     "e": 198.648
+    },
+    {
+     "w": "the",
+     "s": 198.648,
+     "e": 198.785
+    },
+    {
+     "w": "end,",
+     "s": 198.785,
+     "e": 199.21
+    },
+    {
+     "w": "the",
+     "s": 199.285,
+     "e": 199.398
+    },
+    {
+     "w": "spread",
+     "s": 199.398,
+     "e": 199.698
+    },
+    {
+     "w": "of",
+     "s": 199.698,
+     "e": 199.81
+    },
+    {
+     "w": "lengths",
+     "s": 199.81,
+     "e": 200.16
+    },
+    {
+     "w": "has",
+     "s": 200.16,
+     "e": 200.385
+    },
+    {
+     "w": "shrunk",
+     "s": 200.385,
+     "e": 200.735
+    },
+    {
+     "w": "to",
+     "s": 200.735,
+     "e": 200.885
+    },
+    {
+     "w": "about",
+     "s": 200.885,
+     "e": 201.185
+    },
+    {
+     "w": "half",
+     "s": 201.185,
+     "e": 201.398
+    },
+    {
+     "w": "a",
+     "s": 201.398,
+     "e": 201.448
+    },
+    {
+     "w": "metre,",
+     "s": 201.448,
+     "e": 202.11
+    },
+    {
+     "w": "and",
+     "s": 202.21,
+     "e": 202.323
+    },
+    {
+     "w": "the",
+     "s": 202.323,
+     "e": 202.41
+    },
+    {
+     "w": "spread",
+     "s": 202.41,
+     "e": 202.723
+    },
+    {
+     "w": "of",
+     "s": 202.723,
+     "e": 202.823
+    },
+    {
+     "w": "speeds",
+     "s": 202.823,
+     "e": 203.31
+    },
+    {
+     "w": "from",
+     "s": 203.31,
+     "e": 203.523
+    },
+    {
+     "w": "six",
+     "s": 203.523,
+     "e": 203.81
+    },
+    {
+     "w": "kilometres",
+     "s": 203.81,
+     "e": 204.548
+    },
+    {
+     "w": "an",
+     "s": 204.548,
+     "e": 204.723
+    },
+    {
+     "w": "hour",
+     "s": 204.723,
+     "e": 205.06
+    },
+    {
+     "w": "to",
+     "s": 205.06,
+     "e": 205.185
+    },
+    {
+     "w": "one.",
+     "s": 205.185,
+     "e": 205.76
+    }
+   ],
+   "scene": "c4_montage"
+  },
+  {
+   "id": "L047",
+   "start": 207.977,
+   "end": 220.718,
+   "emph": [
+    "family tree",
+    "generation zero"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 207.977,
+     "e": 208.104
+    },
+    {
+     "w": "every",
+     "s": 208.104,
+     "e": 208.429
+    },
+    {
+     "w": "champion",
+     "s": 208.429,
+     "e": 208.991
+    },
+    {
+     "w": "has",
+     "s": 208.991,
+     "e": 209.154
+    },
+    {
+     "w": "a",
+     "s": 209.154,
+     "e": 209.254
+    },
+    {
+     "w": "family",
+     "s": 209.254,
+     "e": 209.704
+    },
+    {
+     "w": "tree.",
+     "s": 209.704,
+     "e": 210.491
+    },
+    {
+     "w": "The",
+     "s": 210.654,
+     "e": 210.804
+    },
+    {
+     "w": "final",
+     "s": 210.804,
+     "e": 211.216
+    },
+    {
+     "w": "one",
+     "s": 211.216,
+     "e": 211.441
+    },
+    {
+     "w": "was",
+     "s": 211.441,
+     "e": 211.629
+    },
+    {
+     "w": "born",
+     "s": 211.629,
+     "e": 211.991
+    },
+    {
+     "w": "in",
+     "s": 211.991,
+     "e": 212.116
+    },
+    {
+     "w": "generation",
+     "s": 212.116,
+     "e": 212.729
+    },
+    {
+     "w": "fourteen",
+     "s": 212.729,
+     "e": 213.266
+    },
+    {
+     "w": "twenty",
+     "s": 213.266,
+     "e": 213.566
+    },
+    {
+     "w": "five.",
+     "s": 213.566,
+     "e": 214.316
+    },
+    {
+     "w": "Follow",
+     "s": 214.466,
+     "e": 214.779
+    },
+    {
+     "w": "its",
+     "s": 214.779,
+     "e": 214.941
+    },
+    {
+     "w": "parents",
+     "s": 214.941,
+     "e": 215.341
+    },
+    {
+     "w": "back,",
+     "s": 215.341,
+     "e": 215.866
+    },
+    {
+     "w": "generation",
+     "s": 215.979,
+     "e": 216.641
+    },
+    {
+     "w": "by",
+     "s": 216.641,
+     "e": 216.816
+    },
+    {
+     "w": "generation,",
+     "s": 216.816,
+     "e": 217.766
+    },
+    {
+     "w": "and",
+     "s": 217.866,
+     "e": 217.991
+    },
+    {
+     "w": "you",
+     "s": 217.991,
+     "e": 218.154
+    },
+    {
+     "w": "reach",
+     "s": 218.154,
+     "e": 218.416
+    },
+    {
+     "w": "a",
+     "s": 218.416,
+     "e": 218.529
+    },
+    {
+     "w": "random",
+     "s": 218.529,
+     "e": 219.029
+    },
+    {
+     "w": "brain",
+     "s": 219.029,
+     "e": 219.466
+    },
+    {
+     "w": "at",
+     "s": 219.466,
+     "e": 219.591
+    },
+    {
+     "w": "generation",
+     "s": 219.591,
+     "e": 220.216
+    },
+    {
+     "w": "zero.",
+     "s": 220.216,
+     "e": 220.841
+    }
+   ],
+   "scene": "c4_family"
+  },
+  {
+   "id": "L050",
+   "start": 225.218,
+   "end": 227.758,
+   "emph": [
+    "Too fast"
+   ],
+   "words": [
+    {
+     "w": "Version",
+     "s": 225.263,
+     "e": 225.688
+    },
+    {
+     "w": "one",
+     "s": 225.688,
+     "e": 225.938
+    },
+    {
+     "w": "learned",
+     "s": 225.938,
+     "e": 226.238
+    },
+    {
+     "w": "fast.",
+     "s": 226.238,
+     "e": 226.788
+    },
+    {
+     "w": "Too",
+     "s": 226.925,
+     "e": 227.15
+    },
+    {
+     "w": "fast.",
+     "s": 227.15,
+     "e": 227.863
+    }
+   ],
+   "scene": "c5_rise"
+  },
+  {
+   "id": "L051",
+   "start": 228.358,
+   "end": 233.976,
+   "emph": [
+    "Bouncer",
+    "Yorker"
+   ],
+   "words": [
+    {
+     "w": "When",
+     "s": 228.358,
+     "e": 228.428
+    },
+    {
+     "w": "I",
+     "s": 228.428,
+     "e": 228.565
+    },
+    {
+     "w": "watched",
+     "s": 228.565,
+     "e": 228.853
+    },
+    {
+     "w": "what",
+     "s": 228.853,
+     "e": 228.978
+    },
+    {
+     "w": "it",
+     "s": 228.978,
+     "e": 229.053
+    },
+    {
+     "w": "was",
+     "s": 229.053,
+     "e": 229.19
+    },
+    {
+     "w": "bowling,",
+     "s": 229.19,
+     "e": 229.64
+    },
+    {
+     "w": "it",
+     "s": 229.715,
+     "e": 229.803
+    },
+    {
+     "w": "was",
+     "s": 229.803,
+     "e": 229.965
+    },
+    {
+     "w": "doing",
+     "s": 229.965,
+     "e": 230.265
+    },
+    {
+     "w": "one",
+     "s": 230.265,
+     "e": 230.49
+    },
+    {
+     "w": "thing.",
+     "s": 230.49,
+     "e": 231.04
+    },
+    {
+     "w": "Bouncer.",
+     "s": 231.203,
+     "e": 231.84
+    },
+    {
+     "w": "Yorker.",
+     "s": 231.953,
+     "e": 232.54
+    },
+    {
+     "w": "Bouncer.",
+     "s": 232.653,
+     "e": 233.265
+    },
+    {
+     "w": "Yorker.",
+     "s": 233.378,
+     "e": 234.14
+    }
+   ],
+   "scene": "c5_cheat"
+  },
+  {
+   "id": "L052",
+   "start": 234.276,
+   "end": 239.467,
+   "emph": [
+    "Nothing in between"
+   ],
+   "words": [
+    {
+     "w": "A",
+     "s": 234.276,
+     "e": 234.347
+    },
+    {
+     "w": "hundred",
+     "s": 234.347,
+     "e": 234.735
+    },
+    {
+     "w": "and",
+     "s": 234.735,
+     "e": 234.847
+    },
+    {
+     "w": "fifteen",
+     "s": 234.847,
+     "e": 235.297
+    },
+    {
+     "w": "kilometres",
+     "s": 235.297,
+     "e": 235.86
+    },
+    {
+     "w": "an",
+     "s": 235.86,
+     "e": 235.96
+    },
+    {
+     "w": "hour,",
+     "s": 235.96,
+     "e": 236.472
+    },
+    {
+     "w": "then",
+     "s": 236.572,
+     "e": 236.71
+    },
+    {
+     "w": "a",
+     "s": 236.71,
+     "e": 236.81
+    },
+    {
+     "w": "hundred",
+     "s": 236.81,
+     "e": 237.247
+    },
+    {
+     "w": "and",
+     "s": 237.247,
+     "e": 237.385
+    },
+    {
+     "w": "fifty.",
+     "s": 237.385,
+     "e": 238.122
+    },
+    {
+     "w": "Nothing",
+     "s": 238.322,
+     "e": 238.747
+    },
+    {
+     "w": "in",
+     "s": 238.747,
+     "e": 238.86
+    },
+    {
+     "w": "between.",
+     "s": 238.86,
+     "e": 239.647
+    }
+   ],
+   "scene": "c5_cheat"
+  },
+  {
+   "id": "L053",
+   "start": 239.767,
+   "end": 244.679,
+   "emph": [
+    "illegal"
+   ],
+   "words": [
+    {
+     "w": "Half",
+     "s": 239.785,
+     "e": 239.997
+    },
+    {
+     "w": "of",
+     "s": 239.997,
+     "e": 240.072
+    },
+    {
+     "w": "all",
+     "s": 240.072,
+     "e": 240.222
+    },
+    {
+     "w": "its",
+     "s": 240.222,
+     "e": 240.36
+    },
+    {
+     "w": "balls",
+     "s": 240.36,
+     "e": 240.697
+    },
+    {
+     "w": "were",
+     "s": 240.697,
+     "e": 240.81
+    },
+    {
+     "w": "bouncers.",
+     "s": 240.81,
+     "e": 241.71
+    },
+    {
+     "w": "Three",
+     "s": 241.86,
+     "e": 242.16
+    },
+    {
+     "w": "an",
+     "s": 242.16,
+     "e": 242.26
+    },
+    {
+     "w": "over,",
+     "s": 242.26,
+     "e": 242.76
+    },
+    {
+     "w": "which",
+     "s": 242.86,
+     "e": 243.06
+    },
+    {
+     "w": "is",
+     "s": 243.06,
+     "e": 243.185
+    },
+    {
+     "w": "illegal",
+     "s": 243.185,
+     "e": 243.71
+    },
+    {
+     "w": "in",
+     "s": 243.71,
+     "e": 243.86
+    },
+    {
+     "w": "real",
+     "s": 243.86,
+     "e": 244.135
+    },
+    {
+     "w": "cricket.",
+     "s": 244.135,
+     "e": 244.835
+    }
+   ],
+   "scene": "c5_cheat2"
+  },
+  {
+   "id": "L054",
+   "start": 245.279,
+   "end": 251.876,
+   "emph": [
+    "my batter model"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 245.279,
+     "e": 245.355
+    },
+    {
+     "w": "reason",
+     "s": 245.355,
+     "e": 245.805
+    },
+    {
+     "w": "was",
+     "s": 245.805,
+     "e": 245.968
+    },
+    {
+     "w": "my",
+     "s": 245.968,
+     "e": 246.13
+    },
+    {
+     "w": "batter",
+     "s": 246.13,
+     "e": 246.455
+    },
+    {
+     "w": "model.",
+     "s": 246.455,
+     "e": 247.18
+    },
+    {
+     "w": "My",
+     "s": 247.318,
+     "e": 247.505
+    },
+    {
+     "w": "batters",
+     "s": 247.505,
+     "e": 247.993
+    },
+    {
+     "w": "judged",
+     "s": 247.993,
+     "e": 248.493
+    },
+    {
+     "w": "surprise",
+     "s": 248.493,
+     "e": 249.143
+    },
+    {
+     "w": "only",
+     "s": 249.143,
+     "e": 249.455
+    },
+    {
+     "w": "by",
+     "s": 249.455,
+     "e": 249.63
+    },
+    {
+     "w": "how",
+     "s": 249.63,
+     "e": 249.88
+    },
+    {
+     "w": "far",
+     "s": 249.88,
+     "e": 250.168
+    },
+    {
+     "w": "a",
+     "s": 250.168,
+     "e": 250.23
+    },
+    {
+     "w": "ball",
+     "s": 250.23,
+     "e": 250.58
+    },
+    {
+     "w": "was",
+     "s": 250.58,
+     "e": 250.755
+    },
+    {
+     "w": "from",
+     "s": 250.755,
+     "e": 250.918
+    },
+    {
+     "w": "what",
+     "s": 250.918,
+     "e": 251.055
+    },
+    {
+     "w": "they",
+     "s": 251.055,
+     "e": 251.205
+    },
+    {
+     "w": "expected.",
+     "s": 251.205,
+     "e": 252.03
+    }
+   ],
+   "scene": "c5_why"
+  },
+  {
+   "id": "L055",
+   "start": 252.176,
+   "end": 256.592,
+   "emph": [
+    "always"
+   ],
+   "words": [
+    {
+     "w": "So",
+     "s": 252.203,
+     "e": 252.403
+    },
+    {
+     "w": "swinging",
+     "s": 252.403,
+     "e": 252.803
+    },
+    {
+     "w": "between",
+     "s": 252.803,
+     "e": 253.165
+    },
+    {
+     "w": "two",
+     "s": 253.165,
+     "e": 253.378
+    },
+    {
+     "w": "extremes",
+     "s": 253.378,
+     "e": 254.24
+    },
+    {
+     "w": "was",
+     "s": 254.24,
+     "e": 254.465
+    },
+    {
+     "w": "always",
+     "s": 254.465,
+     "e": 254.89
+    },
+    {
+     "w": "the",
+     "s": 254.89,
+     "e": 254.978
+    },
+    {
+     "w": "most",
+     "s": 254.978,
+     "e": 255.203
+    },
+    {
+     "w": "surprising",
+     "s": 255.203,
+     "e": 255.753
+    },
+    {
+     "w": "thing",
+     "s": 255.753,
+     "e": 255.965
+    },
+    {
+     "w": "it",
+     "s": 255.965,
+     "e": 256.053
+    },
+    {
+     "w": "could",
+     "s": 256.053,
+     "e": 256.228
+    },
+    {
+     "w": "do.",
+     "s": 256.228,
+     "e": 256.753
+    }
+   ],
+   "scene": "c5_why"
+  },
+  {
+   "id": "L056",
+   "start": 256.892,
+   "end": 261.163,
+   "emph": [
+    "bug",
+    "farmed"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 256.892,
+     "e": 257.048
+    },
+    {
+     "w": "AI",
+     "s": 257.048,
+     "e": 257.548
+    },
+    {
+     "w": "didn't",
+     "s": 257.548,
+     "e": 257.773
+    },
+    {
+     "w": "learn",
+     "s": 257.773,
+     "e": 258.023
+    },
+    {
+     "w": "cricket.",
+     "s": 258.023,
+     "e": 258.773
+    },
+    {
+     "w": "It",
+     "s": 258.898,
+     "e": 259.048
+    },
+    {
+     "w": "found",
+     "s": 259.048,
+     "e": 259.311
+    },
+    {
+     "w": "a",
+     "s": 259.311,
+     "e": 259.386
+    },
+    {
+     "w": "bug",
+     "s": 259.386,
+     "e": 259.686
+    },
+    {
+     "w": "in",
+     "s": 259.686,
+     "e": 259.761
+    },
+    {
+     "w": "my",
+     "s": 259.761,
+     "e": 259.923
+    },
+    {
+     "w": "world,",
+     "s": 259.923,
+     "e": 260.298
+    },
+    {
+     "w": "and",
+     "s": 260.348,
+     "e": 260.486
+    },
+    {
+     "w": "farmed",
+     "s": 260.486,
+     "e": 260.848
+    },
+    {
+     "w": "it.",
+     "s": 260.848,
+     "e": 261.298
+    }
+   ],
+   "scene": "c5_why"
+  },
+  {
+   "id": "L057",
+   "start": 261.663,
+   "end": 267.788,
+   "emph": [
+    "Reward hacking"
+   ],
+   "words": [
+    {
+     "w": "This",
+     "s": 261.663,
+     "e": 261.819
+    },
+    {
+     "w": "has",
+     "s": 261.819,
+     "e": 261.981
+    },
+    {
+     "w": "a",
+     "s": 261.981,
+     "e": 262.044
+    },
+    {
+     "w": "name",
+     "s": 262.044,
+     "e": 262.369
+    },
+    {
+     "w": "in",
+     "s": 262.369,
+     "e": 262.531
+    },
+    {
+     "w": "AI",
+     "s": 262.531,
+     "e": 262.944
+    },
+    {
+     "w": "research.",
+     "s": 262.944,
+     "e": 263.644
+    },
+    {
+     "w": "Reward",
+     "s": 263.769,
+     "e": 264.169
+    },
+    {
+     "w": "hacking.",
+     "s": 264.169,
+     "e": 264.969
+    },
+    {
+     "w": "You",
+     "s": 265.106,
+     "e": 265.244
+    },
+    {
+     "w": "get",
+     "s": 265.244,
+     "e": 265.394
+    },
+    {
+     "w": "exactly",
+     "s": 265.394,
+     "e": 265.981
+    },
+    {
+     "w": "what",
+     "s": 265.981,
+     "e": 266.119
+    },
+    {
+     "w": "you",
+     "s": 266.119,
+     "e": 266.256
+    },
+    {
+     "w": "asked",
+     "s": 266.256,
+     "e": 266.594
+    },
+    {
+     "w": "for,",
+     "s": 266.594,
+     "e": 266.894
+    },
+    {
+     "w": "not",
+     "s": 266.969,
+     "e": 267.156
+    },
+    {
+     "w": "what",
+     "s": 267.156,
+     "e": 267.281
+    },
+    {
+     "w": "you",
+     "s": 267.281,
+     "e": 267.369
+    },
+    {
+     "w": "meant.",
+     "s": 267.369,
+     "e": 267.944
+    }
+   ],
+   "scene": "c5_name"
+  },
+  {
+   "id": "L060",
+   "start": 272.388,
+   "end": 274.304,
+   "emph": [
+    "the world"
+   ],
+   "words": [
+    {
+     "w": "So",
+     "s": 272.418,
+     "e": 272.505
+    },
+    {
+     "w": "I",
+     "s": 272.505,
+     "e": 272.618
+    },
+    {
+     "w": "fixed",
+     "s": 272.618,
+     "e": 272.88
+    },
+    {
+     "w": "the",
+     "s": 272.88,
+     "e": 272.968
+    },
+    {
+     "w": "world,",
+     "s": 272.968,
+     "e": 273.418
+    },
+    {
+     "w": "not",
+     "s": 273.493,
+     "e": 273.655
+    },
+    {
+     "w": "the",
+     "s": 273.655,
+     "e": 273.743
+    },
+    {
+     "w": "bowler.",
+     "s": 273.743,
+     "e": 274.443
+    }
+   ],
+   "scene": "c6_fix"
+  },
+  {
+   "id": "L061",
+   "start": 274.604,
+   "end": 282.154,
+   "emph": [
+    "fourth ball"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 274.604,
+     "e": 274.66
+    },
+    {
+     "w": "batters",
+     "s": 274.66,
+     "e": 275.11
+    },
+    {
+     "w": "now",
+     "s": 275.11,
+     "e": 275.335
+    },
+    {
+     "w": "remember",
+     "s": 275.335,
+     "e": 275.672
+    },
+    {
+     "w": "the",
+     "s": 275.672,
+     "e": 275.76
+    },
+    {
+     "w": "last",
+     "s": 275.76,
+     "e": 276.122
+    },
+    {
+     "w": "two",
+     "s": 276.122,
+     "e": 276.335
+    },
+    {
+     "w": "balls",
+     "s": 276.335,
+     "e": 276.76
+    },
+    {
+     "w": "and",
+     "s": 276.76,
+     "e": 276.885
+    },
+    {
+     "w": "spot",
+     "s": 276.885,
+     "e": 277.185
+    },
+    {
+     "w": "patterns.",
+     "s": 277.185,
+     "e": 278.11
+    },
+    {
+     "w": "Run",
+     "s": 278.285,
+     "e": 278.56
+    },
+    {
+     "w": "that",
+     "s": 278.56,
+     "e": 278.76
+    },
+    {
+     "w": "bouncer",
+     "s": 278.76,
+     "e": 279.21
+    },
+    {
+     "w": "yorker",
+     "s": 279.21,
+     "e": 279.585
+    },
+    {
+     "w": "routine,",
+     "s": 279.585,
+     "e": 280.335
+    },
+    {
+     "w": "and",
+     "s": 280.435,
+     "e": 280.547
+    },
+    {
+     "w": "they've",
+     "s": 280.547,
+     "e": 280.797
+    },
+    {
+     "w": "read",
+     "s": 280.797,
+     "e": 281.035
+    },
+    {
+     "w": "it",
+     "s": 281.035,
+     "e": 281.185
+    },
+    {
+     "w": "by",
+     "s": 281.185,
+     "e": 281.322
+    },
+    {
+     "w": "the",
+     "s": 281.322,
+     "e": 281.422
+    },
+    {
+     "w": "fourth",
+     "s": 281.422,
+     "e": 281.735
+    },
+    {
+     "w": "ball.",
+     "s": 281.735,
+     "e": 282.335
+    }
+   ],
+   "scene": "c6_pattern"
+  },
+  {
+   "id": "L061b",
+   "start": 284.354,
+   "end": 293.913,
+   "emph": [
+    "only works once",
+    "two percent"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 284.354,
+     "e": 284.456
+    },
+    {
+     "w": "a",
+     "s": 284.456,
+     "e": 284.518
+    },
+    {
+     "w": "surprise",
+     "s": 284.518,
+     "e": 285.181
+    },
+    {
+     "w": "only",
+     "s": 285.181,
+     "e": 285.493
+    },
+    {
+     "w": "works",
+     "s": 285.493,
+     "e": 285.793
+    },
+    {
+     "w": "once.",
+     "s": 285.793,
+     "e": 286.543
+    },
+    {
+     "w": "A",
+     "s": 286.681,
+     "e": 286.818
+    },
+    {
+     "w": "shock",
+     "s": 286.818,
+     "e": 287.143
+    },
+    {
+     "w": "ball",
+     "s": 287.143,
+     "e": 287.443
+    },
+    {
+     "w": "takes",
+     "s": 287.443,
+     "e": 287.681
+    },
+    {
+     "w": "a",
+     "s": 287.681,
+     "e": 287.781
+    },
+    {
+     "w": "wicket",
+     "s": 287.781,
+     "e": 288.181
+    },
+    {
+     "w": "more",
+     "s": 288.181,
+     "e": 288.418
+    },
+    {
+     "w": "than",
+     "s": 288.418,
+     "e": 288.531
+    },
+    {
+     "w": "a",
+     "s": 288.531,
+     "e": 288.593
+    },
+    {
+     "w": "quarter",
+     "s": 288.593,
+     "e": 288.906
+    },
+    {
+     "w": "of",
+     "s": 288.906,
+     "e": 288.981
+    },
+    {
+     "w": "the",
+     "s": 288.981,
+     "e": 289.081
+    },
+    {
+     "w": "time",
+     "s": 289.081,
+     "e": 289.518
+    },
+    {
+     "w": "on",
+     "s": 289.518,
+     "e": 289.631
+    },
+    {
+     "w": "the",
+     "s": 289.631,
+     "e": 289.731
+    },
+    {
+     "w": "first",
+     "s": 289.731,
+     "e": 290.093
+    },
+    {
+     "w": "ball",
+     "s": 290.093,
+     "e": 290.356
+    },
+    {
+     "w": "of",
+     "s": 290.356,
+     "e": 290.431
+    },
+    {
+     "w": "an",
+     "s": 290.431,
+     "e": 290.518
+    },
+    {
+     "w": "over.",
+     "s": 290.518,
+     "e": 291.268
+    },
+    {
+     "w": "By",
+     "s": 291.406,
+     "e": 291.593
+    },
+    {
+     "w": "the",
+     "s": 291.593,
+     "e": 291.731
+    },
+    {
+     "w": "sixth,",
+     "s": 291.731,
+     "e": 292.343
+    },
+    {
+     "w": "it's",
+     "s": 292.456,
+     "e": 292.668
+    },
+    {
+     "w": "down",
+     "s": 292.668,
+     "e": 292.993
+    },
+    {
+     "w": "to",
+     "s": 292.993,
+     "e": 293.131
+    },
+    {
+     "w": "two",
+     "s": 293.131,
+     "e": 293.343
+    },
+    {
+     "w": "percent.",
+     "s": 293.343,
+     "e": 294.043
+    }
+   ],
+   "scene": "c6_fade"
+  },
+  {
+   "id": "L062",
+   "start": 294.313,
+   "end": 298.158,
+   "emph": [
+    "two an over"
+   ],
+   "words": [
+    {
+     "w": "Bouncers",
+     "s": 294.313,
+     "e": 294.806
+    },
+    {
+     "w": "above",
+     "s": 294.806,
+     "e": 295.069
+    },
+    {
+     "w": "the",
+     "s": 295.069,
+     "e": 295.194
+    },
+    {
+     "w": "shoulder",
+     "s": 295.194,
+     "e": 295.606
+    },
+    {
+     "w": "are",
+     "s": 295.606,
+     "e": 295.731
+    },
+    {
+     "w": "capped",
+     "s": 295.731,
+     "e": 296.019
+    },
+    {
+     "w": "at",
+     "s": 296.019,
+     "e": 296.119
+    },
+    {
+     "w": "two",
+     "s": 296.119,
+     "e": 296.319
+    },
+    {
+     "w": "an",
+     "s": 296.319,
+     "e": 296.406
+    },
+    {
+     "w": "over,",
+     "s": 296.406,
+     "e": 296.956
+    },
+    {
+     "w": "like",
+     "s": 297.081,
+     "e": 297.244
+    },
+    {
+     "w": "the",
+     "s": 297.244,
+     "e": 297.331
+    },
+    {
+     "w": "real",
+     "s": 297.331,
+     "e": 297.606
+    },
+    {
+     "w": "laws.",
+     "s": 297.606,
+     "e": 298.281
+    }
+   ],
+   "scene": "c6_laws"
+  },
+  {
+   "id": "L063",
+   "start": 298.558,
+   "end": 301.854,
+   "emph": [
+    "nothing"
+   ],
+   "words": [
+    {
+     "w": "Then",
+     "s": 298.574,
+     "e": 298.699
+    },
+    {
+     "w": "I",
+     "s": 298.699,
+     "e": 298.874
+    },
+    {
+     "w": "threw",
+     "s": 298.874,
+     "e": 299.149
+    },
+    {
+     "w": "the",
+     "s": 299.149,
+     "e": 299.299
+    },
+    {
+     "w": "old",
+     "s": 299.299,
+     "e": 299.549
+    },
+    {
+     "w": "brains",
+     "s": 299.549,
+     "e": 299.949
+    },
+    {
+     "w": "away,",
+     "s": 299.949,
+     "e": 300.524
+    },
+    {
+     "w": "and",
+     "s": 300.649,
+     "e": 300.774
+    },
+    {
+     "w": "started",
+     "s": 300.774,
+     "e": 301.149
+    },
+    {
+     "w": "from",
+     "s": 301.149,
+     "e": 301.299
+    },
+    {
+     "w": "nothing.",
+     "s": 301.299,
+     "e": 302.049
+    }
+   ],
+   "scene": "c6_reset"
+  },
+  {
+   "id": "L070",
+   "start": 306.054,
+   "end": 311.68,
+   "emph": [
+    "the duel"
+   ],
+   "words": [
+    {
+     "w": "Fifteen",
+     "s": 306.088,
+     "e": 306.513
+    },
+    {
+     "w": "hundred",
+     "s": 306.513,
+     "e": 306.838
+    },
+    {
+     "w": "generations",
+     "s": 306.838,
+     "e": 307.488
+    },
+    {
+     "w": "later,",
+     "s": 307.488,
+     "e": 308.038
+    },
+    {
+     "w": "every",
+     "s": 308.176,
+     "e": 308.488
+    },
+    {
+     "w": "ball",
+     "s": 308.488,
+     "e": 308.788
+    },
+    {
+     "w": "lands",
+     "s": 308.788,
+     "e": 309.126
+    },
+    {
+     "w": "where",
+     "s": 309.126,
+     "e": 309.251
+    },
+    {
+     "w": "it",
+     "s": 309.251,
+     "e": 309.326
+    },
+    {
+     "w": "means",
+     "s": 309.326,
+     "e": 309.676
+    },
+    {
+     "w": "to.",
+     "s": 309.676,
+     "e": 310.088
+    },
+    {
+     "w": "Now,",
+     "s": 310.563,
+     "e": 310.963
+    },
+    {
+     "w": "the",
+     "s": 311.038,
+     "e": 311.176
+    },
+    {
+     "w": "duel.",
+     "s": 311.176,
+     "e": 311.888
+    }
+   ],
+   "scene": "c7_rise"
+  },
+  {
+   "id": "L071",
+   "start": 312.58,
+   "end": 315.987,
+   "emph": [
+    "Technician"
+   ],
+   "words": [
+    {
+     "w": "First,",
+     "s": 312.608,
+     "e": 312.883
+    },
+    {
+     "w": "the",
+     "s": 312.921,
+     "e": 313.008
+    },
+    {
+     "w": "Technician.",
+     "s": 313.008,
+     "e": 313.833
+    },
+    {
+     "w": "Good",
+     "s": 313.971,
+     "e": 314.208
+    },
+    {
+     "w": "length,",
+     "s": 314.208,
+     "e": 314.508
+    },
+    {
+     "w": "fourth",
+     "s": 314.558,
+     "e": 314.833
+    },
+    {
+     "w": "stump.",
+     "s": 314.833,
+     "e": 315.308
+    },
+    {
+     "w": "Blocked.",
+     "s": 315.421,
+     "e": 316.083
+    }
+   ],
+   "scene": "c7_tech"
+  },
+  {
+   "id": "L072",
+   "start": 316.287,
+   "end": 319.63,
+   "emph": [
+    "rising"
+   ],
+   "words": [
+    {
+     "w": "Again.",
+     "s": 316.287,
+     "e": 316.662
+    },
+    {
+     "w": "He's",
+     "s": 316.712,
+     "e": 316.912
+    },
+    {
+     "w": "getting",
+     "s": 316.912,
+     "e": 317.212
+    },
+    {
+     "w": "comfortable.",
+     "s": 317.212,
+     "e": 317.962
+    },
+    {
+     "w": "His",
+     "s": 318.062,
+     "e": 318.262
+    },
+    {
+     "w": "confidence",
+     "s": 318.262,
+     "e": 318.887
+    },
+    {
+     "w": "is",
+     "s": 318.887,
+     "e": 319.037
+    },
+    {
+     "w": "rising.",
+     "s": 319.037,
+     "e": 319.787
+    }
+   ],
+   "scene": "c7_tech"
+  },
+  {
+   "id": "L073",
+   "start": 319.93,
+   "end": 322.462,
+   "emph": [
+    "moves late"
+   ],
+   "words": [
+    {
+     "w": "Same",
+     "s": 319.992,
+     "e": 320.267
+    },
+    {
+     "w": "length",
+     "s": 320.267,
+     "e": 320.554
+    },
+    {
+     "w": "again.",
+     "s": 320.554,
+     "e": 321.067
+    },
+    {
+     "w": "But",
+     "s": 321.167,
+     "e": 321.317
+    },
+    {
+     "w": "this",
+     "s": 321.317,
+     "e": 321.504
+    },
+    {
+     "w": "one",
+     "s": 321.504,
+     "e": 321.667
+    },
+    {
+     "w": "moves",
+     "s": 321.667,
+     "e": 321.967
+    },
+    {
+     "w": "late.",
+     "s": 321.967,
+     "e": 322.567
+    }
+   ],
+   "scene": "c7_tech"
+  },
+  {
+   "id": "L074",
+   "start": 322.662,
+   "end": 324.061,
+   "emph": [
+    "Caught behind"
+   ],
+   "words": [
+    {
+     "w": "Edged.",
+     "s": 322.726,
+     "e": 323.126
+    },
+    {
+     "w": "Caught",
+     "s": 323.201,
+     "e": 323.438
+    },
+    {
+     "w": "behind.",
+     "s": 323.438,
+     "e": 324.226
+    }
+   ],
+   "scene": "c7_tech"
+  },
+  {
+   "id": "L075",
+   "start": 327.661,
+   "end": 332.285,
+   "emph": [
+    "Four"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 327.661,
+     "e": 327.75
+    },
+    {
+     "w": "Slogger",
+     "s": 327.75,
+     "e": 328.187
+    },
+    {
+     "w": "is",
+     "s": 328.187,
+     "e": 328.337
+    },
+    {
+     "w": "dangerous.",
+     "s": 328.337,
+     "e": 329.112
+    },
+    {
+     "w": "Two",
+     "s": 329.225,
+     "e": 329.437
+    },
+    {
+     "w": "dots,",
+     "s": 329.437,
+     "e": 329.737
+    },
+    {
+     "w": "then",
+     "s": 329.775,
+     "e": 329.9
+    },
+    {
+     "w": "he",
+     "s": 329.9,
+     "e": 329.987
+    },
+    {
+     "w": "cuts",
+     "s": 329.987,
+     "e": 330.287
+    },
+    {
+     "w": "loose.",
+     "s": 330.287,
+     "e": 330.862
+    },
+    {
+     "w": "Four.",
+     "s": 330.987,
+     "e": 331.387
+    },
+    {
+     "w": "Four.",
+     "s": 331.475,
+     "e": 331.762
+    },
+    {
+     "w": "Four.",
+     "s": 331.825,
+     "e": 332.437
+    }
+   ],
+   "scene": "c7_slog"
+  },
+  {
+   "id": "L076",
+   "start": 332.585,
+   "end": 336.904,
+   "emph": [
+    "highest"
+   ],
+   "words": [
+    {
+     "w": "His",
+     "s": 332.585,
+     "e": 332.718
+    },
+    {
+     "w": "confidence",
+     "s": 332.718,
+     "e": 333.393
+    },
+    {
+     "w": "is",
+     "s": 333.393,
+     "e": 333.543
+    },
+    {
+     "w": "the",
+     "s": 333.543,
+     "e": 333.68
+    },
+    {
+     "w": "highest",
+     "s": 333.68,
+     "e": 334.13
+    },
+    {
+     "w": "it's",
+     "s": 334.13,
+     "e": 334.268
+    },
+    {
+     "w": "been",
+     "s": 334.268,
+     "e": 334.443
+    },
+    {
+     "w": "all",
+     "s": 334.443,
+     "e": 334.605
+    },
+    {
+     "w": "over.",
+     "s": 334.605,
+     "e": 335.218
+    },
+    {
+     "w": "He's",
+     "s": 335.343,
+     "e": 335.543
+    },
+    {
+     "w": "waiting",
+     "s": 335.543,
+     "e": 335.918
+    },
+    {
+     "w": "for",
+     "s": 335.918,
+     "e": 336.03
+    },
+    {
+     "w": "the",
+     "s": 336.03,
+     "e": 336.13
+    },
+    {
+     "w": "full",
+     "s": 336.13,
+     "e": 336.368
+    },
+    {
+     "w": "toss.",
+     "s": 336.368,
+     "e": 337.018
+    }
+   ],
+   "scene": "c7_slog"
+  },
+  {
+   "id": "L077",
+   "start": 337.204,
+   "end": 340.881,
+   "emph": [
+    "Bowled"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 337.211,
+     "e": 337.286
+    },
+    {
+     "w": "bowler",
+     "s": 337.286,
+     "e": 337.661
+    },
+    {
+     "w": "doesn't",
+     "s": 337.661,
+     "e": 337.936
+    },
+    {
+     "w": "give",
+     "s": 337.936,
+     "e": 338.099
+    },
+    {
+     "w": "it",
+     "s": 338.099,
+     "e": 338.186
+    },
+    {
+     "w": "to",
+     "s": 338.186,
+     "e": 338.311
+    },
+    {
+     "w": "him.",
+     "s": 338.311,
+     "e": 338.811
+    },
+    {
+     "w": "Full,",
+     "s": 338.961,
+     "e": 339.261
+    },
+    {
+     "w": "straight,",
+     "s": 339.311,
+     "e": 339.636
+    },
+    {
+     "w": "fast.",
+     "s": 339.686,
+     "e": 340.186
+    },
+    {
+     "w": "Bowled.",
+     "s": 340.274,
+     "e": 341.036
+    }
+   ],
+   "scene": "c7_slog"
+  },
+  {
+   "id": "L078",
+   "start": 344.481,
+   "end": 349.792,
+   "emph": [
+    "doesn't"
+   ],
+   "words": [
+    {
+     "w": "Against",
+     "s": 344.482,
+     "e": 344.769
+    },
+    {
+     "w": "the",
+     "s": 344.769,
+     "e": 344.857
+    },
+    {
+     "w": "Tailender,",
+     "s": 344.857,
+     "e": 345.407
+    },
+    {
+     "w": "the",
+     "s": 345.444,
+     "e": 345.594
+    },
+    {
+     "w": "obvious",
+     "s": 345.594,
+     "e": 346.032
+    },
+    {
+     "w": "plan",
+     "s": 346.032,
+     "e": 346.319
+    },
+    {
+     "w": "is",
+     "s": 346.319,
+     "e": 346.457
+    },
+    {
+     "w": "to",
+     "s": 346.457,
+     "e": 346.557
+    },
+    {
+     "w": "bounce",
+     "s": 346.557,
+     "e": 346.869
+    },
+    {
+     "w": "him.",
+     "s": 346.869,
+     "e": 347.407
+    },
+    {
+     "w": "It",
+     "s": 347.507,
+     "e": 347.644
+    },
+    {
+     "w": "doesn't.",
+     "s": 347.644,
+     "e": 348.207
+    },
+    {
+     "w": "Full,",
+     "s": 348.357,
+     "e": 348.732
+    },
+    {
+     "w": "straight,",
+     "s": 348.819,
+     "e": 349.182
+    },
+    {
+     "w": "fast.",
+     "s": 349.232,
+     "e": 349.882
+    }
+   ],
+   "scene": "c7_tail"
+  },
+  {
+   "id": "L079",
+   "start": 350.092,
+   "end": 352.631,
+   "emph": [
+    "Trapped"
+   ],
+   "words": [
+    {
+     "w": "Trapped",
+     "s": 350.109,
+     "e": 350.422
+    },
+    {
+     "w": "in",
+     "s": 350.422,
+     "e": 350.559
+    },
+    {
+     "w": "front.",
+     "s": 350.559,
+     "e": 351.109
+    },
+    {
+     "w": "Out,",
+     "s": 351.247,
+     "e": 351.559
+    },
+    {
+     "w": "L",
+     "s": 351.634,
+     "e": 351.834
+    },
+    {
+     "w": "B",
+     "s": 351.834,
+     "e": 352.059
+    },
+    {
+     "w": "W.",
+     "s": 352.059,
+     "e": 352.759
+    }
+   ],
+   "scene": "c7_tail"
+  },
+  {
+   "id": "L080",
+   "start": 356.231,
+   "end": 360.067,
+   "emph": [
+    "unbeatable"
+   ],
+   "words": [
+    {
+     "w": "It",
+     "s": 356.231,
+     "e": 356.32
+    },
+    {
+     "w": "isn't",
+     "s": 356.32,
+     "e": 356.62
+    },
+    {
+     "w": "unbeatable.",
+     "s": 356.62,
+     "e": 357.495
+    },
+    {
+     "w": "The",
+     "s": 357.62,
+     "e": 357.745
+    },
+    {
+     "w": "Slogger",
+     "s": 357.745,
+     "e": 358.17
+    },
+    {
+     "w": "still",
+     "s": 358.17,
+     "e": 358.445
+    },
+    {
+     "w": "scores",
+     "s": 358.445,
+     "e": 358.82
+    },
+    {
+     "w": "almost",
+     "s": 358.82,
+     "e": 359.207
+    },
+    {
+     "w": "six",
+     "s": 359.207,
+     "e": 359.507
+    },
+    {
+     "w": "an",
+     "s": 359.507,
+     "e": 359.595
+    },
+    {
+     "w": "over.",
+     "s": 359.595,
+     "e": 360.22
+    }
+   ],
+   "scene": "c7_stats"
+  },
+  {
+   "id": "L081",
+   "start": 360.367,
+   "end": 366.523,
+   "emph": [
+    "every other over",
+    "one run"
+   ],
+   "words": [
+    {
+     "w": "But",
+     "s": 360.367,
+     "e": 360.437
+    },
+    {
+     "w": "it",
+     "s": 360.437,
+     "e": 360.525
+    },
+    {
+     "w": "takes",
+     "s": 360.525,
+     "e": 360.762
+    },
+    {
+     "w": "a",
+     "s": 360.762,
+     "e": 360.85
+    },
+    {
+     "w": "wicket",
+     "s": 360.85,
+     "e": 361.35
+    },
+    {
+     "w": "nearly",
+     "s": 361.35,
+     "e": 361.787
+    },
+    {
+     "w": "every",
+     "s": 361.787,
+     "e": 362.1
+    },
+    {
+     "w": "other",
+     "s": 362.1,
+     "e": 362.375
+    },
+    {
+     "w": "over",
+     "s": 362.375,
+     "e": 362.65
+    },
+    {
+     "w": "against",
+     "s": 362.65,
+     "e": 363.037
+    },
+    {
+     "w": "him,",
+     "s": 363.037,
+     "e": 363.625
+    },
+    {
+     "w": "and",
+     "s": 363.725,
+     "e": 363.85
+    },
+    {
+     "w": "gives",
+     "s": 363.85,
+     "e": 364.087
+    },
+    {
+     "w": "the",
+     "s": 364.087,
+     "e": 364.175
+    },
+    {
+     "w": "Technician",
+     "s": 364.175,
+     "e": 364.9
+    },
+    {
+     "w": "barely",
+     "s": 364.9,
+     "e": 365.425
+    },
+    {
+     "w": "one",
+     "s": 365.425,
+     "e": 365.725
+    },
+    {
+     "w": "run",
+     "s": 365.725,
+     "e": 365.962
+    },
+    {
+     "w": "an",
+     "s": 365.962,
+     "e": 366.05
+    },
+    {
+     "w": "over.",
+     "s": 366.05,
+     "e": 366.7
+    }
+   ],
+   "scene": "c7_stats"
+  },
+  {
+   "id": "L090",
+   "start": 371.123,
+   "end": 374.999,
+   "emph": [
+    "brain cam"
+   ],
+   "words": [
+    {
+     "w": "Watch",
+     "s": 371.123,
+     "e": 371.382
+    },
+    {
+     "w": "the",
+     "s": 371.382,
+     "e": 371.482
+    },
+    {
+     "w": "brain",
+     "s": 371.482,
+     "e": 371.832
+    },
+    {
+     "w": "cam.",
+     "s": 371.832,
+     "e": 372.432
+    },
+    {
+     "w": "Every",
+     "s": 372.594,
+     "e": 372.907
+    },
+    {
+     "w": "ball,",
+     "s": 372.907,
+     "e": 373.282
+    },
+    {
+     "w": "you",
+     "s": 373.332,
+     "e": 373.432
+    },
+    {
+     "w": "can",
+     "s": 373.432,
+     "e": 373.607
+    },
+    {
+     "w": "see",
+     "s": 373.607,
+     "e": 373.794
+    },
+    {
+     "w": "which",
+     "s": 373.794,
+     "e": 373.982
+    },
+    {
+     "w": "inputs",
+     "s": 373.982,
+     "e": 374.369
+    },
+    {
+     "w": "it's",
+     "s": 374.369,
+     "e": 374.532
+    },
+    {
+     "w": "reading.",
+     "s": 374.532,
+     "e": 375.182
+    }
+   ],
+   "scene": "c8_cam"
+  },
+  {
+   "id": "L091",
+   "start": 375.299,
+   "end": 379.643,
+   "emph": [
+    "confidence"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 375.299,
+     "e": 375.35
+    },
+    {
+     "w": "decision",
+     "s": 375.35,
+     "e": 375.775
+    },
+    {
+     "w": "map",
+     "s": 375.775,
+     "e": 376.225
+    },
+    {
+     "w": "shows",
+     "s": 376.225,
+     "e": 376.525
+    },
+    {
+     "w": "how",
+     "s": 376.525,
+     "e": 376.687
+    },
+    {
+     "w": "its",
+     "s": 376.687,
+     "e": 376.825
+    },
+    {
+     "w": "plan",
+     "s": 376.825,
+     "e": 377.175
+    },
+    {
+     "w": "shifts",
+     "s": 377.175,
+     "e": 377.737
+    },
+    {
+     "w": "as",
+     "s": 377.737,
+     "e": 377.887
+    },
+    {
+     "w": "the",
+     "s": 377.887,
+     "e": 377.975
+    },
+    {
+     "w": "batter's",
+     "s": 377.975,
+     "e": 378.425
+    },
+    {
+     "w": "confidence",
+     "s": 378.425,
+     "e": 379.0
+    },
+    {
+     "w": "changes.",
+     "s": 379.0,
+     "e": 379.8
+    }
+   ],
+   "scene": "c8_map"
+  },
+  {
+   "id": "L092",
+   "start": 379.943,
+   "end": 389.55,
+   "emph": [
+    "always",
+    "habit"
+   ],
+   "words": [
+    {
+     "w": "One",
+     "s": 379.96,
+     "e": 380.197
+    },
+    {
+     "w": "habit",
+     "s": 380.197,
+     "e": 380.585
+    },
+    {
+     "w": "it",
+     "s": 380.585,
+     "e": 380.71
+    },
+    {
+     "w": "never",
+     "s": 380.71,
+     "e": 380.997
+    },
+    {
+     "w": "outgrew.",
+     "s": 380.997,
+     "e": 381.635
+    },
+    {
+     "w": "It",
+     "s": 381.76,
+     "e": 381.91
+    },
+    {
+     "w": "always",
+     "s": 381.91,
+     "e": 382.26
+    },
+    {
+     "w": "swings",
+     "s": 382.26,
+     "e": 382.61
+    },
+    {
+     "w": "the",
+     "s": 382.61,
+     "e": 382.71
+    },
+    {
+     "w": "ball",
+     "s": 382.71,
+     "e": 383.01
+    },
+    {
+     "w": "away.",
+     "s": 383.01,
+     "e": 383.76
+    },
+    {
+     "w": "Outswing",
+     "s": 383.972,
+     "e": 384.56
+    },
+    {
+     "w": "is",
+     "s": 384.56,
+     "e": 384.697
+    },
+    {
+     "w": "the",
+     "s": 384.697,
+     "e": 384.785
+    },
+    {
+     "w": "classic",
+     "s": 384.785,
+     "e": 385.235
+    },
+    {
+     "w": "fast",
+     "s": 385.235,
+     "e": 385.635
+    },
+    {
+     "w": "bowler's",
+     "s": 385.635,
+     "e": 386.085
+    },
+    {
+     "w": "weapon,",
+     "s": 386.085,
+     "e": 386.485
+    },
+    {
+     "w": "so",
+     "s": 386.56,
+     "e": 386.697
+    },
+    {
+     "w": "it's",
+     "s": 386.697,
+     "e": 386.797
+    },
+    {
+     "w": "a",
+     "s": 386.797,
+     "e": 386.86
+    },
+    {
+     "w": "good",
+     "s": 386.86,
+     "e": 387.01
+    },
+    {
+     "w": "habit.",
+     "s": 387.01,
+     "e": 387.76
+    },
+    {
+     "w": "But",
+     "s": 387.86,
+     "e": 387.997
+    },
+    {
+     "w": "it's",
+     "s": 387.997,
+     "e": 388.097
+    },
+    {
+     "w": "a",
+     "s": 388.097,
+     "e": 388.185
+    },
+    {
+     "w": "habit,",
+     "s": 388.185,
+     "e": 388.635
+    },
+    {
+     "w": "not",
+     "s": 388.71,
+     "e": 388.897
+    },
+    {
+     "w": "a",
+     "s": 388.897,
+     "e": 388.972
+    },
+    {
+     "w": "choice.",
+     "s": 388.972,
+     "e": 389.66
+    }
+   ],
+   "scene": "c8_swing"
+  },
+  {
+   "id": "L095",
+   "start": 393.55,
+   "end": 398.315,
+   "emph": [
+    "by hand"
+   ],
+   "words": [
+    {
+     "w": "Before",
+     "s": 393.55,
+     "e": 393.816
+    },
+    {
+     "w": "training,",
+     "s": 393.816,
+     "e": 394.341
+    },
+    {
+     "w": "I",
+     "s": 394.441,
+     "e": 394.591
+    },
+    {
+     "w": "wrote",
+     "s": 394.591,
+     "e": 394.779
+    },
+    {
+     "w": "an",
+     "s": 394.779,
+     "e": 394.904
+    },
+    {
+     "w": "expert",
+     "s": 394.904,
+     "e": 395.316
+    },
+    {
+     "w": "plan",
+     "s": 395.316,
+     "e": 395.641
+    },
+    {
+     "w": "for",
+     "s": 395.641,
+     "e": 395.791
+    },
+    {
+     "w": "each",
+     "s": 395.791,
+     "e": 396.016
+    },
+    {
+     "w": "batter",
+     "s": 396.016,
+     "e": 396.341
+    },
+    {
+     "w": "by",
+     "s": 396.341,
+     "e": 396.516
+    },
+    {
+     "w": "hand,",
+     "s": 396.516,
+     "e": 397.116
+    },
+    {
+     "w": "the",
+     "s": 397.216,
+     "e": 397.341
+    },
+    {
+     "w": "way",
+     "s": 397.341,
+     "e": 397.579
+    },
+    {
+     "w": "a",
+     "s": 397.579,
+     "e": 397.641
+    },
+    {
+     "w": "coach",
+     "s": 397.641,
+     "e": 397.966
+    },
+    {
+     "w": "would.",
+     "s": 397.966,
+     "e": 398.466
+    }
+   ],
+   "scene": "c9_expert"
+  },
+  {
+   "id": "L096",
+   "start": 398.715,
+   "end": 406.926,
+   "emph": [
+    "threw the bouncers away"
+   ],
+   "words": [
+    {
+     "w": "Against",
+     "s": 398.715,
+     "e": 399.023
+    },
+    {
+     "w": "the",
+     "s": 399.023,
+     "e": 399.11
+    },
+    {
+     "w": "Tailender,",
+     "s": 399.11,
+     "e": 399.835
+    },
+    {
+     "w": "my",
+     "s": 399.935,
+     "e": 400.085
+    },
+    {
+     "w": "plan",
+     "s": 400.085,
+     "e": 400.41
+    },
+    {
+     "w": "used",
+     "s": 400.41,
+     "e": 400.71
+    },
+    {
+     "w": "both",
+     "s": 400.71,
+     "e": 400.985
+    },
+    {
+     "w": "legal",
+     "s": 400.985,
+     "e": 401.285
+    },
+    {
+     "w": "bouncers,",
+     "s": 401.285,
+     "e": 401.96
+    },
+    {
+     "w": "then",
+     "s": 402.035,
+     "e": 402.26
+    },
+    {
+     "w": "yorkers.",
+     "s": 402.26,
+     "e": 403.235
+    },
+    {
+     "w": "The",
+     "s": 403.36,
+     "e": 403.523
+    },
+    {
+     "w": "AI",
+     "s": 403.523,
+     "e": 403.998
+    },
+    {
+     "w": "threw",
+     "s": 403.998,
+     "e": 404.223
+    },
+    {
+     "w": "the",
+     "s": 404.223,
+     "e": 404.31
+    },
+    {
+     "w": "bouncers",
+     "s": 404.31,
+     "e": 404.81
+    },
+    {
+     "w": "away",
+     "s": 404.81,
+     "e": 405.085
+    },
+    {
+     "w": "completely,",
+     "s": 405.085,
+     "e": 405.81
+    },
+    {
+     "w": "and",
+     "s": 405.91,
+     "e": 406.06
+    },
+    {
+     "w": "still",
+     "s": 406.06,
+     "e": 406.335
+    },
+    {
+     "w": "did",
+     "s": 406.335,
+     "e": 406.485
+    },
+    {
+     "w": "better.",
+     "s": 406.485,
+     "e": 407.11
+    }
+   ],
+   "scene": "c9_expert"
+  },
+  {
+   "id": "L097",
+   "start": 407.326,
+   "end": 417.985,
+   "emph": [
+    "whole over"
+   ],
+   "words": [
+    {
+     "w": "And",
+     "s": 407.326,
+     "e": 407.428
+    },
+    {
+     "w": "against",
+     "s": 407.428,
+     "e": 407.753
+    },
+    {
+     "w": "the",
+     "s": 407.753,
+     "e": 407.84
+    },
+    {
+     "w": "Technician,",
+     "s": 407.84,
+     "e": 408.69
+    },
+    {
+     "w": "the",
+     "s": 408.765,
+     "e": 408.903
+    },
+    {
+     "w": "single",
+     "s": 408.903,
+     "e": 409.265
+    },
+    {
+     "w": "most",
+     "s": 409.265,
+     "e": 409.578
+    },
+    {
+     "w": "dangerous",
+     "s": 409.578,
+     "e": 410.115
+    },
+    {
+     "w": "ball",
+     "s": 410.115,
+     "e": 410.528
+    },
+    {
+     "w": "is",
+     "s": 410.528,
+     "e": 410.653
+    },
+    {
+     "w": "a",
+     "s": 410.653,
+     "e": 410.74
+    },
+    {
+     "w": "yorker.",
+     "s": 410.74,
+     "e": 411.615
+    },
+    {
+     "w": "But",
+     "s": 411.74,
+     "e": 411.878
+    },
+    {
+     "w": "the",
+     "s": 411.878,
+     "e": 412.028
+    },
+    {
+     "w": "AI",
+     "s": 412.028,
+     "e": 412.49
+    },
+    {
+     "w": "bowls",
+     "s": 412.49,
+     "e": 412.828
+    },
+    {
+     "w": "good",
+     "s": 412.828,
+     "e": 413.065
+    },
+    {
+     "w": "length",
+     "s": 413.065,
+     "e": 413.378
+    },
+    {
+     "w": "nearly",
+     "s": 413.378,
+     "e": 413.79
+    },
+    {
+     "w": "three",
+     "s": 413.79,
+     "e": 414.065
+    },
+    {
+     "w": "quarters",
+     "s": 414.065,
+     "e": 414.478
+    },
+    {
+     "w": "of",
+     "s": 414.478,
+     "e": 414.553
+    },
+    {
+     "w": "the",
+     "s": 414.553,
+     "e": 414.64
+    },
+    {
+     "w": "time,",
+     "s": 414.64,
+     "e": 415.265
+    },
+    {
+     "w": "because",
+     "s": 415.365,
+     "e": 415.628
+    },
+    {
+     "w": "it",
+     "s": 415.628,
+     "e": 415.715
+    },
+    {
+     "w": "plays",
+     "s": 415.715,
+     "e": 416.04
+    },
+    {
+     "w": "the",
+     "s": 416.04,
+     "e": 416.14
+    },
+    {
+     "w": "whole",
+     "s": 416.14,
+     "e": 416.415
+    },
+    {
+     "w": "over,",
+     "s": 416.415,
+     "e": 416.965
+    },
+    {
+     "w": "not",
+     "s": 417.09,
+     "e": 417.34
+    },
+    {
+     "w": "one",
+     "s": 417.34,
+     "e": 417.565
+    },
+    {
+     "w": "ball.",
+     "s": 417.565,
+     "e": 418.19
+    }
+   ],
+   "scene": "c9_expert"
+  },
+  {
+   "id": "L100",
+   "start": 419.985,
+   "end": 426.882,
+   "emph": [
+    "zero",
+    "one"
+   ],
+   "words": [
+    {
+     "w": "So",
+     "s": 420.001,
+     "e": 420.176
+    },
+    {
+     "w": "how",
+     "s": 420.176,
+     "e": 420.351
+    },
+    {
+     "w": "good",
+     "s": 420.351,
+     "e": 420.501
+    },
+    {
+     "w": "is",
+     "s": 420.501,
+     "e": 420.638
+    },
+    {
+     "w": "it?",
+     "s": 420.638,
+     "e": 421.026
+    },
+    {
+     "w": "Random",
+     "s": 421.163,
+     "e": 421.576
+    },
+    {
+     "w": "bowling",
+     "s": 421.576,
+     "e": 422.001
+    },
+    {
+     "w": "scores",
+     "s": 422.001,
+     "e": 422.376
+    },
+    {
+     "w": "zero.",
+     "s": 422.376,
+     "e": 423.051
+    },
+    {
+     "w": "A",
+     "s": 423.213,
+     "e": 423.338
+    },
+    {
+     "w": "hand",
+     "s": 423.338,
+     "e": 423.738
+    },
+    {
+     "w": "written",
+     "s": 423.738,
+     "e": 424.038
+    },
+    {
+     "w": "expert",
+     "s": 424.038,
+     "e": 424.476
+    },
+    {
+     "w": "plan,",
+     "s": 424.476,
+     "e": 424.926
+    },
+    {
+     "w": "designed",
+     "s": 425.001,
+     "e": 425.351
+    },
+    {
+     "w": "for",
+     "s": 425.351,
+     "e": 425.476
+    },
+    {
+     "w": "each",
+     "s": 425.476,
+     "e": 425.701
+    },
+    {
+     "w": "batter,",
+     "s": 425.701,
+     "e": 426.051
+    },
+    {
+     "w": "scores",
+     "s": 426.101,
+     "e": 426.476
+    },
+    {
+     "w": "one.",
+     "s": 426.476,
+     "e": 427.051
+    }
+   ],
+   "scene": "c9_verdict"
+  },
+  {
+   "id": "L101",
+   "start": 427.182,
+   "end": 434.689,
+   "emph": [
+    "beats the expert"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 427.182,
+     "e": 427.263
+    },
+    {
+     "w": "final",
+     "s": 427.263,
+     "e": 427.613
+    },
+    {
+     "w": "brain",
+     "s": 427.613,
+     "e": 427.938
+    },
+    {
+     "w": "scores",
+     "s": 427.938,
+     "e": 428.326
+    },
+    {
+     "w": "one",
+     "s": 428.326,
+     "e": 428.563
+    },
+    {
+     "w": "point",
+     "s": 428.563,
+     "e": 428.788
+    },
+    {
+     "w": "two",
+     "s": 428.788,
+     "e": 429.001
+    },
+    {
+     "w": "five,",
+     "s": 429.001,
+     "e": 429.588
+    },
+    {
+     "w": "one",
+     "s": 429.701,
+     "e": 429.938
+    },
+    {
+     "w": "point",
+     "s": 429.938,
+     "e": 430.213
+    },
+    {
+     "w": "one",
+     "s": 430.213,
+     "e": 430.451
+    },
+    {
+     "w": "six,",
+     "s": 430.451,
+     "e": 430.988
+    },
+    {
+     "w": "and",
+     "s": 431.063,
+     "e": 431.201
+    },
+    {
+     "w": "one",
+     "s": 431.201,
+     "e": 431.438
+    },
+    {
+     "w": "point",
+     "s": 431.438,
+     "e": 431.713
+    },
+    {
+     "w": "one",
+     "s": 431.713,
+     "e": 431.863
+    },
+    {
+     "w": "eight.",
+     "s": 431.863,
+     "e": 432.538
+    },
+    {
+     "w": "It",
+     "s": 432.663,
+     "e": 432.838
+    },
+    {
+     "w": "beats",
+     "s": 432.838,
+     "e": 433.101
+    },
+    {
+     "w": "the",
+     "s": 433.101,
+     "e": 433.251
+    },
+    {
+     "w": "expert",
+     "s": 433.251,
+     "e": 433.663
+    },
+    {
+     "w": "against",
+     "s": 433.663,
+     "e": 434.013
+    },
+    {
+     "w": "all",
+     "s": 434.013,
+     "e": 434.226
+    },
+    {
+     "w": "three.",
+     "s": 434.226,
+     "e": 434.888
+    }
+   ],
+   "scene": "c9_verdict"
+  },
+  {
+   "id": "L102",
+   "start": 434.989,
+   "end": 439.006,
+   "emph": [
+    "point six"
+   ],
+   "words": [
+    {
+     "w": "The",
+     "s": 434.989,
+     "e": 435.1
+    },
+    {
+     "w": "cheater,",
+     "s": 435.1,
+     "e": 435.562
+    },
+    {
+     "w": "retested",
+     "s": 435.637,
+     "e": 436.125
+    },
+    {
+     "w": "under",
+     "s": 436.125,
+     "e": 436.3
+    },
+    {
+     "w": "the",
+     "s": 436.3,
+     "e": 436.4
+    },
+    {
+     "w": "fair",
+     "s": 436.4,
+     "e": 436.662
+    },
+    {
+     "w": "rules,",
+     "s": 436.662,
+     "e": 437.287
+    },
+    {
+     "w": "scores",
+     "s": 437.425,
+     "e": 437.887
+    },
+    {
+     "w": "around",
+     "s": 437.887,
+     "e": 438.187
+    },
+    {
+     "w": "point",
+     "s": 438.187,
+     "e": 438.475
+    },
+    {
+     "w": "six.",
+     "s": 438.475,
+     "e": 439.162
+    }
+   ],
+   "scene": "c9_verdict"
+  },
+  {
+   "id": "L103",
+   "start": 443.206,
+   "end": 451.941,
+   "emph": [
+    "simulation"
+   ],
+   "words": [
+    {
+     "w": "It",
+     "s": 443.206,
+     "e": 443.297
+    },
+    {
+     "w": "isn't",
+     "s": 443.297,
+     "e": 443.647
+    },
+    {
+     "w": "real",
+     "s": 443.647,
+     "e": 443.922
+    },
+    {
+     "w": "cricket.",
+     "s": 443.922,
+     "e": 444.697
+    },
+    {
+     "w": "It's",
+     "s": 444.797,
+     "e": 445.009
+    },
+    {
+     "w": "a",
+     "s": 445.009,
+     "e": 445.109
+    },
+    {
+     "w": "simulation,",
+     "s": 445.109,
+     "e": 446.097
+    },
+    {
+     "w": "and",
+     "s": 446.197,
+     "e": 446.309
+    },
+    {
+     "w": "the",
+     "s": 446.309,
+     "e": 446.397
+    },
+    {
+     "w": "batters",
+     "s": 446.397,
+     "e": 446.847
+    },
+    {
+     "w": "are",
+     "s": 446.847,
+     "e": 447.009
+    },
+    {
+     "w": "models",
+     "s": 447.009,
+     "e": 447.472
+    },
+    {
+     "w": "I",
+     "s": 447.472,
+     "e": 447.622
+    },
+    {
+     "w": "designed.",
+     "s": 447.622,
+     "e": 448.597
+    },
+    {
+     "w": "The",
+     "s": 448.759,
+     "e": 448.897
+    },
+    {
+     "w": "bowler",
+     "s": 448.897,
+     "e": 449.297
+    },
+    {
+     "w": "can",
+     "s": 449.297,
+     "e": 449.509
+    },
+    {
+     "w": "only",
+     "s": 449.509,
+     "e": 449.822
+    },
+    {
+     "w": "be",
+     "s": 449.822,
+     "e": 449.972
+    },
+    {
+     "w": "as",
+     "s": 449.972,
+     "e": 450.134
+    },
+    {
+     "w": "clever",
+     "s": 450.134,
+     "e": 450.609
+    },
+    {
+     "w": "as",
+     "s": 450.609,
+     "e": 450.772
+    },
+    {
+     "w": "the",
+     "s": 450.772,
+     "e": 450.909
+    },
+    {
+     "w": "world",
+     "s": 450.909,
+     "e": 451.234
+    },
+    {
+     "w": "it",
+     "s": 451.234,
+     "e": 451.322
+    },
+    {
+     "w": "lives",
+     "s": 451.322,
+     "e": 451.572
+    },
+    {
+     "w": "in.",
+     "s": 451.572,
+     "e": 452.122
+    }
+   ],
+   "scene": "c10_limits"
+  },
+  {
+   "id": "L104",
+   "start": 452.441,
+   "end": 461.072,
+   "emph": [
+    "anyone"
+   ],
+   "words": [
+    {
+     "w": "But",
+     "s": 452.441,
+     "e": 452.533
+    },
+    {
+     "w": "that's",
+     "s": 452.533,
+     "e": 452.808
+    },
+    {
+     "w": "also",
+     "s": 452.808,
+     "e": 453.234
+    },
+    {
+     "w": "the",
+     "s": 453.234,
+     "e": 453.383
+    },
+    {
+     "w": "exciting",
+     "s": 453.383,
+     "e": 453.883
+    },
+    {
+     "w": "part.",
+     "s": 453.883,
+     "e": 454.608
+    },
+    {
+     "w": "Give",
+     "s": 454.746,
+     "e": 454.92
+    },
+    {
+     "w": "it",
+     "s": 454.92,
+     "e": 454.996
+    },
+    {
+     "w": "a",
+     "s": 454.996,
+     "e": 455.095
+    },
+    {
+     "w": "better",
+     "s": 455.095,
+     "e": 455.458
+    },
+    {
+     "w": "world,",
+     "s": 455.458,
+     "e": 456.008
+    },
+    {
+     "w": "with",
+     "s": 456.108,
+     "e": 456.295
+    },
+    {
+     "w": "real",
+     "s": 456.295,
+     "e": 456.583
+    },
+    {
+     "w": "batters",
+     "s": 456.583,
+     "e": 457.095
+    },
+    {
+     "w": "and",
+     "s": 457.095,
+     "e": 457.234
+    },
+    {
+     "w": "real",
+     "s": 457.234,
+     "e": 457.508
+    },
+    {
+     "w": "data,",
+     "s": 457.508,
+     "e": 458.108
+    },
+    {
+     "w": "and",
+     "s": 458.234,
+     "e": 458.345
+    },
+    {
+     "w": "the",
+     "s": 458.345,
+     "e": 458.458
+    },
+    {
+     "w": "same",
+     "s": 458.458,
+     "e": 458.795
+    },
+    {
+     "w": "idea",
+     "s": 458.795,
+     "e": 459.258
+    },
+    {
+     "w": "could",
+     "s": 459.258,
+     "e": 459.434
+    },
+    {
+     "w": "find",
+     "s": 459.434,
+     "e": 459.696
+    },
+    {
+     "w": "the",
+     "s": 459.696,
+     "e": 459.783
+    },
+    {
+     "w": "plan",
+     "s": 459.783,
+     "e": 460.184
+    },
+    {
+     "w": "against",
+     "s": 460.184,
+     "e": 460.533
+    },
+    {
+     "w": "anyone.",
+     "s": 460.533,
+     "e": 461.283
+    }
+   ],
+   "scene": "c10_limits"
+  },
+  {
+   "id": "L105",
+   "start": 461.472,
+   "end": 463.039,
+   "emph": [
+    "building next"
+   ],
+   "words": [
+    {
+     "w": "That's",
+     "s": 461.504,
+     "e": 461.791
+    },
+    {
+     "w": "what",
+     "s": 461.791,
+     "e": 461.916
+    },
+    {
+     "w": "I'm",
+     "s": 461.916,
+     "e": 462.054
+    },
+    {
+     "w": "building",
+     "s": 462.054,
+     "e": 462.454
+    },
+    {
+     "w": "next.",
+     "s": 462.454,
+     "e": 463.154
+    }
+   ],
+   "scene": "c10_next"
+  },
+  {
+   "id": "L110",
+   "start": 465.039,
+   "end": 471.062,
+   "emph": [
+    "evolution"
+   ],
+   "words": [
+    {
+     "w": "No",
+     "s": 465.098,
+     "e": 465.298
+    },
+    {
+     "w": "coaching.",
+     "s": 465.298,
+     "e": 466.148
+    },
+    {
+     "w": "No",
+     "s": 466.298,
+     "e": 466.523
+    },
+    {
+     "w": "examples.",
+     "s": 466.523,
+     "e": 467.448
+    },
+    {
+     "w": "Just",
+     "s": 467.56,
+     "e": 467.785
+    },
+    {
+     "w": "a",
+     "s": 467.785,
+     "e": 467.848
+    },
+    {
+     "w": "reward,",
+     "s": 467.848,
+     "e": 468.473
+    },
+    {
+     "w": "a",
+     "s": 468.548,
+     "e": 468.66
+    },
+    {
+     "w": "world",
+     "s": 468.66,
+     "e": 468.998
+    },
+    {
+     "w": "that",
+     "s": 468.998,
+     "e": 469.148
+    },
+    {
+     "w": "wouldn't",
+     "s": 469.148,
+     "e": 469.373
+    },
+    {
+     "w": "let",
+     "s": 469.373,
+     "e": 469.51
+    },
+    {
+     "w": "it",
+     "s": 469.51,
+     "e": 469.648
+    },
+    {
+     "w": "cheat,",
+     "s": 469.648,
+     "e": 470.098
+    },
+    {
+     "w": "and",
+     "s": 470.173,
+     "e": 470.285
+    },
+    {
+     "w": "evolution.",
+     "s": 470.285,
+     "e": 471.273
+    }
+   ],
+   "scene": "outro"
+  },
+  {
+   "id": "L111",
+   "start": 471.562,
+   "end": 473.713,
+   "emph": [
+    "learned to bowl"
+   ],
+   "words": [
+    {
+     "w": "This",
+     "s": 471.592,
+     "e": 471.817
+    },
+    {
+     "w": "is",
+     "s": 471.817,
+     "e": 471.954
+    },
+    {
+     "w": "the",
+     "s": 471.954,
+     "e": 472.042
+    },
+    {
+     "w": "machine",
+     "s": 472.042,
+     "e": 472.642
+    },
+    {
+     "w": "that",
+     "s": 472.642,
+     "e": 472.817
+    },
+    {
+     "w": "learned",
+     "s": 472.817,
+     "e": 473.092
+    },
+    {
+     "w": "to",
+     "s": 473.092,
+     "e": 473.217
+    },
+    {
+     "w": "bowl.",
+     "s": 473.217,
+     "e": 473.942
+    }
+   ],
+   "scene": "outro"
+  }
+ ],
+ "cut": "long"
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "doc_short_9x16",
+    "out": "out/film/doc_short_9x16.mp4",
+    "frames": 9193,
+    "seconds": 793.983
+  },
+  {
+    "id": "doc_short_16x9",
+    "out": "out/film/doc_short_16x9.mp4",
+    "frames": 9193,
+    "seconds": 799.095
+  },
+  {
+    "id": "doc_long_16x9",
+    "out": "out/film/doc_long_16x9.mp4",
+    "frames": 29053,
+    "seconds": 2496.886
+  }
+]

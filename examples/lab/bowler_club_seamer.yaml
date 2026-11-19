@@ -1,0 +1,6 @@
+name: Club seamer
+min_kmh: 118
+max_kmh: 128
+accuracy: club
+swing: some
+bouncer: true

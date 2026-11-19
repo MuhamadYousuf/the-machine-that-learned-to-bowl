@@ -1,0 +1,14 @@
+[
+  {
+    "id": "chk",
+    "out": "out/edit_review/chk/f.png",
+    "frames": 6466,
+    "seconds": 5.766
+  },
+  {
+    "id": "chk2",
+    "out": "out/edit_review/chk2/f.png",
+    "frames": 6466,
+    "seconds": 3.753
+  }
+]

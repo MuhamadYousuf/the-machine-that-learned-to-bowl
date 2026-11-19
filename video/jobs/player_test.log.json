@@ -1,0 +1,20 @@
+[
+  {
+    "id": "pt_side",
+    "out": "out/edit_review/players/side.png",
+    "frames": 360,
+    "seconds": 19.277
+  },
+  {
+    "id": "pt_behind",
+    "out": "out/edit_review/players/behind.png",
+    "frames": 360,
+    "seconds": 15.248
+  },
+  {
+    "id": "pt_front",
+    "out": "out/edit_review/players/front.png",
+    "frames": 360,
+    "seconds": 14.676
+  }
+]

@@ -1,0 +1,8 @@
+[
+ {"id":"bc169","composition":"Over-16x9","props":{"file":"overs_ga2_champion_technician.json","overIndex":0,"balls":[],"camera":"broadcast","speed":1,"accumulate":true,"goodLengthBand":false},"out":"out/stills/look/broadcast_16x9.png","still":[185,600]},
+ {"id":"bc916","composition":"Over-9x16","props":{"file":"overs_ga2_champion_technician.json","overIndex":0,"balls":[],"camera":"broadcast","speed":1,"accumulate":true,"goodLengthBand":false},"out":"out/stills/look/broadcast_9x16.png","still":[185]},
+ {"id":"side","composition":"Over-16x9","props":{"file":"overs_ga2_champion_technician.json","overIndex":0,"balls":[0],"camera":"sideOn","speed":1,"accumulate":true,"goodLengthBand":false},"out":"out/stills/look/side_16x9.png","still":[185]},
+ {"id":"stump","composition":"Over-16x9","props":{"file":"overs_ga2_champion_technician.json","overIndex":0,"balls":[0],"camera":"stumpCam","speed":1,"accumulate":true,"goodLengthBand":false},"out":"out/stills/look/stump_16x9.png","still":[185]},
+ {"id":"top","composition":"Over-9x16","props":{"file":"overs_ga2_champion_technician.json","overIndex":0,"balls":[],"camera":"topDown","speed":1,"accumulate":true,"goodLengthBand":true},"out":"out/stills/look/top_9x16.png","still":[700]},
+ {"id":"bat","composition":"Over-16x9","props":{"file":"overs_ga2_champion_technician.json","overIndex":0,"balls":[0],"camera":"batterEnd","speed":1,"accumulate":true,"goodLengthBand":false},"out":"out/stills/look/batter_16x9.png","still":[180]}
+]

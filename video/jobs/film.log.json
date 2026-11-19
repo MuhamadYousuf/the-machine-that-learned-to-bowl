@@ -1,0 +1,14 @@
+[
+  {
+    "id": "film_9x16",
+    "out": "out/film/AI_learns_to_bowl_9x16.mp4",
+    "frames": 6466,
+    "seconds": 545.885
+  },
+  {
+    "id": "film_16x9",
+    "out": "out/film/AI_learns_to_bowl_16x9.mp4",
+    "frames": 6466,
+    "seconds": 547.175
+  }
+]

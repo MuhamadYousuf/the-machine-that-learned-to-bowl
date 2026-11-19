@@ -1,0 +1,6 @@
+[
+ {"id":"cmp_side","composition":"Compare-16x9","props":{"left":{"file":"overs_ga1500_champion_technician.json","overIndex":0},"right":{"file":"overs_ga2_champion_technician.json","overIndex":0},"overCount":1,"camera":"sideHalf","speed":1,"goodLengthBand":true},"out":"out/stills/cmp/side.png","still":[1000]},
+ {"id":"cmp_top","composition":"Compare-9x16","props":{"left":{"file":"overs_ga1500_champion_technician.json","overIndex":0},"right":{"file":"overs_ga2_champion_technician.json","overIndex":0},"overCount":1,"camera":"pitchMap","speed":1,"goodLengthBand":true},"out":"out/stills/cmp/top.png","still":[1000]},
+ {"id":"cmp_top169","composition":"Compare-16x9","props":{"left":{"file":"overs_ga1500_champion_technician.json","overIndex":0},"right":{"file":"overs_ga2_champion_technician.json","overIndex":0},"overCount":1,"camera":"pitchMap","speed":1,"goodLengthBand":true},"out":"out/stills/cmp/top169.png","still":[1000]},
+ {"id":"sw1500","composition":"Swarm-16x9","props":{"generations":[1500],"archetype":"technician","camera":"broadcast","speed":0.5,"orbit":false},"out":"out/stills/swarm/g1500_bc.png","still":[300]}
+]

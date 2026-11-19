@@ -1,0 +1,124 @@
+[
+ {
+  "id": "tech_over5_16x9",
+  "composition": "Duel-16x9",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "batterFile": "batter_ga2_champion_technician.json",
+   "overIndex": 5,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/duel/tech_over5_16x9.mp4"
+ },
+ {
+  "id": "slog_over17_16x9",
+  "composition": "Duel-16x9",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "batterFile": "batter_ga2_champion_slogger.json",
+   "overIndex": 17,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/duel/slog_over17_16x9.mp4"
+ },
+ {
+  "id": "tail_over11_16x9",
+  "composition": "Duel-16x9",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "batterFile": "batter_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/duel/tail_over11_16x9.mp4"
+ },
+ {
+  "id": "pattern_16x9",
+  "composition": "Duel-16x9",
+  "props": {
+   "file": "overs_pattern_demo.json",
+   "batterFile": "batter_pattern_hud.json",
+   "overIndex": 0,
+   "balls": [],
+   "camera": "sideHalf",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false,
+   "showPattern": true
+  },
+  "out": "out/renders/duel/pattern_16x9.mp4"
+ },
+ {
+  "id": "tech_over5_9x16",
+  "composition": "Duel-9x16",
+  "props": {
+   "file": "overs_ga2_champion_technician.json",
+   "batterFile": "batter_ga2_champion_technician.json",
+   "overIndex": 5,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": true
+  },
+  "out": "out/renders/duel/tech_over5_9x16.mp4"
+ },
+ {
+  "id": "slog_over17_9x16",
+  "composition": "Duel-9x16",
+  "props": {
+   "file": "overs_ga2_champion_slogger.json",
+   "batterFile": "batter_ga2_champion_slogger.json",
+   "overIndex": 17,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/duel/slog_over17_9x16.mp4"
+ },
+ {
+  "id": "tail_over11_9x16",
+  "composition": "Duel-9x16",
+  "props": {
+   "file": "overs_ga2_champion_tailender.json",
+   "batterFile": "batter_ga2_champion_tailender.json",
+   "overIndex": 11,
+   "balls": [],
+   "camera": "broadcast",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false
+  },
+  "out": "out/renders/duel/tail_over11_9x16.mp4"
+ },
+ {
+  "id": "pattern_9x16",
+  "composition": "Duel-9x16",
+  "props": {
+   "file": "overs_pattern_demo.json",
+   "batterFile": "batter_pattern_hud.json",
+   "overIndex": 0,
+   "balls": [],
+   "camera": "sideHalf",
+   "speed": 1,
+   "accumulate": true,
+   "goodLengthBand": false,
+   "showPattern": true
+  },
+  "out": "out/renders/duel/pattern_9x16.mp4"
+ }
+]

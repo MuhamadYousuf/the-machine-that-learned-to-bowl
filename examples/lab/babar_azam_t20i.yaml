@@ -1,0 +1,64 @@
+# Babar Azam, T20 internationals. Weakness/strength zones come from published commentary
+# (cited, mostly pundit opinion, not tracking data); scoring and dismissal rates come from Cricsheet.
+name: Babar Azam (T20I)
+description: Right-handed top-order anchor with a classical technique. Calibrated against Cricsheet T20I
+  ball-by-ball data (2016-2024 fit, 2024-2026 held out). Zones are from commentary, not ball tracking.
+hand: right
+level: elite
+style: balanced
+starter: normal
+defends_straight: excellent
+leaves_outside_off: sometimes
+rotates_strike: busy
+power_shot: drive
+caught_in_field_playing: drive
+uncertainty: medium
+evidence:
+  - claim: "T20I 2016-2024: strike rate 130, 31% dot balls, 16% boundaries, out every 35 balls, 76% of dismissals caught"
+    kind: data
+    source: cricsheet
+  - claim: "2024-2026: strike rate fell to 121 and he was out every 25 balls, with more bowled/LBW"
+    kind: data
+    source: cricsheet
+  - claim: "Strike rate modest by modern T20I standards; cautious in the powerplay"
+    kind: source
+    source: https://www.thenews.pk/tns/detail/1401949-babar-azam-t20-dilemma-anchor-or-liability
+weaknesses:
+  - zone: {length: full, line: fourth_stump, movement: away}
+    dismissal: caught_behind
+    severity: medium
+    evidence:
+      - claim: "Struggles against full outswingers pitched about 6 m or less from the stumps (pundit article, not T20I-specific)"
+        kind: source
+        source: https://www.crictracker.com/top-5-current-batsmen-and-their-weaknesses/2
+      - claim: "Technique raises dismissal risk where the ball swings most (Rashid Latif)"
+        kind: source
+        source: https://cricketpakistan.com.pk/en/news/detail/rashid-latif-points-out-weakness-in-babar-azams-batting
+  - zone: {length: full, line: stumps, movement: in}
+    dismissal: bowled_lbw
+    severity: medium
+    evidence:
+      - claim: "Trigger movement exposes him to bowled/LBW (Aamer Sohail)"
+        kind: source
+        source: https://propakistani.pk/2020/06/08/aamer-sohail-points-out-major-flaw-in-babar-azams-technique/
+      - claim: "Gets squared up a lot (Nasser Hussain)"
+        kind: source
+        source: https://propakistani.pk/2020/11/06/nasser-hussain-identifies-a-flaw-in-babar-azams-technique/
+  - zone: {length: good, pace: slower_ball}
+    dismissal: caught_field
+    severity: low
+    evidence:
+      - claim: "Slower balls used to get him out when swing was not working (Woakes, England T20Is)"
+        kind: source
+        source: https://cricketpakistan.com.pk/en/news/detail/rashid-latif-points-out-weakness-in-babar-azams-batting
+strengths:
+  - zone: {length: full, line: outside_off, movement: none}
+    severity: high
+    evidence:
+      - claim: "Drives fluently through the off side when the ball does not move"
+        kind: assumption
+  - zone: {length: short, line: outside_off}
+    severity: medium
+    evidence:
+      - claim: "Cuts and punches short balls with width"
+        kind: assumption

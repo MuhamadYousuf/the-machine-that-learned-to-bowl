@@ -1,0 +1,14 @@
+[
+  {
+    "id": "reel_9x16",
+    "out": "out/film/reel_9x16.mp4",
+    "frames": 4977,
+    "seconds": 246.996
+  },
+  {
+    "id": "reel_4x5",
+    "out": "out/film/reel_4x5.mp4",
+    "frames": 4977,
+    "seconds": 205.105
+  }
+]

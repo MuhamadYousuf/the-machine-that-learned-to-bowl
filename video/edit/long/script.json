@@ -1,0 +1,741 @@
+{
+ "voice": "af_heart",
+ "cut": "long",
+ "lines": [
+  {
+   "id": "L001",
+   "scene": "open",
+   "speed": 0.86,
+   "pause": 0.9,
+   "text": "Every great fast bowler spends years learning one thing.",
+   "emph": [
+    "years"
+   ]
+  },
+  {
+   "id": "L002",
+   "scene": "open",
+   "speed": 0.86,
+   "pause": 0.4,
+   "text": "This one learned it in six hours.",
+   "emph": [
+    "six hours"
+   ]
+  },
+  {
+   "id": "L003",
+   "scene": "open",
+   "speed": 0.84,
+   "pause": 0.8,
+   "text": "And nobody taught it a thing.",
+   "emph": [
+    "nobody"
+   ]
+  },
+  {
+   "id": "L004",
+   "scene": "open",
+   "speed": 0.9,
+   "pause": 5.0,
+   "text": "This is the story of how it learned, how it cheated, and how it finally earned its wickets.",
+   "emph": [
+    "cheated",
+    "earned"
+   ]
+  },
+  {
+   "id": "L010",
+   "scene": "c1_problem",
+   "speed": 0.95,
+   "pause": 0.4,
+   "text": "Bowling looks simple. Run in, let go.",
+   "emph": [
+    "simple"
+   ]
+  },
+  {
+   "id": "L011",
+   "scene": "c1_problem",
+   "speed": 1.0,
+   "pause": 0.4,
+   "text": "But every ball is four decisions. How fast, how full, what line, and which way it swings.",
+   "emph": [
+    "four decisions"
+   ]
+  },
+  {
+   "id": "L012",
+   "scene": "c1_physics",
+   "speed": 1.0,
+   "pause": 0.4,
+   "text": "Then physics takes over. Gravity pulls it down, the air slows it, the seam makes it swing, and the pitch decides how it bounces.",
+   "emph": [
+    "physics"
+   ]
+  },
+  {
+   "id": "L013",
+   "scene": "c1_noise",
+   "speed": 1.0,
+   "pause": 0.4,
+   "text": "And you never quite hit your mark. A tiny error at release becomes a big miss at the other end.",
+   "emph": [
+    "never quite"
+   ]
+  },
+  {
+   "id": "L014",
+   "scene": "c1_noise",
+   "speed": 1.0,
+   "pause": 0.4,
+   "text": "My bowler has that problem too. Every ball gets a random wobble, so it can't rely on perfect aim.",
+   "emph": [
+    "random wobble"
+   ]
+  },
+  {
+   "id": "L014b",
+   "scene": "c1_sim",
+   "speed": 1.0,
+   "pause": 0.4,
+   "text": "My simulator models all of it, stepping each ball's flight every two milliseconds, from release to the stumps.",
+   "emph": [
+    "two milliseconds"
+   ]
+  },
+  {
+   "id": "L015",
+   "scene": "c1_sim",
+   "speed": 0.92,
+   "pause": 4.5,
+   "text": "Then, there's the batter.",
+   "emph": [
+    "batter"
+   ]
+  },
+  {
+   "id": "L020",
+   "scene": "c2_intro",
+   "speed": 0.98,
+   "pause": 0.5,
+   "text": "It faces three of them. Each one has strengths, a hidden weakness, and a mind of their own.",
+   "emph": [
+    "hidden weakness"
+   ]
+  },
+  {
+   "id": "L021",
+   "scene": "c2_slogger",
+   "speed": 1.0,
+   "pause": 0.8,
+   "text": "The Slogger. Aggression, ninety four out of a hundred. Anything full or short goes over the ropes.",
+   "emph": [
+    "Slogger",
+    "ninety four"
+   ]
+  },
+  {
+   "id": "L022",
+   "scene": "c2_slogger",
+   "speed": 1.0,
+   "pause": 1.4,
+   "text": "His weaknesses: the yorker on the stumps, and the slower ball he swings at too early.",
+   "emph": [
+    "yorker",
+    "slower ball"
+   ]
+  },
+  {
+   "id": "L023",
+   "scene": "c2_technician",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "The Technician is the opposite. Skill, ninety one. He leaves everything wide and blocks everything straight.",
+   "emph": [
+    "Technician",
+    "ninety one"
+   ]
+  },
+  {
+   "id": "L024",
+   "scene": "c2_technician",
+   "speed": 1.0,
+   "pause": 1.4,
+   "text": "One flaw. A good length ball on fourth stump that moves away late. That one, he edges.",
+   "emph": [
+    "moves away late",
+    "edges"
+   ]
+  },
+  {
+   "id": "L025",
+   "scene": "c2_tailender",
+   "speed": 1.0,
+   "pause": 1.6,
+   "text": "And the Tailender. Brave, not skilled. He hops around against the short ball, and a full, straight one can sneak through.",
+   "emph": [
+    "Tailender",
+    "sneak through"
+   ]
+  },
+  {
+   "id": "L026",
+   "scene": "c2_mind",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "None of them is a fixed target. Each one tracks what you've been bowling. Length, line, movement, pace.",
+   "emph": [
+    "fixed target"
+   ]
+  },
+  {
+   "id": "L027",
+   "scene": "c2_mind",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "Repeat yourself and their confidence climbs, and a confident batter is much harder to get out.",
+   "emph": [
+    "confidence climbs"
+   ]
+  },
+  {
+   "id": "L028",
+   "scene": "c2_mind",
+   "speed": 0.98,
+   "pause": 0.4,
+   "text": "Surprise them, and you're in the game. Real batters work the same way.",
+   "emph": [
+    "Surprise"
+   ]
+  },
+  {
+   "id": "L029",
+   "scene": "c2_mind",
+   "speed": 1.0,
+   "pause": 4.5,
+   "text": "And every over, each batter is varied a little, so the bowler never faces exactly the same player twice.",
+   "emph": [
+    "never"
+   ]
+  },
+  {
+   "id": "L030",
+   "scene": "c3_brain",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "The bowler is a neural network. Eighteen inputs: which batter, his confidence, the score in the over, and the last two balls.",
+   "emph": [
+    "Eighteen inputs"
+   ]
+  },
+  {
+   "id": "L031",
+   "scene": "c3_brain",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "Two layers of twenty four neurons. Four outputs. One thousand, one hundred and fifty six numbers in total.",
+   "emph": [
+    "Four outputs"
+   ]
+  },
+  {
+   "id": "L032",
+   "scene": "c3_brain",
+   "speed": 0.95,
+   "pause": 4.5,
+   "text": "No rules of cricket are written anywhere. Whatever it learns, it learns by playing.",
+   "emph": [
+    "by playing"
+   ]
+  },
+  {
+   "id": "L040",
+   "scene": "c4_evolve",
+   "speed": 0.95,
+   "pause": 0.3,
+   "text": "Instead of teaching it, I let it evolve.",
+   "emph": [
+    "evolve"
+   ]
+  },
+  {
+   "id": "L040b",
+   "scene": "c4_chaos",
+   "speed": 0.98,
+   "pause": 0.5,
+   "text": "Generation zero is chaos. Against the Slogger, random bowling goes for more than thirteen runs an over.",
+   "emph": [
+    "thirteen runs"
+   ]
+  },
+  {
+   "id": "L041",
+   "scene": "c4_swarm",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "A hundred and ninety two random brains each bowl forty eight overs.",
+   "emph": [
+    "ninety two"
+   ]
+  },
+  {
+   "id": "L042",
+   "scene": "c4_tree",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "The best eight go straight through. The rest of the next generation is bred from the winners, by mixing two parents and adding small mutations.",
+   "emph": [
+    "best eight",
+    "mutations"
+   ]
+  },
+  {
+   "id": "L043",
+   "scene": "c4_curve",
+   "speed": 0.95,
+   "pause": 2.6,
+   "text": "Repeat that fifteen hundred times, and you've bowled about eighty three million deliveries.",
+   "emph": [
+    "fifteen hundred",
+    "eighty three million"
+   ]
+  },
+  {
+   "id": "L044",
+   "scene": "c4_montage",
+   "speed": 1.0,
+   "pause": 1.6,
+   "text": "Watch a whole generation bowl at once. In generation one, the balls land everywhere. The lengths are spread across almost three metres.",
+   "emph": [
+    "everywhere"
+   ]
+  },
+  {
+   "id": "L045",
+   "scene": "c4_montage",
+   "speed": 0.98,
+   "pause": 1.6,
+   "text": "By generation fifty, they've found the stumps. By five hundred, the swarm is almost a single stream.",
+   "emph": [
+    "single stream"
+   ]
+  },
+  {
+   "id": "L046",
+   "scene": "c4_montage",
+   "speed": 1.0,
+   "pause": 2.4,
+   "text": "By the end, the spread of lengths has shrunk to about half a metre, and the spread of speeds from six kilometres an hour to one.",
+   "emph": [
+    "half a metre"
+   ]
+  },
+  {
+   "id": "L047",
+   "scene": "c4_family",
+   "speed": 0.98,
+   "pause": 4.5,
+   "text": "And every champion has a family tree. The final one was born in generation fourteen twenty five. Follow its parents back, generation by generation, and you reach a random brain at generation zero.",
+   "emph": [
+    "family tree",
+    "generation zero"
+   ]
+  },
+  {
+   "id": "L050",
+   "scene": "c5_rise",
+   "speed": 0.9,
+   "pause": 0.6,
+   "text": "Version one learned fast. Too fast.",
+   "emph": [
+    "Too fast"
+   ]
+  },
+  {
+   "id": "L051",
+   "scene": "c5_cheat",
+   "speed": 0.98,
+   "pause": 0.3,
+   "text": "When I watched what it was bowling, it was doing one thing. Bouncer. Yorker. Bouncer. Yorker.",
+   "emph": [
+    "Bouncer",
+    "Yorker"
+   ]
+  },
+  {
+   "id": "L052",
+   "scene": "c5_cheat",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "A hundred and fifteen kilometres an hour, then a hundred and fifty. Nothing in between.",
+   "emph": [
+    "Nothing in between"
+   ]
+  },
+  {
+   "id": "L053",
+   "scene": "c5_cheat2",
+   "speed": 1.0,
+   "pause": 0.6,
+   "text": "Half of all its balls were bouncers. Three an over, which is illegal in real cricket.",
+   "emph": [
+    "illegal"
+   ]
+  },
+  {
+   "id": "L054",
+   "scene": "c5_why",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "The reason was my batter model. My batters judged surprise only by how far a ball was from what they expected.",
+   "emph": [
+    "my batter model"
+   ]
+  },
+  {
+   "id": "L055",
+   "scene": "c5_why",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "So swinging between two extremes was always the most surprising thing it could do.",
+   "emph": [
+    "always"
+   ]
+  },
+  {
+   "id": "L056",
+   "scene": "c5_why",
+   "speed": 0.92,
+   "pause": 0.5,
+   "text": "The AI didn't learn cricket. It found a bug in my world, and farmed it.",
+   "emph": [
+    "bug",
+    "farmed"
+   ]
+  },
+  {
+   "id": "L057",
+   "scene": "c5_name",
+   "speed": 0.95,
+   "pause": 4.6,
+   "text": "This has a name in AI research. Reward hacking. You get exactly what you asked for, not what you meant.",
+   "emph": [
+    "Reward hacking"
+   ]
+  },
+  {
+   "id": "L060",
+   "scene": "c6_fix",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "So I fixed the world, not the bowler.",
+   "emph": [
+    "the world"
+   ]
+  },
+  {
+   "id": "L061",
+   "scene": "c6_pattern",
+   "speed": 1.0,
+   "pause": 2.2,
+   "text": "The batters now remember the last two balls and spot patterns. Run that bouncer yorker routine, and they've read it by the fourth ball.",
+   "emph": [
+    "fourth ball"
+   ]
+  },
+  {
+   "id": "L061b",
+   "scene": "c6_fade",
+   "speed": 1.0,
+   "pause": 0.4,
+   "text": "And a surprise only works once. A shock ball takes a wicket more than a quarter of the time on the first ball of an over. By the sixth, it's down to two percent.",
+   "emph": [
+    "only works once",
+    "two percent"
+   ]
+  },
+  {
+   "id": "L062",
+   "scene": "c6_laws",
+   "speed": 1.0,
+   "pause": 0.4,
+   "text": "Bouncers above the shoulder are capped at two an over, like the real laws.",
+   "emph": [
+    "two an over"
+   ]
+  },
+  {
+   "id": "L063",
+   "scene": "c6_reset",
+   "speed": 0.88,
+   "pause": 4.2,
+   "text": "Then I threw the old brains away, and started from nothing.",
+   "emph": [
+    "nothing"
+   ]
+  },
+  {
+   "id": "L070",
+   "scene": "c7_rise",
+   "speed": 0.92,
+   "pause": 0.9,
+   "text": "Fifteen hundred generations later, every ball lands where it means to. Now, the duel.",
+   "emph": [
+    "the duel"
+   ]
+  },
+  {
+   "id": "L071",
+   "scene": "c7_tech",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "First, the Technician. Good length, fourth stump. Blocked.",
+   "emph": [
+    "Technician"
+   ]
+  },
+  {
+   "id": "L072",
+   "scene": "c7_tech",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "Again. He's getting comfortable. His confidence is rising.",
+   "emph": [
+    "rising"
+   ]
+  },
+  {
+   "id": "L073",
+   "scene": "c7_tech",
+   "speed": 0.95,
+   "pause": 0.2,
+   "text": "Same length again. But this one moves late.",
+   "emph": [
+    "moves late"
+   ]
+  },
+  {
+   "id": "L074",
+   "scene": "c7_tech",
+   "speed": 0.9,
+   "pause": 3.6,
+   "text": "Edged. Caught behind.",
+   "emph": [
+    "Caught behind"
+   ]
+  },
+  {
+   "id": "L075",
+   "scene": "c7_slog",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "The Slogger is dangerous. Two dots, then he cuts loose. Four. Four. Four.",
+   "emph": [
+    "Four"
+   ]
+  },
+  {
+   "id": "L076",
+   "scene": "c7_slog",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "His confidence is the highest it's been all over. He's waiting for the full toss.",
+   "emph": [
+    "highest"
+   ]
+  },
+  {
+   "id": "L077",
+   "scene": "c7_slog",
+   "speed": 0.92,
+   "pause": 3.6,
+   "text": "The bowler doesn't give it to him. Full, straight, fast. Bowled.",
+   "emph": [
+    "Bowled"
+   ]
+  },
+  {
+   "id": "L078",
+   "scene": "c7_tail",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "Against the Tailender, the obvious plan is to bounce him. It doesn't. Full, straight, fast.",
+   "emph": [
+    "doesn't"
+   ]
+  },
+  {
+   "id": "L079",
+   "scene": "c7_tail",
+   "speed": 0.92,
+   "pause": 3.6,
+   "text": "Trapped in front. Out, L B W.",
+   "emph": [
+    "Trapped"
+   ]
+  },
+  {
+   "id": "L080",
+   "scene": "c7_stats",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "It isn't unbeatable. The Slogger still scores almost six an over.",
+   "emph": [
+    "unbeatable"
+   ]
+  },
+  {
+   "id": "L081",
+   "scene": "c7_stats",
+   "speed": 1.0,
+   "pause": 4.6,
+   "text": "But it takes a wicket nearly every other over against him, and gives the Technician barely one run an over.",
+   "emph": [
+    "every other over",
+    "one run"
+   ]
+  },
+  {
+   "id": "L090",
+   "scene": "c8_cam",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "Watch the brain cam. Every ball, you can see which inputs it's reading.",
+   "emph": [
+    "brain cam"
+   ]
+  },
+  {
+   "id": "L091",
+   "scene": "c8_map",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "The decision map shows how its plan shifts as the batter's confidence changes.",
+   "emph": [
+    "confidence"
+   ]
+  },
+  {
+   "id": "L092",
+   "scene": "c8_swing",
+   "speed": 0.98,
+   "pause": 4.0,
+   "text": "One habit it never outgrew. It always swings the ball away. Outswing is the classic fast bowler's weapon, so it's a good habit. But it's a habit, not a choice.",
+   "emph": [
+    "always",
+    "habit"
+   ]
+  },
+  {
+   "id": "L095",
+   "scene": "c9_expert",
+   "speed": 1.0,
+   "pause": 0.4,
+   "text": "Before training, I wrote an expert plan for each batter by hand, the way a coach would.",
+   "emph": [
+    "by hand"
+   ]
+  },
+  {
+   "id": "L096",
+   "scene": "c9_expert",
+   "speed": 1.0,
+   "pause": 0.4,
+   "text": "Against the Tailender, my plan used both legal bouncers, then yorkers. The AI threw the bouncers away completely, and still did better.",
+   "emph": [
+    "threw the bouncers away"
+   ]
+  },
+  {
+   "id": "L097",
+   "scene": "c9_expert",
+   "speed": 1.0,
+   "pause": 2.0,
+   "text": "And against the Technician, the single most dangerous ball is a yorker. But the AI bowls good length nearly three quarters of the time, because it plays the whole over, not one ball.",
+   "emph": [
+    "whole over"
+   ]
+  },
+  {
+   "id": "L100",
+   "scene": "c9_verdict",
+   "speed": 1.0,
+   "pause": 0.3,
+   "text": "So how good is it? Random bowling scores zero. A hand written expert plan, designed for each batter, scores one.",
+   "emph": [
+    "zero",
+    "one"
+   ]
+  },
+  {
+   "id": "L101",
+   "scene": "c9_verdict",
+   "speed": 0.98,
+   "pause": 0.3,
+   "text": "The final brain scores one point two five, one point one six, and one point one eight. It beats the expert against all three.",
+   "emph": [
+    "beats the expert"
+   ]
+  },
+  {
+   "id": "L102",
+   "scene": "c9_verdict",
+   "speed": 0.92,
+   "pause": 4.2,
+   "text": "The cheater, retested under the fair rules, scores around point six.",
+   "emph": [
+    "point six"
+   ]
+  },
+  {
+   "id": "L103",
+   "scene": "c10_limits",
+   "speed": 0.97,
+   "pause": 0.5,
+   "text": "It isn't real cricket. It's a simulation, and the batters are models I designed. The bowler can only be as clever as the world it lives in.",
+   "emph": [
+    "simulation"
+   ]
+  },
+  {
+   "id": "L104",
+   "scene": "c10_limits",
+   "speed": 0.97,
+   "pause": 0.4,
+   "text": "But that's also the exciting part. Give it a better world, with real batters and real data, and the same idea could find the plan against anyone.",
+   "emph": [
+    "anyone"
+   ]
+  },
+  {
+   "id": "L105",
+   "scene": "c10_next",
+   "speed": 0.9,
+   "pause": 2.0,
+   "text": "That's what I'm building next.",
+   "emph": [
+    "building next"
+   ]
+  },
+  {
+   "id": "L110",
+   "scene": "outro",
+   "speed": 0.86,
+   "pause": 0.5,
+   "text": "No coaching. No examples. Just a reward, a world that wouldn't let it cheat, and evolution.",
+   "emph": [
+    "evolution"
+   ]
+  },
+  {
+   "id": "L111",
+   "scene": "outro",
+   "speed": 0.84,
+   "pause": 3.5,
+   "text": "This is the machine that learned to bowl.",
+   "emph": [
+    "learned to bowl"
+   ]
+  }
+ ]
+}

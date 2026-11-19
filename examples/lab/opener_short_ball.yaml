@@ -1,0 +1,33 @@
+# A fictional aggressive opener (not a real player) used for demos and tests.
+name: Demo Opener
+description: Aggressive right-handed opener. Scores freely off anything full, hooks and pulls,
+  but gets in a tangle against the short ball at his body and nicks the good-length ball moving away.
+hand: right
+level: international
+style: aggressive
+starter: fast_starter
+defends_straight: solid
+leaves_outside_off: rarely
+power_shot: pull
+caught_in_field_playing: pull
+uncertainty: medium
+weaknesses:
+  - zone: {length: short, line: at_body, height: chest}
+    dismissal: caught_field
+    severity: high
+    evidence:
+      - {claim: "Top-edges hooks to fine leg when the ball follows him", kind: assumption}
+  - zone: {length: good, line: fourth_stump, movement: away}
+    dismissal: caught_behind
+    severity: medium
+    evidence:
+      - {claim: "Drives away from his body at good-length balls outside off", kind: assumption}
+strengths:
+  - zone: {length: full, line: stumps}
+    severity: high
+    evidence:
+      - {claim: "Hits straight and through mid-wicket off anything overpitched", kind: assumption}
+  - zone: {length: short, line: outside_off}
+    severity: medium
+    evidence:
+      - {claim: "Cuts and upper-cuts short wide balls", kind: assumption}

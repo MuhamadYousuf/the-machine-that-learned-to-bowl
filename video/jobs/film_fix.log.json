@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fix_9x16",
+    "out": "out/edit_review/fix_9x16/f.png",
+    "frames": 6466,
+    "seconds": 10.58
+  },
+  {
+    "id": "fix_16x9",
+    "out": "out/edit_review/fix_16x9/f.png",
+    "frames": 6466,
+    "seconds": 9.406
+  }
+]

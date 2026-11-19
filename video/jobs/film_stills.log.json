@@ -1,0 +1,14 @@
+[
+  {
+    "id": "film_9x16",
+    "out": "out/edit_review/9x16/f.png",
+    "frames": 6466,
+    "seconds": 60.712
+  },
+  {
+    "id": "film_16x9",
+    "out": "out/edit_review/16x9/f.png",
+    "frames": 6466,
+    "seconds": 41.52
+  }
+]

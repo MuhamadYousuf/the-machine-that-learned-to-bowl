@@ -1,0 +1,14 @@
+[
+  {
+    "id": "duel_slog",
+    "out": "out/edit_review/duel/s.png",
+    "frames": 1346,
+    "seconds": 9.073
+  },
+  {
+    "id": "duel_slog_l",
+    "out": "out/edit_review/duel/l.png",
+    "frames": 1346,
+    "seconds": 3.672
+  }
+]

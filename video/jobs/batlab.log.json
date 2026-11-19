@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bl_defend_batClose",
+    "out": "out/edit_review/batlab/defend_batClose.png",
+    "frames": 360,
+    "seconds": 17.371
+  },
+  {
+    "id": "bl_defend_batBowler",
+    "out": "out/edit_review/batlab/defend_batBowler.png",
+    "frames": 360,
+    "seconds": 15.8
+  },
+  {
+    "id": "bl_edge_batClose",
+    "out": "out/edit_review/batlab/edge_batClose.png",
+    "frames": 360,
+    "seconds": 15.841
+  },
+  {
+    "id": "bl_edge_batBowler",
+    "out": "out/edit_review/batlab/edge_batBowler.png",
+    "frames": 360,
+    "seconds": 15.3
+  },
+  {
+    "id": "bl_drive_batClose",
+    "out": "out/edit_review/batlab/drive_batClose.png",
+    "frames": 360,
+    "seconds": 15.228
+  },
+  {
+    "id": "bl_drive_batBowler",
+    "out": "out/edit_review/batlab/drive_batBowler.png",
+    "frames": 360,
+    "seconds": 16.632
+  },
+  {
+    "id": "bl_pull_batClose",
+    "out": "out/edit_review/batlab/pull_batClose.png",
+    "frames": 360,
+    "seconds": 15.5
+  },
+  {
+    "id": "bl_pull_batBowler",
+    "out": "out/edit_review/batlab/pull_batBowler.png",
+    "frames": 360,
+    "seconds": 15.118
+  },
+  {
+    "id": "bl_slog_batClose",
+    "out": "out/edit_review/batlab/slog_batClose.png",
+    "frames": 360,
+    "seconds": 16.668
+  },
+  {
+    "id": "bl_slog_batBowler",
+    "out": "out/edit_review/batlab/slog_batBowler.png",
+    "frames": 360,
+    "seconds": 15.661
+  },
+  {
+    "id": "bl_miss_batClose",
+    "out": "out/edit_review/batlab/miss_batClose.png",
+    "frames": 360,
+    "seconds": 15.077
+  },
+  {
+    "id": "bl_miss_batBowler",
+    "out": "out/edit_review/batlab/miss_batBowler.png",
+    "frames": 360,
+    "seconds": 16.672
+  }
+]

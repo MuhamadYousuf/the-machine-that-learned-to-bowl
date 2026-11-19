@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sw1",
+    "out": "out/stills/swarm/g1_bc.png",
+    "frames": 491,
+    "seconds": 5.257
+  },
+  {
+    "id": "sw1500",
+    "out": "out/stills/swarm/g1500_bc.png",
+    "frames": 480,
+    "seconds": 1.857
+  },
+  {
+    "id": "sw1v",
+    "out": "out/stills/swarm/g1_v.png",
+    "frames": 489,
+    "seconds": 1.665
+  },
+  {
+    "id": "sw1500v",
+    "out": "out/stills/swarm/g1500_v.png",
+    "frames": 483,
+    "seconds": 1.669
+  },
+  {
+    "id": "sw1o",
+    "out": "out/stills/swarm/g1_orbit.png",
+    "frames": 491,
+    "seconds": 2.632
+  }
+]
