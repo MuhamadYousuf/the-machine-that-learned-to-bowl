@@ -2,7 +2,7 @@
 
 **A fast bowler that taught itself to bowl by neuroevolution: 192 neural-network brains, 1,500 generations, about 83 million simulated deliveries, against three adaptive batters. Along the way it learned to cheat, and had to be beaten fairly.**
 
-> 🎬 **Watch the film (2:46):** *(link coming)* · 9:16 for Reels, 4:5 for LinkedIn
+> 🎬 **Watch the film (2:46):** [download from the v1.0 release](https://github.com/MuhamadYousuf/the-machine-that-learned-to-bowl/releases/tag/v1.0) · 9:16 and 4:5
 
 ![Six moments from the film](docs/images/reel_strip.jpg)
 
